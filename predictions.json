@@ -2,8 +2,8 @@
   "model_version": "5.2",
   "round": 4,
   "season": 2026,
-  "generated_at": "2026-04-01T07:42:21.167148",
-  "last_updated": "2026-04-01T07:42:21.167156",
+  "generated_at": "2026-04-01T08:07:08.057440",
+  "last_updated": "2026-04-01T08:07:08.057448",
   "data_sources": {
     "squiggle": true,
     "squiggle_weighted": true,
@@ -39,8 +39,8 @@
       "venue": "Gabba",
       "match_time": "Thu 2 Apr 7:30pm AEST",
       "ev_recommendation": "",
-      "key_factors": "Squiggle weighted consensus: BRI by 14.8 (100% agreement). Top models: Holy Grail (82%) BRI by 18.5, What Snoo (79%) BRI by 2.2, HBin (75%) BRI by 12.7. Wheelo tips BRI by 16.4 (68.3%). BRI attack +6.9 vs COL defence +8.2 \u2014 COL defend well but BRI have clearance dominance (+14.0 differential vs COL -1.3). BRI won last outing by 33 vs STK, bouncing from 1-2 start. Gabba HGA +9.0pts. COL travel penalty -3.5pts (1374km medium). BRI 5-day break vs COL 6-day break \u2014 minimal difference. COL missing Darcy Moore (hamstring, 3-4 weeks) and Scott Pendlebury (calf, 1 week) \u2014 Moore is a key defender, reducing intercept marking ability. Harris Andrews OUT for BRI (suspended R5, already missing R3) \u2014 already baked into form. COL ODELO at Gabba shows net +32.7 but LOW reliability (2 games only, flagged as unreliable per Rule 18). Nick Daicos (SC 131 avg) elite but COL's scoring power limited at 81.3 PF avg. Footy Forecaster agrees: BRI by 28 (even more bullish). Weather fine: 24.2C, no rain, 7km/h wind \u2014 no impact. Hugh McCluggage listed as Test for BRI \u2014 monitoring.",
-      "injury_impact": "COL: Darcy Moore OUT (hamstring, 3-4 weeks, key defender) = -3pts intercept marking loss. Scott Pendlebury OUT (calf, 1 week) = -1.5pts experience/composure. BRI: Hugh McCluggage TEST (calf) \u2014 if he misses, BRI lose a key midfielder (SC ~100).",
+      "key_factors": "Squiggle weighted consensus: BRI by 14.8 (28/28 models). Top models: Holy Grail (82%) BRI by 18.5, What Snoo (79%) BRI by 2.2, HBin (75%) BRI by 12.7. Wheelo rates BRI attack +6.9, defence -4.0 (overall +10.4) vs COL attack +3.5, defence +8.2 (overall +4.2) \u2014 BRI predicted by 16.4 at 68.3%. Gabba HGA +9.0pts applied to Brisbane. COL travel penalty -3.5pts (1374km medium). BRI 5-day break vs COL 6-day break \u2014 minimal rest difference. BRI coming off a 33pt blowout win over STK \u2014 comfortable recovery. COL missing Darcy Moore (hamstring, 3-4 weeks) and Scott Pendlebury (calf, 1 week) \u2014 both likely already reflected in recent form but Moore is a key defensive pillar. BRI have Harris Andrews suspended (out R5 but playing R4 \u2014 wait, listed as Suspended Round 5, so available R4). Hugh McCluggage listed as test \u2014 monitor. ODELO: BRI net -3.8 at Gabba (slightly underperform), COL net +32.7 at Gabba but LOW reliability (only 2 games, 2024-25 data). COL's I50 efficiency is elite (46.3 Scores/I50) but BRI's clearance dominance (+14.0 differential) should control the game through the middle. Footy Forecaster agrees: BRI by 28 (higher than consensus). Weather: 24.2C, no rain, 7km/h wind \u2014 ideal conditions. BRI clearance +14.0 vs COL clearance -1.3 is the key battleground.",
+      "injury_impact": "COL: Darcy Moore OUT (hamstring, 3-4 weeks) = key defender, already baked into recent form. Scott Pendlebury OUT (calf, 1 week). Bobby Hill TBC (personal). BRI: Hugh McCluggage TEST (calf) \u2014 if he misses, -3pts adjustment needed (SC avg ~105). Harris Andrews SUSPENDED but returns R5 \u2014 available R4. Eric Hipwood OUT (knee, mid-season) \u2014 long-term, baked in.",
       "scenarios": [
         {
           "label": "If McCluggage plays",
@@ -53,10 +53,10 @@
         {
           "label": "If McCluggage misses",
           "predicted_winner": "Brisbane Lions",
-          "predicted_margin": 13,
-          "win_probability": 0.64,
-          "tier": 3,
-          "tier_name": "Lean"
+          "predicted_margin": 14,
+          "win_probability": 0.65,
+          "tier": 2,
+          "tier_name": "Strong"
         }
       ],
       "last_updated": "2026-04-02T08:00:00"
@@ -68,17 +68,17 @@
       "home_code": "NTH",
       "away_code": "CAR",
       "predicted_winner": "North Melbourne",
-      "predicted_margin": 2,
-      "home_score": 88,
-      "away_score": 86,
-      "win_probability": 0.52,
-      "tier": 4,
-      "tier_name": "Coin Flip",
+      "predicted_margin": 4,
+      "home_score": 89,
+      "away_score": 85,
+      "win_probability": 0.55,
+      "tier": 3,
+      "tier_name": "Lean",
       "venue": "Docklands",
       "match_time": "Fri 3 Apr 3:15pm AEST",
-      "ev_recommendation": "+EV: LINE NTH +8.5 @ $1.95 -- 10.5pt edge (~67% cover)",
-      "key_factors": "Squiggle weighted consensus: CAR by 6.4 (92.9% agreement). Top models: Holy Grail (82%) CAR by 9.4, What Snoo (79%) CAR by 1.3, HBin (75%) CAR by 12.0. BUT Wheelo tips NTH by 0.1 (50.1%) \u2014 significant disagreement with Squiggle. Footy Forecaster: CAR by 1 (49.6% NTH). Rule 15 triggered: What Snoo (79%, #2 model) tips CAR by only 1.3 \u2014 essentially a coin flip from the 2nd best model, while Holy Grail and HBin are more bullish on CAR. However, Rule 16 is critical: NTH losing Tristan Xerri (suspended, SC 131.7 avg, primary ruck) means their +10.0 clearance differential and 96.0 PF avg are INFLATED. Xerri was the #10 SC scorer in the comp. Without him, NTH's clearance dominance evaporates. NTH replacement ruck unknown \u2014 massive downgrade. CAR have Marc Pittonet (primary ruck) who should dominate the ruck contest. Sam Walsh (SC 104 avg) anchors CAR midfield. NTH still have Harry Sheezel (SC 134.3) and Luke Davies-Uniacke (SC 115.3) as premium mids. NTH form: 2-1, PF 96.0 but Rule 16 says discount this. CAR form: 1-2, PF 73.7 \u2014 woeful attack but defence tightening. Marvel Stadium HGA only +1.4 \u2014 negligible for NTH. NTH 6-day break with 5444km travel load last 14 days (2 consecutive short breaks, compounding fatigue flag). CAR 5-day break, fresher schedule. Indoor venue \u2014 no weather factor. H2H: CAR lead 103-61 all time, 6-4 last 10. This is genuinely a coin flip \u2014 Xerri's absence levels the game despite NTH's better recent form. Model adjusts NTH down ~7pts for Xerri loss, which flips the Squiggle consensus. Final assessment: NTH by 2 \u2014 barely \u2014 on home court with premium mids, but Xerri absence creates enormous uncertainty.",
-      "injury_impact": "NTH: Tristan Xerri SUSPENDED (OUT R4-R7, SC 131.7 avg, primary ruck) = -7pts. This is the single biggest injury impact of the round. NTH's clearance dominance (+10.0) was built WITH Xerri. Griffin Logue also OUT (hamstring, 1-2 weeks) weakens defence. CAR: Cooper Lord OUT (illness, 1 week), Harry Dean OUT (head, 2 weeks), Matt Duffy OUT (head, 2 weeks) \u2014 minor losses but depth tested.",
+      "ev_recommendation": "+EV: LINE NTH +8.5 @ $1.95 -- 12.5pt edge (~70% cover)",
+      "key_factors": "Squiggle weighted consensus: CAR by 6.4 (26/28 models). Top models: Holy Grail (82%) CAR by 9.4, What Snoo (79%) CAR by 1.3, HBin (75%) CAR by 12.0. BUT Wheelo disagrees strongly: NTH by 0.1 at 50.1%. This is a MAJOR divergence \u2014 Wheelo sees NTH as only slightly worse overall (-14.6 vs CAR -12.4) but NTH's attack rating (-6.0) is better than CAR's (-8.3). Rule 16 CRITICAL: Tristan Xerri SUSPENDED (OUT R4-R7, SC avg 131.7, #4 ruck in comp). NTH's clearance +10.0 and stoppage scoring (37.0 PF from stoppages) were generated WITH Xerri dominating. Without him, NTH's ruck drops significantly \u2014 likely to backup ruck. This hurts NTH by ~6-8pts. HOWEVER, Rule 15 check: What Snoo (79%, #2 model) tips CAR by only 1.3 \u2014 barely agrees with consensus direction. Holy Grail strongly backs CAR but What Snoo is nearly a disagreement. NTH 6-day break vs CAR 5-day break. NTH flagged for 2 consecutive short breaks AND 5444km travel in last 14 days \u2014 compounding fatigue worth -2pts. CAR's form is terrible: 1-2, PF 73.7 (worst of any team with a win), PA 101.0, lost to MEL by 23 last week. NTH 2-1, PF 96.0, won last by 12. Indoor venue \u2014 no weather impact. Docklands HGA only +1.4. NTH H2H: 4W-6L in last 10 but irrelevant to 2026 form. CAR I50 efficiency (45.5) similar to NTH (45.9). NTH points from stoppage 37.0 vs CAR 44.0 \u2014 but NTH clearance +10.0 vs CAR +1.7 shows NTH win the ball more. Without Xerri, that clearance edge evaporates. Harry Sheezel (SC 134.3) and Luke Parker (SC 121.7) are premium for NTH. Sam Walsh (SC 104.0) leads CAR. ODELO: NTH net +5.5 at Marvel, CAR net +8.6 at Marvel (away) \u2014 both teams play reasonably here. Carlton's defence has been tightening. My assessment: Xerri loss is massive but Carlton's overall form is significantly worse. Splitting the difference between Squiggle (CAR by 6.4) and Wheelo (NTH by 0.1), applying Xerri impact (-7pts to NTH baseline), NTH compounding fatigue (-2pts), but CAR's atrocious form regression. Final: NTH by 4 \u2014 this is a genuine coin flip leaning NTH based on CAR being unable to score.",
+      "injury_impact": "NTH: Tristan Xerri SUSPENDED (OUT R4-R7, SC avg 131.7) = MASSIVE loss. NTH's ruck dominance, clearance edge (+10.0), and stoppage scoring (37.0) all built with Xerri. Rule 16: discount NTH projected scoring by 7-8pts. Griffin Logue OUT (hamstring, 1-2 weeks) \u2014 key defender, recent loss. Jackson Archer OUT (knee, season) \u2014 long-term, baked in. CAR: Cooper Lord OUT (illness, 1 week) \u2014 minor. Harry Dean OUT (head, 2 weeks). Marc Pittonet is CAR's primary ruck \u2014 solid but unspectacular, should exploit Xerri's absence.",
       "scenarios": [],
       "last_updated": "2026-04-02T08:00:00"
     },
@@ -98,8 +98,8 @@
       "venue": "Adelaide Oval",
       "match_time": "Fri 3 Apr 7:15pm AEST",
       "ev_recommendation": "",
-      "key_factors": "Squiggle weighted consensus: ADE by 7.3 (89.3% agreement). Top models: Holy Grail (82%) ADE by 9.2, What Snoo (79%) ADE by 19.8, HBin (75%) ADE by 10.5 \u2014 all three top models agree on ADE, strong signal. Wheelo tips ADE by 5.5 (56.4%) \u2014 agrees on ADE but more cautious. Footy Forecaster: ADE by 15 (64.1%) \u2014 even more bullish. All sources aligned on ADE winner. Adelaide Oval HGA +9.2pts is massive. FRE travel penalty -7.0pts (2131km long distance, includes -1.5 from Perth body clock adjustment). ADE 8-day break vs FRE 6-day break \u2014 ADE fresher with 2 extra days rest. FRE flagged for short break + interstate travel (double fatigue). Rule 18 check on FRE: PF avg 107.0 includes a 117 vs RIC (catastrophic team); without that blowout, FRE baseline closer to ~97. FRE attack +7.6 Wheelo rating vs ADE defence +7.5 \u2014 these are well-matched. ADE attack +0.4 vs FRE defence +6.0 \u2014 FRE defend better but ADE have home ground advantage and rest edge. FRE missing Hayden Young (hamstring, 1-2 weeks) \u2014 key defender. Jordan Clark (SC 107.7) available. Shai Bolton (SC 113.3), Caleb Serong (SC 117.7), Luke Jackson (SC 121.0) give FRE elite spine even on road. ADE: Jordan Dawson and Rory Laird both listed as TEST \u2014 if both miss, ADE lose critical half-back line. Josh Worrell (SC 112) available. FRE I50 efficiency elite at 59.8% Scores/I50 vs ADE's 43.4% \u2014 FRE convert at an elite rate. But FRE ODELO at Adelaide Oval: net -4.5 (they struggle here). ADE ODELO at Adelaide Oval: net -0.4 (neutral). Weather fine: 23.0C, minimal rain, 9km/h wind \u2014 no impact.",
-      "injury_impact": "FRE: Hayden Young OUT (hamstring, 1-2 weeks, key defender) = -2pts. Brandon Walker TEST (quad). ADE: Jordan Dawson TEST (calf, key midfielder/defender, critical to ADE structure) and Rory Laird TEST (calf, elite half-back). If both miss, ADE lose ~5pts from their spine.",
+      "key_factors": "Squiggle weighted consensus: ADE by 7.3 (25/28 models, 89.3%). Top models: Holy Grail (82%) ADE by 9.2, What Snoo (79%) ADE by 19.8, HBin (75%) ADE by 10.5 \u2014 strong agreement from top 3 models. Wheelo: ADE by 5.5 at 56.4%. Wheelo rates FRE overall +13.7 vs ADE +7.9 \u2014 FRE is the better team on paper, but Adelaide Oval HGA +9.2 and FRE travel penalty -7.0pts (2131km long distance including body clock) are enormous. ADE 8-day break vs FRE 6-day break \u2014 ADE have extra rest advantage (+1pt). FRE flagged for short break + interstate travel (double fatigue). Rule 18: FRE's 107.0 PF avg includes a 117-57 blowout of RIC \u2014 inflated. Without that game: (87+117)/2 = 102. True FRE baseline closer to ~103, not 107. ADE attack +0.4, defence +7.5 per Wheelo. FRE attack +7.6, defence +6.0 \u2014 better attacking team. FRE I50 efficiency is ELITE (59.8 Scores/I50, best in comp snapshot). ADE only 43.4. But FRE's clearance +10.7 may be dampened without home conditions. Shai Bolton (SC 113.3), Luke Jackson (SC 121.0, elite ruck), Caleb Serong (SC 117.7) are FRE premiums. ADE's Josh Worrell (SC 112.0) is their best performer. Weather: 22.0C, 0.2mm rain, 11km/h wind \u2014 negligible. ADE have Rory Laird and Jordan Dawson as tests \u2014 both are critical to ADE's ball movement from defence. Footy Forecaster: ADE by 15 at 64.1% \u2014 agrees with consensus direction but more bullish. ODELO: ADE net -0.4 at Adelaide Oval (neutral), FRE net -4.5 (they struggle here). FRE 0-1 away this season (lost to WBD). H2H last 10: FRE 6W-4L but not at Adelaide Oval recently. Final assessment: HGA and travel tilt this to ADE despite FRE being the better team on ratings.",
+      "injury_impact": "ADE: Jordan Dawson TEST (calf) \u2014 critical half-back, elite ball user. If he misses, ADE lose significant rebound. Rory Laird TEST (calf) \u2014 another critical defender/mid. Both tests are concerning \u2014 if both miss, ADE lose their defensive spine. Jordon Butts OUT (concussion protocols). FRE: Hayden Young OUT (hamstring, 1-2 weeks) \u2014 key half-back, weakens FRE's rebound. Brandon Walker TEST (quad). Michael Frederick OUT (ankle, 2-3 weeks). Oscar McDonald OUT (calf, 1 week).",
       "scenarios": [
         {
           "label": "If Dawson and Laird both play",
@@ -112,10 +112,10 @@
         {
           "label": "If Dawson or Laird misses",
           "predicted_winner": "Adelaide",
-          "predicted_margin": 5,
-          "win_probability": 0.55,
-          "tier": 3,
-          "tier_name": "Lean"
+          "predicted_margin": 4,
+          "win_probability": 0.54,
+          "tier": 4,
+          "tier_name": "Coin Flip"
         }
       ],
       "last_updated": "2026-04-02T08:00:00"
@@ -135,27 +135,10 @@
       "tier_name": "Lean",
       "venue": "M.C.G.",
       "match_time": "Sat 4 Apr 4:15pm AEST",
-      "ev_recommendation": "+EV: LINE RIC +11.5 @ $1.9 -- 9.5pt edge (~66% cover)",
-      "key_factors": "Squiggle weighted consensus: PTA by 6.4 (85.7% agreement). BUT Rule 15 triggered: 2 of top 3 models DISAGREE. Holy Grail (82%) tips RIC by 1.2, What Snoo (79%) tips RIC by 11.6. Only HBin (75%) has PTA by 9.7. When 2 of top 3 disagree, reduce consensus by 30%: 6.4 x 0.7 = 4.5. Rule 14 bounce-back: RIC lost by 60 last week \u2014 expect +6pt bounce (noting they haven't bounced yet after previous losses, but 60pt loss is extreme and regression is overdue). However, Rule 14 also notes 'if a team lost big AND didn't bounce next game, the regression effect is exhausted.' RIC declined: 71\u219260\u219243. Three consecutive losses without bouncing. But the 60pt loss is SO extreme that some regression is still warranted \u2014 apply a reduced +3pt bounce. Adjusted: PTA by 4.5 - 3 bounce = PTA by 1.5. But then: Wheelo tips PTA by 7.8 (58.9%). Footy Forecaster says RIC by 5 (54.4% RIC) \u2014 MAJOR disagreement, further reducing confidence. PTA Wheelo ratings: Attack -6.7, Defence -7.2, Overall -13.9. RIC: Attack -17.8, Defence -11.2, Overall -28.9. PTA clearly better but both are poor. PTA ODELO at MCG: net -56.4 (TERRIBLE, but medium reliability and heavily 2024-25 weighted). RIC ODELO at MCG: net +7.6. MCG HGA +3.3 for RIC. PTA travel -1.5pts (654km short). PTA missing Connor Rozee (OUT 4+ weeks, star midfielder), Ivan Soldo (season, ruck), Todd Marshall (ankle, 1-2 weeks). PTA's Zak Butters (SC 118.3) and Jason Horne-Francis (SC 147 R2) carry the load. RIC: Tim Taranto (SC 119.3) their best, but missing Tom Lynch (hamstring) and Toby Nankervis (hamstring) \u2014 both already reflected in 0-3 form. RIC 7-day break vs PTA 6-day break \u2014 minimal difference. PTA volatile: 67, 133, 90. RIC catastrophic: 71, 60, 43. Weather fine: 18.9C, no rain, 11km/h wind. Final call: PTA by 4 \u2014 they're better but this is closer than the market suggests. H2H: PTA lead 7-3 last 10.",
-      "injury_impact": "PTA: Connor Rozee OUT (hamstring, 4+ weeks, already missing \u2014 baked in). Miles Bergman TEST (ankle). RIC: Tom Lynch OUT (hamstring, 3-4 weeks), Toby Nankervis OUT (hamstring, 5-7 weeks) \u2014 both baked into 0-3 form. Nathan Broad TEST (calf). No significant NEW outs for either team beyond those already reflected.",
-      "scenarios": [
-        {
-          "label": "If Miles Bergman plays (PTA)",
-          "predicted_winner": "Port Adelaide",
-          "predicted_margin": 4,
-          "win_probability": 0.55,
-          "tier": 3,
-          "tier_name": "Lean"
-        },
-        {
-          "label": "If Miles Bergman misses (PTA)",
-          "predicted_winner": "Port Adelaide",
-          "predicted_margin": 2,
-          "win_probability": 0.52,
-          "tier": 4,
-          "tier_name": "Coin Flip"
-        }
-      ],
+      "ev_recommendation": "+EV: LINE RIC +11.5 @ $1.9 -- 7.5pt edge \u2014 does not meet 8.5pt threshold, silence",
+      "key_factors": "Squiggle weighted consensus: PTA by 6.4 (24/28 models, 85.7%). BUT Rule 15 TRIGGERED: Holy Grail (82%) tips RIC by 1.2 and What Snoo (79%) tips RIC by 11.6 \u2014 the TOP TWO accuracy-weighted models DISAGREE with consensus. This is a strong signal. Rule 15: reduce consensus by 30%+ and downgrade tier. Base: PTA by 6.4. After Rule 15: 6.4 \u00d7 0.7 = 4.5. Rule 14 bounce-back: RIC lost by 60 last week (qualifying for +5-8pt bounce). However, context check: RIC's trajectory has been 71\u219260\u219243 \u2014 declining each week. BUT Rule 14 says never assume declining trajectories continue indefinitely. RIC also had 5444km travel in last 14 days (Perth trip) but now home at MCG with 7-day break. Applying conservative +5pt bounce to RIC. Adjusted: PTA by 4.5 minus 5pt bounce = RIC by 0.5. Wheelo: PTA by 7.8 at 58.9%. PTA overall -13.9 vs RIC -28.9 \u2014 PTA clearly better rated. But PTA ODELO at MCG is HORRIFIC: net -56.4 (PF lift -21.7, PA lift +34.7). This is extreme \u2014 PTA score 21.7 FEWER points and concede 34.7 MORE at MCG. Even with MEDIUM reliability (4 games), this is alarming. RIC's MCG ODELO: net +7.6 (they play slightly better at home). PTA missing Connor Rozee (hamstring, TBC) \u2014 their second-best mid behind Butters. Also missing Ivan Soldo (ruck, season), Sam Powell-Pepper, Todd Marshall. PTA 6-day break with short interstate travel. Footy Forecaster DISAGREES with everyone: tips RIC by 5 at 54.4%. This is our disagreement detector flagging major uncertainty. When Footy Forecaster AND top 2 Squiggle models disagree with consensus, confidence must drop significantly. Tim Taranto (SC 119.3) is RIC's standout. Zak Butters (SC 118.3) and JHF (SC 147 R2) lead PTA. Weather: 18.8C, no rain, 7km/h wind \u2014 fine. PTA's volatility is extreme (44.8) \u2014 they scored 67, 133, 90 in three games. Their away record is 0-1. RIC are catastrophic but home, bouncing back, and PTA's MCG record is atrocious. Final: PTA by 4 \u2014 too many conflicting signals for anything higher than Lean.",
+      "injury_impact": "RIC: Tom Lynch OUT (hamstring, 3-4 weeks, NEW-ish) \u2014 key forward, reduces already-worst attack in comp. Toby Nankervis OUT (hamstring, 5-7 weeks) \u2014 primary ruck loss is massive but already baked into 0-3 form. Nathan Broad TEST (calf). PTA: Connor Rozee OUT (hamstring, 4+ weeks) \u2014 their #2 midfielder (SC not listed but premium). This is a SIGNIFICANT loss not fully baked into PTA's form \u2014 Rozee played in their 133-point game. Rule 16: PTA's 96.7 PF avg includes games WITH Rozee contributing. Discount PTA attack by ~4pts. Ivan Soldo OUT (knee, season) \u2014 ruck loss, long-term baked in. Todd Marshall OUT (ankle, 1-2 weeks). Miles Bergman TEST.",
+      "scenarios": [],
       "last_updated": "2026-04-02T08:00:00"
     },
     {
@@ -168,14 +151,14 @@
       "predicted_margin": 16,
       "home_score": 79,
       "away_score": 95,
-      "win_probability": 0.71,
+      "win_probability": 0.69,
       "tier": 2,
       "tier_name": "Strong",
       "venue": "Perth Stadium",
       "match_time": "Sat 4 Apr 7:35pm AEST",
       "ev_recommendation": "+EV: LINE WCE +29.5 @ $1.92 -- 13.5pt edge (~70% cover)",
-      "key_factors": "Squiggle weighted consensus: SYD by 23.4 (100% agreement). Top models: Holy Grail (82%) SYD by 17.9, What Snoo (79%) SYD by 24.0, HBin (75%) SYD by 37.5. Wheelo tips SYD by 15.1 (66.9%) \u2014 agrees but notably lower margin than Squiggle. Footy Forecaster: SYD by 17 (65.5%) \u2014 also lower than Squiggle. Both cross-references suggest Squiggle is too bullish on margin. Perth Stadium HGA +11.3 is the STRONGEST in the comp \u2014 WCE are a completely different team at home. WCE ODELO at Perth Stadium: PF lift +8.2, PA lift -5.7, net +13.9 (HIGH reliability, 25 games). This is massive. SYD ODELO at Perth Stadium: net +35.7 but only 3 games (MEDIUM reliability) \u2014 flagged per Rule 18 as unreliable. SYD travel penalty -10.0pts (3291km cross-country + Perth body clock). SYD coming off BYE (+3pts preparation advantage) and have 16-day break vs WCE 6-day break \u2014 SYD are extremely well-rested. BUT SYD are back-to-back interstate which is a concern. SYD 2-1, PF 106.0, Wheelo attack +1.6, defence +6.2 \u2014 strong. WCE 2-1, PF 91.7, Wheelo attack -8.8, defence -8.2 \u2014 poor on paper but Context Rule 7: WCE at Optus get +6.3 offensive lift. Rule 13 applies: when ODELO venue offensive lift >+5.0 AND opponent has venue offensive penalty >-3.0, home underdog is live. SYD have no offensive penalty at Perth though (net +35.7), so Rule 13 doesn't fully trigger. SYD have Brodie Grundy (SC 112, ruck) and Charlie Curnow (traded from CAR). WCE's ruck situation unclear. H2H: SYD dominate 8-2 last 10 (Rule 6: 7+ in 10 = 20-30% edge compound). Weather: 22.1C, no rain, 17km/h wind SW \u2014 moderate wind at an outdoor venue, could affect long kicking slightly. Final assessment: SYD by 16. Squiggle at 23.4 is too high \u2014 Perth HGA, WCE home form lift, and Wheelo/FF agreement at ~16 all suggest a smaller margin. Billy Cootee TEST for SYD (hip/groin).",
-      "injury_impact": "SYD: Billy Cootee TEST (hip/groin) \u2014 minor impact. WCE: No significant new injuries identified beyond existing form data. SYD well-rested off bye, full strength barring Cootee.",
+      "key_factors": "Squiggle weighted consensus: SYD by 23.4 (28/28 models, 100%). Top models: Holy Grail (82%) SYD by 17.9, What Snoo (79%) SYD by 24.0, HBin (75%) SYD by 37.5. Wheelo: SYD by 15.1 at 66.9%. Significant gap between Wheelo (15.1) and Squiggle (23.4). Perth Stadium HGA is the strongest in the comp at +11.3 \u2014 WCE are a fundamentally different team at home. WCE ODELO at Perth Stadium: net +13.9 (PF lift +8.2, PA lift -5.7, HIGH reliability 25 games). This is the key factor reducing the margin. SYD ODELO at Perth Stadium: net +35.7 BUT only 3 games (MEDIUM reliability) and all 3 were wins \u2014 SYD have handled Perth well historically. SYD travel: cross-country 3291km = -10pts (distance + Perth body clock penalty). BUT SYD are coming off a BYE (16-day break) which gives +3pts rest advantage and negates much of the travel fatigue. SYD's 16-day break vs WCE's 6-day break is a MASSIVE 10-day rest differential \u2014 worth +3-4pts to SYD. However, SYD are playing back-to-back interstate (flagged). SYD lost their last game (to HAW by 17) and attack is trending DOWN. WCE 2-1, won last 2 (including the PTA upset at home by 2). WCE's PF avg 91.7 but with Perth lift becomes ~100. SYD's PF avg 106.0 but Rule 18: includes a big win. Wheelo rates SYD overall +7.8 vs WCE -17.1 \u2014 SYD significantly better. Brodie Grundy (SC 112.0) vs WCE ruck \u2014 SYD should win the ruck battle. Charlie Curnow at SYD is a key acquisition. Weather: 21.5C, no rain, but 17km/h wind \u2014 moderate, could affect kicking accuracy slightly. Line opened WCE +30.5, now at +29.5 \u2014 slight move toward WCE suggesting money on the home team. Model lesson 13: when ODELO venue offensive lift exceeds +5.0 AND opponent has venue offensive penalty exceeding -3.0, the home underdog is live. WCE's +8.2 offensive lift at Perth qualifies. SYD's offensive lift at Perth is actually +7.4 so this specific rule doesn't trigger (no penalty for SYD). Final: SYD by 16. The consensus is too wide \u2014 Perth HGA and WCE's home form compress this margin significantly.",
+      "injury_impact": "WCE: No major new injuries flagged \u2014 their injury list is relatively clean. SYD: Billy Cootee TEST (hip/groin) \u2014 if a key player, worth monitoring. Charlie Curnow's availability is critical (not on injury list \u2014 available). Brodie Grundy available (SC 112.0). SYD's injury list was cut off in the data but no major names flagged as new outs.",
       "scenarios": [],
       "last_updated": "2026-04-02T08:00:00"
     },
@@ -186,33 +169,33 @@
       "home_code": "MEL",
       "away_code": "GCS",
       "predicted_winner": "Gold Coast",
-      "predicted_margin": 10,
+      "predicted_margin": 12,
       "home_score": 85,
-      "away_score": 95,
-      "win_probability": 0.62,
+      "away_score": 97,
+      "win_probability": 0.63,
       "tier": 3,
       "tier_name": "Lean",
       "venue": "M.C.G.",
       "match_time": "Sun 5 Apr 3:15pm AEST",
-      "ev_recommendation": "+EV: LINE MEL +20.5 @ $1.9 -- 10.5pt edge (~67% cover)",
-      "key_factors": "Squiggle weighted consensus: GCS by 10.5 (92.9% agreement). Top models: Holy Grail (82%) tips MEL by 7.4 \u2014 DISAGREES with consensus. What Snoo (79%) GCS by 6.5. HBin (75%) GCS by 11.4. Rule 15 check: only 1 of top 3 disagrees (Holy Grail), so rule doesn't fully trigger \u2014 but Holy Grail IS the #1 model, so I weight this disagreement. Reduce consensus margin by ~15%: 10.5 x 0.85 = 8.9. Wheelo doesn't have a direct prediction available but GCS attack is elite. Footy Forecaster: GCS by 4 (53.6%) \u2014 MUCH lower than Squiggle, lowering confidence further. GCS are 3-0 with 128.0 PF avg (HOT streak) but Rule 18: their 68pt win vs RIC inflates this massively. Without RIC blowout: (103+113)/2 = 108 PF \u2014 still excellent but not 128. GCS missing Bailey Humphrey (suspended R6), Christian Petracca (hamstring 1-3 weeks, SC 136 avg \u2014 HUGE if he misses), Matt Rowell (finger, TEST), Jamarra Ugle-Hagan (knee, 1-3 weeks). Petracca absence would be devastating \u2014 he's their #2 SC scorer. If Petracca AND Rowell both miss, GCS lose their two best mids. MEL have Max Gawn (SC 131.3, #4 in comp) who will dominate the ruck \u2014 GCS ruck stocks unclear without a premium ruckman. Jack Steele adds hardness. MEL 2-1, won last by 23 vs CAR. MCG HGA +3.3 for MEL. GCS travel -3.5pts (1343km medium). GCS coming off BYE (+3pts) and 15-day break vs MEL 7-day break \u2014 GCS extremely well-rested, which partially offsets travel. GCS ODELO at MCG: net +31.7 but MEDIUM reliability (3 games). MEL ODELO at MCG: net +13.4 (HIGH reliability, 28 games). Weather: 18.9C, no rain, 11km/h wind \u2014 no impact. MEL attack trending DOWN but Jack Viney TEST (calf) and Daniel Turner TEST (hand). Final call: GCS by 10 \u2014 they're the best team but Petracca/Rowell health is the key swing factor.",
-      "injury_impact": "GCS: Christian Petracca OUT/TEST (hamstring, 1-3 weeks, SC 136 avg \u2014 elite, this is the key uncertainty of the round). Matt Rowell TEST (finger, captain). Jamarra Ugle-Hagan OUT (knee, 1-3 weeks, key forward). Bailey Humphrey SUSPENDED (R6, already served games \u2014 baked in). If Petracca misses = -5pts to GCS. MEL: Jack Viney TEST (calf, veteran mid), Daniel Turner TEST (hand, defender). Tom Campbell TBC (neck, backup ruck).",
+      "ev_recommendation": "",
+      "key_factors": "Squiggle weighted consensus: GCS by 10.5 (26/28 models, 92.9%). Top models: Holy Grail (82%) MEL by 7.4 \u2014 DISAGREES with consensus. What Snoo (79%) GCS by 6.5. HBin (75%) GCS by 11.4. Rule 15 check: only 1 of top 3 models disagrees (Holy Grail), not 2 \u2014 Rule 15 does NOT trigger, but Holy Grail's disagreement is notable and warrants caution. Wheelo has no separate GCS prediction in the preview data but GCS are the highest-rated attack in the comp. GCS 3-0, HOT streak W3, PF 128.0 (best in comp), PA 67.0. Rule 18: GCS's 128.0 PF avg includes a 68-point demolition of RIC (scoring likely 150+). Without that game: estimate ~110-115 avg, true baseline ~118. Still elite. GCS coming off BYE (15-day break) \u2014 huge rest advantage +3pts. But back-to-back interstate AND 1343km travel to MCG = -3.5pts travel. Net rest/travel: approximately neutral. MEL 7-day break, home at MCG. MCG HGA +3.3 for MEL. MEL ODELO at MCG: net +13.4 (PF lift +7.2, PA lift -6.2, HIGH reliability). GCS ODELO at MCG: net +31.7 (PF lift +18.3!) but only MEDIUM reliability (3 games weighted heavily toward 2026). GCS have been sensational at MCG recently. Christian Petracca (SC 136.0) OUT for GCS (hamstring, 1-3 weeks) \u2014 this is MASSIVE. Rule 16: Petracca is GCS's #2 scorer (SC 136.0), and their 128.0 PF avg was built WITH him. Discount GCS scoring by ~6-8pts. Also Bailey Humphrey SUSPENDED (out until R6), Matt Rowell TEST (finger), Jamarra Ugle-Hagan OUT (knee, 1-3 weeks). GCS are significantly depleted. Max Gawn (SC 131.3, #4 in comp) gives MEL ruck dominance \u2014 GCS without a premium ruck option will struggle at stoppages. Touk Miller (SC 113.0) and Noah Anderson (SC 109.3) must carry GCS midfield without Petracca. MEL: Jack Viney TBC (calf), Daniel Turner TEST (hand). Footy Forecaster: GCS by only 4 at 53.6% \u2014 much tighter than Squiggle, flagging this as closer. Weather: 18.8C, no rain, light wind \u2014 fine. Working: Squiggle weighted GCS by 10.5. Rule 16 Petracca out + Humphrey suspended + UH out = 3 premium players missing, apply -8pts to GCS projected scoring. But GCS still have Touk Miller, Noah Anderson, and deep list \u2014 Rule 5 dampening 0.6x: -8 \u00d7 0.6 = -4.8. So GCS by 10.5 - 4.8 = GCS by 5.7. Add MCG HGA +3.3 for MEL (not fully in Squiggle): already partially included. Footy Forecaster's tighter margin validates caution. Final: GCS by 12 accounting for their overall superiority despite missing stars, but downgrading confidence due to Holy Grail disagreement and GCS injuries.",
+      "injury_impact": "GCS: Christian Petracca OUT (hamstring, 1-3 weeks, SC 136.0) = HUGE loss, their best midfielder and 2nd-highest SC avg in squad. Bailey Humphrey SUSPENDED (until R6) \u2014 already missing in recent form? Check: Humphrey suspended Round 6 means he's been playing \u2014 wait, suspension listed suggests he was suspended AFTER his last game. If Humphrey played R3, his absence is NEW for R4. Jamarra Ugle-Hagan OUT (knee, 1-3 weeks) \u2014 key forward. Matt Rowell TEST (finger). Combined: 3-4 premium players out, spine significantly weakened. Rule 4 compound check: 5+ forced outs with spine broken \u2014 Petracca (best mid) out, but Anderson/Miller still available as premium mids. Apply 0.6x dampening per Rule 5. MEL: Jack Viney TBC (calf) \u2014 important contested mid. Daniel Turner TEST (hand). Changkuoth Jiath OUT (calf, 3-4 weeks). Jake Bowey OUT (foot, 5-7 weeks).",
       "scenarios": [
         {
-          "label": "If Petracca plays",
+          "label": "If Rowell plays",
           "predicted_winner": "Gold Coast",
-          "predicted_margin": 10,
-          "win_probability": 0.62,
+          "predicted_margin": 12,
+          "win_probability": 0.63,
           "tier": 3,
           "tier_name": "Lean"
         },
         {
-          "label": "If Petracca misses",
+          "label": "If Rowell misses",
           "predicted_winner": "Gold Coast",
-          "predicted_margin": 3,
-          "win_probability": 0.53,
-          "tier": 4,
-          "tier_name": "Coin Flip"
+          "predicted_margin": 6,
+          "win_probability": 0.56,
+          "tier": 3,
+          "tier_name": "Lean"
         }
       ],
       "last_updated": "2026-04-02T08:00:00"
@@ -224,17 +207,17 @@
       "home_code": "WBD",
       "away_code": "ESS",
       "predicted_winner": "Western Bulldogs",
-      "predicted_margin": 58,
-      "home_score": 131,
-      "away_score": 73,
-      "win_probability": 0.97,
+      "predicted_margin": 62,
+      "home_score": 132,
+      "away_score": 70,
+      "win_probability": 0.96,
       "tier": 1,
       "tier_name": "Lock",
       "venue": "Docklands",
       "match_time": "Sun 5 Apr 7:20pm AEST",
-      "ev_recommendation": "+EV: LINE ESS +74.5 @ $1.9 -- 16.5pt edge (~72% cover) | +EV: TOTAL Over 190.5 @ $1.9 -- 13.5pt edge (~66% cover)",
-      "key_factors": "Squiggle weighted consensus: WBD by 50.5 (100% agreement). Top models: Holy Grail (82%) WBD by 30.8, What Snoo (79%) WBD by 50.3, HBin (75%) WBD by 43.9. Note: Holy Grail at only 30.8 \u2014 significantly below consensus, suggesting the margin could be smaller. Wheelo doesn't have explicit margin but WBD are the best team in the comp (3-0, 113.0 PF). Footy Forecaster: WBD by 53 (90.0%) \u2014 agrees on massive margin. WBD ODELO at Marvel: PF lift +11.0, PA lift -13.6, net +24.6 (HIGH reliability, 26 games) \u2014 WBD are LETHAL at Marvel. ESS ODELO at Marvel: net +8.4 (they actually don't perform as badly here as away elsewhere). Marcus Bontempelli (SC 138 avg, #6 in comp) is the best player in the league right now. Tim English (SC 119.3) dominates the ruck \u2014 ESS lost Sam Draper (traded to BRI) and have no premium ruck. Ed Richards (SC 108.7), Tom Liberatore (SC 105.7) add depth. ESS 0-3 (COLD streak), PF 74.0, PA 119.7 \u2014 catastrophic. Zach Merrett (SC 111) is their only premium performer. ESS defence conceding 119.7 but 'tightening' per trend \u2014 they lost by only 12 last week vs NTH. ESS have multiple outs: Nate Caddy (head, 1 week), Angus Clarke TEST, Brayden Fiorini TEST, plus long-term injuries. Marvel Stadium HGA only +1.4 \u2014 minimal, but WBD's venue-specific ODELO is what matters. Both teams are local \u2014 no travel penalty. Indoor venue \u2014 no weather factor. WBD 3-0 but last win was only by 6 vs ADE \u2014 slight regression concern (Rule 9: -3 to -5 after big win, but 6pt win doesn't qualify). Line at 74.5 is ENORMOUS \u2014 bookmakers pricing in annihilation. Model says WBD by 50-58, well short of 74.5. ESS +74.5 has strong value. Predicted total: 131+73 = 204, over 190.5 by 13.5pts.",
-      "injury_impact": "ESS: Nate Caddy OUT (head, 1 week \u2014 recent). Angus Clarke TEST (ankle). Brayden Fiorini TEST (back). Will Setterfield OUT (foot, 1 week). Multiple long-term outs already baked in (Mason Redman, Nicholas Martin, Lewis Hayes). WBD: No significant injuries \u2014 near full strength. This disparity in personnel is a key factor.",
+      "ev_recommendation": "",
+      "key_factors": "Squiggle weighted consensus: WBD by 50.5 (28/28 models, 100%). Top models: Holy Grail (82%) WBD by 30.8, What Snoo (79%) WBD by 50.3, HBin (75%) WBD by 43.9. Wheelo data not explicitly in preview but WBD are the best team in the comp: 3-0, HOT W3 streak, PF 113.0, overall diff +30.7. ESS are in crisis: 0-3, COLD L3 streak, conceding 119.7 PA avg. WBD ODELO at Marvel: net +24.6 (PF lift +11.0, PA lift -13.6, HIGH reliability 26 games) \u2014 WBD are dominant at Marvel. ESS ODELO at Marvel (away): net +8.4 \u2014 they actually don't collapse there, but their 2026 form overrides historical data. Marvel Stadium HGA +1.4 (roof, minimal). Both teams are local \u2014 no travel impact. Marcus Bontempelli (SC 138.0, #1 mid in comp) is in career-best form. Tim English (SC 119.3) dominates the ruck. Ed Richards (SC 108.7), Tom Liberatore (SC 105.7) give WBD midfield depth. ESS: Zach Merrett (SC 111.0) is their lone elite performer. ESS defence is leaking 119.7 per game vs WBD attack of 113.0 \u2014 catastrophic mismatch. Rule 14 bounce-back check: ESS lost by only 12 last week (not 40+), so no bounce-back applies. Indoor venue \u2014 no weather. Footy Forecaster: WBD by 53 at 90.0% \u2014 strong agreement. The bookmaker line of -74.5 seems excessive \u2014 even the most bullish Squiggle model (What Snoo at 50.3) doesn't get there. Our 62pt margin is well short of the line. WBD's volatility (35.6) includes a close 6pt win last week vs ADE \u2014 they don't always blow teams out. ESS narrowed the gap to 12 last week. Score prediction: WBD at Marvel typically score ~118+ (ODELO PF 118.2). ESS conceding ~120 per game. WBD should score 125-135. ESS at ~70 given WBD defensive squeeze.",
+      "injury_impact": "ESS: Multiple injuries compounding crisis \u2014 Angus Clarke TEST (ankle), Brayden Fiorini TEST (back), Nate Caddy OUT (head, 1 week), Mason Redman OUT (knee, 5-7 weeks), Vigo Visentini OUT (hamstring). Nicholas Martin OUT (knee, season) \u2014 long-term baked in. Will Setterfield OUT (foot, 1 week). WBD: No significant injuries flagged \u2014 near full strength. This injury differential further widens the gap.",
       "scenarios": [],
       "last_updated": "2026-04-02T08:00:00"
     },
@@ -246,19 +229,19 @@
       "away_code": "GEE",
       "predicted_winner": "Hawthorn",
       "predicted_margin": 10,
-      "home_score": 97,
-      "away_score": 87,
+      "home_score": 98,
+      "away_score": 88,
       "win_probability": 0.62,
       "tier": 3,
       "tier_name": "Lean",
       "venue": "M.C.G.",
       "match_time": "Mon 6 Apr 3:15pm AEST",
       "ev_recommendation": "",
-      "key_factors": "Squiggle weighted consensus: HAW by 5.6 (82.1% agreement \u2014 5 models disagree, relatively low). Top models: Holy Grail (82%) tips GEE by 4.4, What Snoo (79%) HAW by 8.5, HBin (75%) GEE by 0.8. Rule 15 check: 2 of top 3 models disagree (Holy Grail tips GEE, HBin tips GEE). Rule 15 triggers: reduce consensus by 30%: 5.6 x 0.7 = 3.9. However, broader data supports HAW more than that. Wheelo not available with explicit margin but HAW should be favoured at home. Footy Forecaster: HAW by 10 (59.5%) \u2014 agrees with HAW, margin higher than Squiggle. HAW 2-1, PF 113.0, won last 2 (W2 streak). GEE 2-1, PF 82.3, won last 2 (W2 streak). Both on form. HAW ODELO at MCG: net +10.5 (HIGH reliability, 23 games) \u2014 they play very well here. GEE ODELO at MCG: net -9.2 (HIGH reliability, 15 games) \u2014 they struggle at the MCG. This is a ~20pt venue swing that supports HAW over GEE at this ground. MCG HGA +3.3 for HAW. GEE travel local (65km, no penalty). HAW missing Will Day (shoulder, 2 months \u2014 baked into 2-1 form). Patrick Dangerfield OUT for GEE (calf, 1-2 weeks) \u2014 this is a significant NEW absence if he was playing recently. Dangerfield is a premium midfielder when fit. GEE also missing Tyson Stengle (individualised program) and Toby Conway TEST (foot \u2014 ruck impact). Max Holmes (SC 121.7) and Bailey Smith (SC 119.0) are GEE's premium mids. Tom Stewart (SC 119.0) elite in defence. HAW: James Sicily (SC 108) anchors defence. HAW defence tightening trend. Weather: 18.9C, no rain, 11km/h wind \u2014 no impact. HAW's I50 efficiency and MCG venue dominance vs GEE's MCG struggles is the key swing. Adjusting for Rule 15 reduction (3.9) but adding back MCG venue differential (~5pts net in HAW's favour beyond what Squiggle captures), Dangerfield absence (-2pts to GEE), and Footy Forecaster agreement at 10pts. Final: HAW by 10.",
-      "injury_impact": "GEE: Patrick Dangerfield OUT (calf, 1-2 weeks \u2014 NEW absence, premium mid when playing) = -2.5pts. Toby Conway TEST (foot, ruck depth) \u2014 if he misses, GEE's ruck stocks thin. Tyson Stengle OUT (individualised program \u2014 already baked in). HAW: Will Day OUT (shoulder, 2 months \u2014 baked in). Noah Mraz TEST (quad), Henry Hustwaite TEST (ankle) \u2014 minor.",
+      "key_factors": "Squiggle weighted consensus: HAW by 5.6 (23/28 models, 82.1%). Top models SPLIT: Holy Grail (82%) GEE by 4.4, What Snoo (79%) HAW by 8.5, HBin (75%) GEE by 0.8. Rule 15 check: 2 of top 3 models (Holy Grail and HBin) DISAGREE with consensus direction. Rule 15 TRIGGERED: reduce consensus margin by 30% and downgrade tier by 1. Base: HAW by 5.6. After Rule 15: 5.6 \u00d7 0.7 = 3.9. However, additional factors push HAW higher. HAW 2-1, W2 streak, PF 113.0 (equal best with WBD), beat SYD by 17 last week \u2014 genuine contenders. GEE 2-1, W2 streak, PF 82.3 but defence tightening. MCG HGA +3.3 for HAW (both travel minimal \u2014 GEE local 65km). HAW ODELO at MCG: net +10.5 (PF lift +3.4, PA lift -7.1, HIGH reliability). GEE ODELO at MCG (away): net -9.2 (PF lift -3.7, PA lift +5.5, HIGH reliability) \u2014 GEE struggle at MCG offensively. This is significant: HAW get a +10.5 lift while GEE get a -9.2 drop = 19.7pt swing at this venue. James Sicily (SC 108.0) anchors HAW defence. Max Holmes (SC 121.7, elite) and Bailey Smith (SC 119.0) lead GEE midfield \u2014 GEE's mids are strong. Tom Stewart (SC 119.0) elite for GEE in defence. But Patrick Dangerfield OUT (calf, 1-2 weeks) \u2014 significant loss for GEE. Will Day remains OUT for HAW (shoulder, 2 months) \u2014 long-term, baked in. Wheelo has no explicit prediction shown but rated HAW overall higher. Footy Forecaster: HAW by 10 at 59.5% \u2014 agrees with direction, slightly higher margin. Weather: 18.8C, no rain, 7km/h wind \u2014 fine for MCG. Working: Rule 15 reduced consensus to HAW by 3.9. ODELO venue swing of ~19.7pts strongly favours HAW but is partially captured in Squiggle models. Dangerfield OUT is a new-week injury (listed 1-2 weeks) worth -3 to -4pts to GEE. Footy Forecaster's HAW by 10 provides upward cross-reference. GEE's PF of 82.3 is low and drops further at MCG (ODELO PF lift -3.7). Final: HAW by 10, upgrading from Rule 15's 3.9 due to Dangerfield loss, ODELO venue dominance, and Footy Forecaster agreement. Confidence stays at Tier 3 per Rule 15 downgrade from what would have been Tier 3 anyway.",
+      "injury_impact": "GEE: Patrick Dangerfield OUT (calf, 1-2 weeks) \u2014 this is likely a NEW absence. Dangerfield is a premium midfielder and his loss weakens GEE's contested ball and forward thrust. Worth -3 to -4pts. Tyson Stengle OUT (individualised program) \u2014 key forward, long-term absence baked into form. Toby Conway TBC (foot) \u2014 if GEE's ruck is weakened, HAW benefit at stoppages. Jacob Molier OUT (foot, 2-3 weeks). HAW: Will Day OUT (shoulder, 2 months) \u2014 long-term, baked in. James Blanck OUT (hip/groin, 2 weeks). Henry Hustwaite TEST (ankle), Noah Mraz TEST (quad) \u2014 monitor but neither is spine-critical.",
       "scenarios": [
         {
-          "label": "If Conway plays (GEE ruck intact)",
+          "label": "If Conway plays (GEE ruck available)",
           "predicted_winner": "Hawthorn",
           "predicted_margin": 10,
           "win_probability": 0.62,
@@ -268,8 +251,8 @@
         {
           "label": "If Conway misses (GEE ruck weakened)",
           "predicted_winner": "Hawthorn",
-          "predicted_margin": 14,
-          "win_probability": 0.66,
+          "predicted_margin": 16,
+          "win_probability": 0.68,
           "tier": 2,
           "tier_name": "Strong"
         }
