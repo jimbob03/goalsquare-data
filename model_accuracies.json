@@ -1,111 +1,111 @@
 {
   "season": 2026,
-  "last_updated": "2026-04-03T05:24:50.394968",
+  "last_updated": "2026-04-03T06:58:55.766355",
   "total_models": 31,
   "models": [
     {
       "name": "Holy Grail Ratings",
-      "accuracy": 82.8,
-      "mae": 13.7,
-      "tips_total": 29,
+      "accuracy": 80.0,
+      "mae": 13.5,
+      "tips_total": 30,
       "tips_correct": 24
     },
     {
       "name": "What Snoo Thinks",
-      "accuracy": 79.3,
-      "mae": 12.2,
-      "tips_total": 29,
+      "accuracy": 76.7,
+      "mae": 11.8,
+      "tips_total": 30,
       "tips_correct": 23
     },
     {
       "name": "Wheelo Ratings",
-      "accuracy": 79.3,
-      "mae": 18.4,
-      "tips_total": 29,
+      "accuracy": 76.7,
+      "mae": 17.8,
+      "tips_total": 30,
       "tips_correct": 23
     },
     {
       "name": "HBin",
-      "accuracy": 75.9,
-      "mae": 13.4,
-      "tips_total": 29,
+      "accuracy": 73.3,
+      "mae": 13.0,
+      "tips_total": 30,
       "tips_correct": 22
     },
     {
       "name": "Matter of Stats",
-      "accuracy": 75.9,
-      "mae": 15.1,
-      "tips_total": 29,
+      "accuracy": 73.3,
+      "mae": 14.8,
+      "tips_total": 30,
       "tips_correct": 22
     },
     {
       "name": "footycharts",
-      "accuracy": 75.9,
-      "mae": 15.2,
-      "tips_total": 29,
+      "accuracy": 73.3,
+      "mae": 14.9,
+      "tips_total": 30,
+      "tips_correct": 22
+    },
+    {
+      "name": "AFL Scorigami",
+      "accuracy": 73.3,
+      "mae": 16.8,
+      "tips_total": 30,
       "tips_correct": 22
     },
     {
       "name": "AFLalytics",
-      "accuracy": 75.9,
-      "mae": 17.5,
-      "tips_total": 29,
+      "accuracy": 73.3,
+      "mae": 17.1,
+      "tips_total": 30,
       "tips_correct": 22
     },
     {
       "name": "Drop Kick Data",
-      "accuracy": 75.9,
-      "mae": 17.8,
-      "tips_total": 29,
+      "accuracy": 73.3,
+      "mae": 17.3,
+      "tips_total": 30,
       "tips_correct": 22
     },
     {
       "name": "The Wooden Finger",
-      "accuracy": 75.9,
-      "mae": 20.9,
-      "tips_total": 29,
+      "accuracy": 73.3,
+      "mae": 20.3,
+      "tips_total": 30,
       "tips_correct": 22
     },
     {
       "name": "Aggregate",
-      "accuracy": 72.4,
-      "mae": 15.5,
-      "tips_total": 29,
+      "accuracy": 70.0,
+      "mae": 15.2,
+      "tips_total": 30,
       "tips_correct": 21
     },
     {
       "name": "s10",
-      "accuracy": 72.4,
-      "mae": 16.9,
-      "tips_total": 29,
-      "tips_correct": 21
-    },
-    {
-      "name": "AFL Scorigami",
-      "accuracy": 72.4,
-      "mae": 17.3,
-      "tips_total": 29,
+      "accuracy": 70.0,
+      "mae": 16.6,
+      "tips_total": 30,
       "tips_correct": 21
     },
     {
       "name": "Don't Blame the Data",
-      "accuracy": 72.4,
-      "mae": 17.3,
-      "tips_total": 29,
+      "accuracy": 70.0,
+      "mae": 16.9,
+      "tips_total": 30,
       "tips_correct": 21
     },
     {
       "name": "Graft",
-      "accuracy": 72.4,
-      "mae": 19.8,
-      "tips_total": 29,
+      "accuracy": 70.0,
+      "mae": 19.4,
+      "tips_total": 30,
       "tips_correct": 21
     },
     {
       "name": "Glicko Ratings",
-      "accuracy": 72.4,
-      "mae": 20.2,
-      "tips_total": 29,
+      "accuracy": 70.0,
+      "mae": 19.9,
+      "tips_total": 30,
       "tips_correct": 21
     }
   ]
