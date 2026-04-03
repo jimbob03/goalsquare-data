@@ -1,13 +1,13 @@
 {
   "round": 4,
   "season": 2026,
-  "last_checked": "2026-04-03T19:14:03.669585",
+  "last_checked": "2026-04-03T19:20:44.353687",
   "summary": {
     "correct": 2,
     "total_scored": 3,
     "total_games": 8,
     "accuracy": 66.7,
-    "mae": 8.7,
+    "mae": 10.0,
     "games_live": 0,
     "games_completed": 3,
     "games_upcoming": 5
@@ -77,7 +77,7 @@
       "actual_winner": "Fremantle",
       "actual_margin": -2,
       "correct": false,
-      "margin_error": 3
+      "margin_error": 7
     },
     {
       "game_id": 38525,
