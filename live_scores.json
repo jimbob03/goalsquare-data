@@ -1,16 +1,16 @@
 {
   "round": 4,
   "season": 2026,
-  "last_checked": "2026-04-03T08:11:45.099022",
+  "last_checked": "2026-04-03T09:11:21.066854",
   "summary": {
     "correct": 2,
     "total_scored": 2,
     "total_games": 8,
     "accuracy": 100.0,
     "mae": 10.0,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 2,
-    "games_upcoming": 6
+    "games_upcoming": 5
   },
   "games": [
     {
@@ -71,12 +71,12 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.55,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 27,
+      "actual_away_score": 47,
+      "actual_winner": "Fremantle",
+      "actual_margin": -20,
+      "correct": false,
       "margin_error": null
     },
     {
