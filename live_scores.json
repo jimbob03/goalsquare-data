@@ -1,7 +1,7 @@
 {
   "round": 4,
   "season": 2026,
-  "last_checked": "2026-04-03T05:30:31.126526",
+  "last_checked": "2026-04-03T06:00:50.546677",
   "summary": {
     "correct": 1,
     "total_scored": 1,
@@ -50,10 +50,10 @@
       "tier_name": "Lean",
       "win_probability": 0.55,
       "status": "live",
-      "actual_home_score": 37,
-      "actual_away_score": 40,
+      "actual_home_score": 51,
+      "actual_away_score": 61,
       "actual_winner": "Carlton",
-      "actual_margin": -3,
+      "actual_margin": -10,
       "correct": false,
       "margin_error": null
     },
