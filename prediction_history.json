@@ -491,5 +491,39 @@
     "correct": true,
     "margin_error": 16,
     "scored_at": "2026-04-03T02:48:06.076687"
+  },
+  {
+    "game_id": 38523,
+    "round": 4,
+    "season": 2026,
+    "home_team": "North Melbourne",
+    "away_team": "Carlton",
+    "predicted_winner": "North Melbourne",
+    "predicted_margin": 6,
+    "predicted_tier": 4,
+    "actual_winner": "North Melbourne",
+    "actual_margin": 10,
+    "actual_home_score": 96,
+    "actual_away_score": 86,
+    "correct": true,
+    "margin_error": 4,
+    "scored_at": "2026-04-03T18:58:40.773593"
+  },
+  {
+    "game_id": 38524,
+    "round": 4,
+    "season": 2026,
+    "home_team": "Adelaide",
+    "away_team": "Fremantle",
+    "predicted_winner": "Adelaide",
+    "predicted_margin": 5,
+    "predicted_tier": 3,
+    "actual_winner": "Fremantle",
+    "actual_margin": 2,
+    "actual_home_score": 76,
+    "actual_away_score": 78,
+    "correct": false,
+    "margin_error": 3,
+    "scored_at": "2026-04-03T18:58:40.773603"
   }
 ]
