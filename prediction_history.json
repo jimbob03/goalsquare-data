@@ -525,5 +525,39 @@
     "correct": false,
     "margin_error": 7,
     "scored_at": "2026-04-03T18:58:40.773603"
+  },
+  {
+    "game_id": 38525,
+    "round": 4,
+    "season": 2026,
+    "home_team": "Richmond",
+    "away_team": "Port Adelaide",
+    "predicted_winner": "Port Adelaide",
+    "predicted_margin": 20,
+    "predicted_tier": 1,
+    "actual_winner": "Port Adelaide",
+    "actual_margin": 42,
+    "actual_home_score": 48,
+    "actual_away_score": 90,
+    "correct": true,
+    "margin_error": 22,
+    "scored_at": "2026-04-04T14:20:17.838964"
+  },
+  {
+    "game_id": 38526,
+    "round": 4,
+    "season": 2026,
+    "home_team": "West Coast",
+    "away_team": "Sydney",
+    "predicted_winner": "Sydney",
+    "predicted_margin": 16,
+    "predicted_tier": 2,
+    "actual_winner": "Sydney",
+    "actual_margin": 128,
+    "actual_home_score": 35,
+    "actual_away_score": 163,
+    "correct": true,
+    "margin_error": 112,
+    "scored_at": "2026-04-04T14:20:17.838980"
   }
 ]
