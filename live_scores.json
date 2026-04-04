@@ -1,15 +1,15 @@
 {
   "round": 4,
   "season": 2026,
-  "last_checked": "2026-04-04T07:37:55.634732",
+  "last_checked": "2026-04-04T08:22:39.843191",
   "summary": {
-    "correct": 2,
-    "total_scored": 3,
+    "correct": 3,
+    "total_scored": 4,
     "total_games": 8,
-    "accuracy": 66.7,
-    "mae": 10.0,
-    "games_live": 1,
-    "games_completed": 3,
+    "accuracy": 75.0,
+    "mae": 14.0,
+    "games_live": 0,
+    "games_completed": 4,
     "games_upcoming": 4
   },
   "games": [
@@ -93,13 +93,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.68,
-      "status": "live",
-      "actual_home_score": 41,
-      "actual_away_score": 83,
+      "status": "completed",
+      "actual_home_score": 48,
+      "actual_away_score": 90,
       "actual_winner": "Port Adelaide",
       "actual_margin": -42,
       "correct": true,
-      "margin_error": null
+      "margin_error": 26
     },
     {
       "game_id": 38526,
