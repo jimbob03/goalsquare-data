@@ -1,7 +1,7 @@
 {
   "round": 4,
   "season": 2026,
-  "last_checked": "2026-04-04T11:38:48.207119",
+  "last_checked": "2026-04-04T11:59:06.139636",
   "summary": {
     "correct": 4,
     "total_scored": 5,
@@ -132,11 +132,11 @@
       "venue": "M.C.G.",
       "predicted_winner": "Gold Coast",
       "predicted_margin": 14,
-      "predicted_home_score": 85,
-      "predicted_away_score": 99,
+      "predicted_home_score": 86,
+      "predicted_away_score": 100,
       "tier": 2,
       "tier_name": "Strong",
-      "win_probability": 0.65,
+      "win_probability": 0.66,
       "status": "upcoming",
       "actual_home_score": null,
       "actual_away_score": null,
