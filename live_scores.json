@@ -1,15 +1,15 @@
 {
   "round": 4,
   "season": 2026,
-  "last_checked": "2026-04-05T11:39:36.829778",
+  "last_checked": "2026-04-05T11:59:29.456761",
   "summary": {
-    "correct": 4,
-    "total_scored": 6,
+    "correct": 5,
+    "total_scored": 7,
     "total_games": 8,
-    "accuracy": 66.7,
-    "mae": 33.0,
-    "games_live": 1,
-    "games_completed": 6,
+    "accuracy": 71.4,
+    "mae": 32.3,
+    "games_live": 0,
+    "games_completed": 7,
     "games_upcoming": 1
   },
   "games": [
@@ -159,13 +159,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.95,
-      "status": "live",
+      "status": "completed",
       "actual_home_score": 99,
-      "actual_away_score": 59,
+      "actual_away_score": 65,
       "actual_winner": "Western Bulldogs",
-      "actual_margin": 40,
+      "actual_margin": 34,
       "correct": true,
-      "margin_error": null
+      "margin_error": 28
     },
     {
       "game_id": 38529,
