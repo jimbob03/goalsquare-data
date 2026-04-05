@@ -1,7 +1,7 @@
 {
   "round": 4,
   "season": 2026,
-  "last_checked": "2026-04-05T06:05:18.696644",
+  "last_checked": "2026-04-05T07:21:18.403062",
   "summary": {
     "correct": 4,
     "total_scored": 5,
@@ -138,10 +138,10 @@
       "tier_name": "Strong",
       "win_probability": 0.65,
       "status": "live",
-      "actual_home_score": 43,
-      "actual_away_score": 37,
+      "actual_home_score": 90,
+      "actual_away_score": 76,
       "actual_winner": "Melbourne",
-      "actual_margin": 6,
+      "actual_margin": 14,
       "correct": false,
       "margin_error": null
     },
