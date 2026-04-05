@@ -559,5 +559,39 @@
     "correct": true,
     "margin_error": 112,
     "scored_at": "2026-04-04T14:20:17.838980"
+  },
+  {
+    "game_id": 38527,
+    "round": 4,
+    "season": 2026,
+    "home_team": "Melbourne",
+    "away_team": "Gold Coast",
+    "predicted_winner": "Gold Coast",
+    "predicted_margin": 14,
+    "predicted_tier": 2,
+    "actual_winner": "Melbourne",
+    "actual_margin": 20,
+    "actual_home_score": 109,
+    "actual_away_score": 89,
+    "correct": false,
+    "margin_error": 34,
+    "scored_at": "2026-04-05T14:21:16.234040"
+  },
+  {
+    "game_id": 38528,
+    "round": 4,
+    "season": 2026,
+    "home_team": "Western Bulldogs",
+    "away_team": "Essendon",
+    "predicted_winner": "Western Bulldogs",
+    "predicted_margin": 62,
+    "predicted_tier": 1,
+    "actual_winner": "Western Bulldogs",
+    "actual_margin": 34,
+    "actual_home_score": 99,
+    "actual_away_score": 65,
+    "correct": true,
+    "margin_error": 28,
+    "scored_at": "2026-04-05T14:21:16.234054"
   }
 ]
