@@ -2,8 +2,8 @@
   "model_version": "5.2",
   "round": 4,
   "season": 2026,
-  "generated_at": "2026-04-05T08:22:06.893321",
-  "last_updated": "2026-04-05T08:22:06.893325",
+  "generated_at": "2026-04-05T08:43:14.633356",
+  "last_updated": "2026-04-05T08:43:14.633360",
   "data_sources": {
     "squiggle": true,
     "squiggle_weighted": true,
@@ -166,8 +166,8 @@
       "venue": "Docklands",
       "match_time": "Sun 5 Apr 7:20pm AEST",
       "ev_recommendation": "+EV: LINE ESS +74.5 -- 12.5pt edge (~70% cover)",
-      "key_factors": "Squiggle weighted consensus: WBD by 48.1 (29/29 models, 100%). Top models: Holy Grail (76.5%) WBD by 30.8, What Snoo (70.6%) WBD by 39.8, Live Ladders (64.7%) WBD by 31. All agree unanimously. Wheelo data not fully visible but WBD are the best team in the comp at 3-0 (actually 4-0 per ladder context). WBD PF 113.0 avg (highest in comp excluding inflated SYD/GCS numbers), W3 HOT streak, defence tightening. ESS are 0-3, L3 COLD streak, PF 74.0, PA 119.7 \u2014 conceding the most in the comp. WBD ODELO at Marvel: net +24.6 (19W-7L, HIGH reliability) \u2014 WBD are devastating at Marvel. PF lift +11.0, PA lift -13.6. ESS ODELO at Marvel: net +8.4 (8W-10L, HIGH reliability) \u2014 ESS actually play slightly better at Marvel. Marvel HGA +1.4 only. Both teams home-based, no travel, indoor venue \u2014 no weather impact. WBD premium mids: Bontempelli (SC 138 avg, #1 in comp after R3 \u2014 absolute beast), English (SC 119.3 ruck dominance), Richards (108.7), Liberatore (105.7 but OUT this week \u2014 injured). ESS mids: Merrett (SC 111), Parish. ESS ruck: Blakiston vs English \u2014 massive mismatch, English should dominate clearances. WBD confirmed team: Bontempelli, English, Naughton, Darcy, Richards, Sanders all playing. Liberatore OUT (injured, NEW \u2014 moderate loss but WBD have depth with Dolan and Jones coming in). ESS: Nate Caddy OUT (head, 1 week). Todd Edwards IN. Line: WBD -74.5 @ $2.00. My predicted margin 62. Edge = 74.5 - 62 = 12.5pts > 8.5 threshold = flag ESS +74.5. The books are pricing an annihilation; my model says it's severe but 74.5 is too many points. Footy Forecaster: WBD by 53 (90%) \u2014 agrees on massive WBD win. FF's 53 closer to my 62 than the book's 74.5. Total: predicted 122+60=182. Book total 192.5. Edge = 192.5 - 182 = 10.5 \u2014 under 12.5 threshold, no flag. H2H: WBD $1.02 (implied 97.2%), my probability 95% \u2014 no edge on H2H.",
-      "injury_impact": "WBD: Tom Liberatore OUT (injured, NEW this week \u2014 SC 105.7 avg, experienced midfielder. Moderate loss but WBD have depth). INS: Adam Jones, Jack Dolan. OUTS: Cooper Hynes (omitted). ESS: Nate Caddy OUT (head, 1 week \u2014 young forward, minor impact). INS: Todd Edwards. Long-term: Mason Redman OUT (knee 5-7 weeks), Lewis Hayes OUT (knee 7 weeks), Nicholas Martin OUT (knee season) \u2014 all already in form stats. ESS in deep crisis \u2014 0-3 with no signs of improvement.",
+      "key_factors": "Squiggle weighted consensus: WBD by 48.1 (29/29 models, 100%). Top models: Holy Grail (76.5%) tips WBD by 30.8, What Snoo (70.6%) tips WBD by 39.8, Live Ladders (64.7%) tips WBD by 31. Wheelo data unavailable for this specific preview but WBD are the best team in the comp (3-0, 115.8 PF avg per context, W3 HOT streak). ESS are in crisis (0-3, PF 74.0, PA 119.7, L3 COLD streak). Marvel Stadium \u2014 both local teams, no travel penalty. Docklands HGA +1.4 (roof, minimal). ODELO: WBD net +24.6 at Marvel Stadium (HIGH reliability, 19W-7L) \u2014 WBD's attack lifts +11.0 and defence tightens -13.6 here. This is their fortress. ESS net +8.4 at Marvel Stadium (HIGH reliability, 8W-10L) \u2014 ESS actually play slightly better defensively here (-11.4 PA lift). Indoor venue \u2014 no weather adjustment. SC form: Bontempelli 138 avg (elite, #1 mid in comp), English 119.3 (ruck dominance over ESS), Ed Richards 108.7, Liberatore 105.7. ESS: Merrett 111 avg (lone premium). Ruck: Tim English (SC 119.3) vs ESS's Sam Draper traded to BRI \u2014 ESS now without a genuine ruck option. Massive ruck mismatch. Footy Forecaster: WBD by 53 (90%) \u2014 aligns strongly with consensus. WBD form: 113.0 PF avg, defence tightening. ESS form: conceding 119.7 PA avg, attack trending nowhere. Rule 18: WBD's last game was only a 6pt win vs ADE \u2014 their form isn't as dominant as the R1-R2 blowouts suggest. True baseline: WBD scored 127, 108, 104 \u2014 consistent ~113 avg holds. ESS scored 81, 69, 72 \u2014 consistently poor ~74. WBD's ODELO attack lift of +11.0 at Marvel pushes projected scoring to ~124. ESS's attack lifts slightly but defence remains porous. Line: WBD -74.5. My margin: 62. Edge for ESS +74.5 = 74.5 - 62 = 12.5pts. Qualifies. Note: the 48.1 weighted Squiggle consensus is below the 74.5 line \u2014 there's value on ESS getting 74.5pts start even though WBD wins comfortably. H2H odds: WBD $1.02 (implied 97.2%) vs my 95% \u2014 only 2.2% edge on H2H, does not qualify.",
+      "injury_impact": "WBD: Team list appears incomplete in data (cuts off at 'B: L.Jaques, B.Khami') but WBD have no significant injuries listed on Footywire. Assume full strength. ESS: Multiple outs but mostly long-term (already in form): Nicholas Martin (knee, season), Lewis Hayes (knee, 7 weeks), Mason Redman (knee, 5-7 weeks), Vigo Visentini (hamstring, 5-7 weeks). TEST players: Angus Clarke (ankle), Brayden Fiorini (back) \u2014 status uncertain without full confirmed 23. Nate Caddy OUT (head, 1 week) = -1pt. Will Setterfield OUT (foot, 1 week). Sam Draper traded to BRI (long-term, in form) \u2014 ESS ruck crisis is structural.",
       "scenarios": [],
       "last_updated": "2026-04-02T08:00:00"
     },
@@ -179,34 +179,17 @@
       "away_code": "GEE",
       "predicted_winner": "Hawthorn",
       "predicted_margin": 12,
-      "home_score": 98,
-      "away_score": 86,
-      "win_probability": 0.63,
+      "home_score": 97,
+      "away_score": 85,
+      "win_probability": 0.62,
       "tier": 3,
       "tier_name": "Lean",
       "venue": "M.C.G.",
       "match_time": "Mon 6 Apr 3:15pm AEST",
       "ev_recommendation": "",
-      "key_factors": "Squiggle weighted consensus: HAW by 5.3 (24/29 models, 82.8%). Top models: Holy Grail (76.5%) tips GEE by 4.4 \u2014 DISAGREES with consensus. What Snoo (70.6%) HAW by 11.1. Live Ladders (64.7%) HAW by 7. Rule 15 check: Only 1 of top 3 disagrees \u2014 Rule 15 does NOT trigger. Wheelo preview not fully visible but implied HAW favoured. HAW form: 2-1 (context says 3-0 but form data shows 2-1), W2 streak, PF 113.0 avg \u2014 genuine contenders. HAW missing Will Day (shoulder, 2 months \u2014 already in form). GEE form: 2-1, W2 streak, but PF only 82.3 \u2014 significantly lower scoring. GEE defence has been tightening (conceding less). HAW ODELO at MCG: net +10.5 (15W-8L, HIGH reliability) \u2014 HAW play very well at MCG. PF lift +3.4, PA lift -7.1 (defence tightens significantly). GEE ODELO at MCG: net -9.2 (10W-5L, HIGH reliability) \u2014 GEE struggle at MCG. PF lift -3.7, PA lift +5.5 (defence worsens). Combined ODELO venue differential: HAW +10.5 vs GEE -9.2 = ~20pt venue swing \u2014 this is significant. MCG HGA +3.3. Both teams local \u2014 no travel differential. GEE key injuries: Patrick Dangerfield (calf, 1-2 weeks \u2014 listed as Test, team lineups NOT YET AVAILABLE for this game so uncertain). Tyson Stengle OUT (individualised program \u2014 already in form). Toby Conway OUT (foot, TBC). HAW: Will Day OUT (shoulder, 2 months \u2014 already in form). Henry Hustwaite (ankle, Test), Noah Mraz (quad, Test) \u2014 both uncertain. HAW SC: Sicily (108), key players solid. GEE SC: Max Holmes (121.7), Bailey Smith (119.0), Tom Stewart (119.0) \u2014 GEE have premium talent. Weather: 23.7C, dry, 4km/h wind \u2014 perfect conditions, no adjustment. Footy Forecaster: HAW by 10 (59.5%) \u2014 agrees with HAW, slightly larger than Squiggle. Odds: HAW $1.71 (implied 58.4%), GEE $2.40 (implied 41.6%). My 63% vs implied 58.4% = 4.6% edge on H2H \u2014 below 8% threshold, no flag. Line: HAW -8.5, my margin 12. Edge = 12 - 8.5 = 3.5 \u2014 below 8.5 threshold, no flag. Line moved from -9.5 to -8.5 (1pt toward GEE) and H2H drifted toward GEE by 3pts. Market slightly less confident in HAW than opening \u2014 possibly Dangerfield returning for GEE? This movement isn't large enough to trigger Rule 20 (needs 5+ pts). Easter Monday MCG game \u2014 traditionally strong attendance, both teams motivated.",
-      "injury_impact": "Team lineups NOT YET AVAILABLE for this game. HAW: Will Day OUT (shoulder, 2 months \u2014 already in form). Henry Hustwaite (ankle, Test \u2014 uncertain). Noah Mraz (quad, Test \u2014 uncertain). James Blanck OUT (hip/groin, 2 weeks). GEE: Patrick Dangerfield (calf, 1-2 weeks \u2014 Test, uncertain. SC data limited for 2026 but historically elite. If he plays, boosts GEE midfield significantly). Tyson Stengle OUT (individualised program \u2014 already in form). Toby Conway OUT (foot \u2014 ruck impact, already in form). Jacob Molier OUT (foot, 2-3 weeks).",
-      "scenarios": [
-        {
-          "label": "If Dangerfield plays for Geelong",
-          "predicted_winner": "Hawthorn",
-          "predicted_margin": 8,
-          "win_probability": 0.58,
-          "tier": 3,
-          "tier_name": "Lean"
-        },
-        {
-          "label": "If Dangerfield misses for Geelong",
-          "predicted_winner": "Hawthorn",
-          "predicted_margin": 14,
-          "win_probability": 0.66,
-          "tier": 2,
-          "tier_name": "Strong"
-        }
-      ],
+      "key_factors": "Squiggle weighted consensus: HAW by 5.5 (24/29 models, 82.8%). Top models: Holy Grail (76.5%) tips GEE by 4.4 \u2014 DISAGREES. What Snoo (70.6%) tips HAW by 11.1, Live Ladders (64.7%) tips HAW by 7. Rule 15 check: only 1 of top 3 models disagrees, Rule 15 does NOT trigger. Wheelo data incomplete for this preview but HAW form: 2-1, PF 113.0, W2 streak, defence tightening. GEE form: 2-1, PF 82.3, W2 streak but PA 95.0 (conceding heavily). MCG HGA +3.3 (HAW's home ground). Both local \u2014 no travel penalty. ODELO: HAW net +10.5 at MCG (HIGH reliability, 15W-8L) \u2014 HAW's attack +3.4, defence tightens -7.1. GEE net -9.2 at MCG (HIGH reliability, 10W-5L) \u2014 GEE's attack drops -3.7, defence loosens +5.5. Net ODELO swing: HAW +10.5 vs GEE -9.2 = 19.7pt ODELO gap. This is significant \u2014 HAW play much better at MCG than GEE. SC form: HAW \u2014 James Sicily 108 avg (key defender), Will Day OUT (shoulder, long-term \u2014 in form). GEE \u2014 Max Holmes 121.7 (elite mid), Bailey Smith 119 (elite mid), Tom Stewart 119 (elite defender). Patrick Dangerfield OUT (calf, 1-2 weeks) \u2014 CHECK CONFIRMED 23: Dangerfield NOT in confirmed team data (team list not provided for GEE/HAW in full). Dangerfield listed 1-2 weeks on injury list. Toby Conway OUT (foot TBC). Tyson Stengle OUT (individualised program). Line movement: 3.1pts toward GEE (HAW $1.60\u2192$1.72, GEE $2.62\u2192$2.40, spread HAW -9.5\u2192-8.5). Market slightly favoring GEE more than opening \u2014 possible Dangerfield fitness update. Footy Forecaster: HAW by 10 (59.5%) \u2014 aligns with my prediction. GEE's scoring (82.3 PF avg) is concerning \u2014 bottom-half attack. HAW's 113 PF avg is elite. But GEE W2 with defence tightening. Weather: 22C, no rain, 9km/h \u2014 no adjustment. Easter Monday fixture \u2014 large neutral crowd expected. HAW H2H recent: won at GWS in 2025, beat SYD by 17 in R3. Genuine contenders. Prediction: HAW by 10. Odds: HAW $1.72 (implied 58.3%) vs my 62% = 3.7% edge on H2H \u2014 does not meet 8% threshold. Line: HAW -8.5. My margin: 10. Edge = 10 - 8.5 = 1.5pts \u2014 does not meet 8.5 threshold. Total: 96+86 = 182 vs 185.5 line = 3.5pt edge Under \u2014 does not meet 12.5 threshold. No qualifying bets.",
+      "injury_impact": "HAW: Will Day OUT (shoulder, targeting R14 return \u2014 long-term, fully in form stats). James Blanck OUT (hip/groin, 2 weeks). Henry Hustwaite listed TEST, Noah Mraz listed TEST \u2014 uncertain status without full confirmed 23. GEE: Patrick Dangerfield likely OUT (calf, 1-2 weeks, veteran leader, SC avg ~100) = -3pts if confirmed out. Toby Conway OUT (foot TBC, ruck depth). Tyson Stengle OUT (individualised program, key small forward) = -3pts but has been out all season \u2014 in form stats. Harley Barker OUT (knee, indefinite). Jay Polkinghorne OUT (foot TBC).",
+      "scenarios": [],
       "last_updated": "2026-04-02T08:00:00"
     }
   ],
