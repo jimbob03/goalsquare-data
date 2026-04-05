@@ -1,16 +1,16 @@
 {
   "round": 4,
   "season": 2026,
-  "last_checked": "2026-04-05T08:58:12.400582",
+  "last_checked": "2026-04-05T09:50:28.832857",
   "summary": {
     "correct": 4,
     "total_scored": 6,
     "total_games": 8,
     "accuracy": 66.7,
     "mae": 33.0,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 6,
-    "games_upcoming": 2
+    "games_upcoming": 1
   },
   "games": [
     {
@@ -159,12 +159,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.95,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 44,
+      "actual_away_score": 8,
+      "actual_winner": "Western Bulldogs",
+      "actual_margin": 36,
+      "correct": true,
       "margin_error": null
     },
     {
@@ -176,11 +176,11 @@
       "venue": "M.C.G.",
       "predicted_winner": "Hawthorn",
       "predicted_margin": 12,
-      "predicted_home_score": 98,
-      "predicted_away_score": 86,
+      "predicted_home_score": 100,
+      "predicted_away_score": 88,
       "tier": 3,
       "tier_name": "Lean",
-      "win_probability": 0.63,
+      "win_probability": 0.64,
       "status": "upcoming",
       "actual_home_score": null,
       "actual_away_score": null,
