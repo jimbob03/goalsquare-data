@@ -2,8 +2,8 @@
   "model_version": "5.2",
   "round": 4,
   "season": 2026,
-  "generated_at": "2026-04-05T09:45:45.497433",
-  "last_updated": "2026-04-05T09:45:45.497437",
+  "generated_at": "2026-04-06T02:33:56.115123",
+  "last_updated": "2026-04-06T02:33:56.115127",
   "data_sources": {
     "squiggle": true,
     "squiggle_weighted": true,
@@ -178,19 +178,19 @@
       "home_code": "HAW",
       "away_code": "GEE",
       "predicted_winner": "Hawthorn",
-      "predicted_margin": 12,
-      "home_score": 100,
-      "away_score": 88,
-      "win_probability": 0.64,
+      "predicted_margin": 10,
+      "home_score": 97,
+      "away_score": 87,
+      "win_probability": 0.6,
       "tier": 3,
       "tier_name": "Lean",
       "venue": "M.C.G.",
       "match_time": "Mon 6 Apr 3:15pm AEST",
       "ev_recommendation": "",
-      "key_factors": "Squiggle weighted consensus: HAW by 5.1 (79.3% agreement, 23/29 \u2014 6 models tip GEE). Top models SPLIT: Holy Grail (76.5%) tips GEE by 4.4 (DISAGREES), What Snoo (70.6%) tips HAW by 11.1, Live Ladders (64.7%) HAW by 7. Only 1 of top 3 disagrees \u2014 Rule 15 not triggered but Holy Grail dissent noted. Wheelo: no explicit prediction in available data. Footy Forecaster: HAW by 10 (59.5%). MCG HGA +3.3 for HAW. Both teams local, no significant travel. HAW ODELO at MCG: net +10.5 (PF lift +3.4, PA lift -7.1, 15W-8L) \u2014 HAW are very strong at MCG defensively. GEE ODELO at MCG: net -9.2 (PF lift -3.7, PA lift +5.5, 10W-5L) \u2014 GEE's attack drops and defence worsens at MCG. Net ODELO venue gap: ~20pts in HAW's favour. HAW form: 2-1 (missing R1 bye), 113 PF avg, W2 streak, attack stable, defence tightening. James Sicily (SC 108), premium backline. Will Day OUT (shoulder, targeting R14 \u2014 long-term, in form). GEE form: 2-1, 82.3 PF avg (lowest of winning teams), 95.0 PA. Max Holmes (SC 121.7), Bailey Smith (SC 119), Tom Stewart (SC 119) all premium. BUT Patrick Dangerfield OUT (leg/calf 1-2wk) \u2014 check confirmed 23. Dangerfield NOT in confirmed GEE 23 = OUT = -4pts (experienced leader/midfielder). Tyson Stengle OUT (individualised program, long-term). Toby Conway OUT (foot TBC). Weather: 20.3C, no rain, calm \u2014 perfect. Line movement: H2H shifted 3.2pts toward GEE (significant per Rule 19 threshold but <5pts). HAW line narrowed from -9.5 to -8.5. Odds: HAW $1.73 (implied 57.8%), GEE $2.40 (implied 41.9%). Our 64% win prob for HAW vs implied 57.8% = 6.2% edge \u2014 below 8% H2H threshold. Line: HAW -8.5, we predict HAW by 12. Edge = 12 - 8.5 = 3.5pts \u2014 below 8.5pt threshold. Total: 186.5, we predict 188 \u2014 edge 1.5pts, below threshold. No value detected. HAW's quality gap is real but GEE are capable \u2014 keeping this at Tier 3.",
-      "injury_impact": "HAW: Will Day OUT (shoulder, targeting R14 return \u2014 long-term, already in form stats). No other major new injuries. Henry Hustwaite (ankle Test), Noah Mraz (quad Test) \u2014 status uncertain but depth players. GEE: Patrick Dangerfield OUT (leg/calf 1-2wk, NOT in confirmed 23 \u2014 if 23 was provided. Note: GEE confirmed 23 not provided in team lists data). If Dangerfield misses = -4pts (experienced leader, SC historically 100+). Tyson Stengle OUT (individualised program, long-term in form). Toby Conway OUT (foot TBC, ruck depth). GEE net: -4 to -5pts from Dangerfield absence if confirmed.",
+      "key_factors": "Squiggle weighted consensus: HAW by 4.3 (79.3% agreement, 23/29 models tip HAW). Top models: Holy Grail (77.1%) tips GEE by 4.4 \u2014 DISAGREES. What Snoo (71.4%) tips HAW by 11.1. Live Ladders (65.7%) HAW by 7.0. Only 1 of top 3 disagrees \u2014 Rule 15 does NOT trigger. Wheelo data not fully visible but HAW are 2-1, PF 113.0 (3rd highest), genuine contenders. GEE 2-1, PF 82.3 (below average). HAW MCG HGA +3.3. HAW ODELO at MCG: net +10.5 (HIGH reliability, 15-8 record, PF lift +3.4, defence tightens -7.1 \u2014 they defend brilliantly at MCG). GEE ODELO at MCG: net -9.2 (HIGH reliability, 10-5 but PF drops -3.7 and defence loosens +5.5). Combined ODELO venue swing: ~19.7pts favoring HAW at MCG \u2014 this is a huge venue-specific edge. GEE travel: local (65km, no penalty). Odds: HAW $1.80 (implied 55.2%) vs GEE $2.22 (implied 44.8%). Line: HAW -6.5 @ $1.90 / GEE +5.5 @ $1.93. Total: 185.5. Line movement: 5.5pts toward GEE (H2H shifted from HAW $1.60 to $1.80, spread narrowed from -9.5 to -6.5). Rule 20 check: 5.5pt shift toward away team at MCG (+3.3 HGA) \u2014 MCG is NOT a strong HGA venue (threshold is 8+), so Rule 20 doesn't trigger. But the line movement is significant \u2014 market sees GEE as more competitive. GEE missing Patrick Dangerfield (calf, 1-2 weeks \u2014 check confirmed team: GEE team not provided in confirmed lists, so rely on injury list). Also missing Tyson Stengle (individualised program), Toby Conway (foot). HAW missing Will Day (shoulder, 2 months \u2014 long-term, baked in). SC validation: Holmes (SC 121.7) and Bailey Smith (SC 119.0) give GEE midfield quality. Stewart (SC 119.0) elite defender. HAW: Sicily (SC 108.0). English-level ruck data not relevant here \u2014 need to check HAW vs GEE ruck matchup. Weather: 17.5C, trace rain, 13km/h wind \u2014 minor impact. Footy Forecaster: HAW by 10 (59.5%) \u2014 agrees with HAW but lower confidence. Our predicted total: 96+88 = 184 vs bookmaker 185.5 \u2014 no edge. Line edge check: HAW by 8, line HAW -6.5. Case C: 8 - 6.5 = 1.5pts. Below 8.5 threshold \u2014 no flag. H2H edge: our 60% vs implied 55.2% = 4.8% edge \u2014 below 8% threshold. No EV found.",
+      "injury_impact": "GEE: Patrick Dangerfield listed as 'calf, 1-2 weeks' \u2014 GEE confirmed team not provided so status uncertain. If OUT, significant loss (-4pts). Tyson Stengle OUT (individualised program \u2014 longer term). Toby Conway OUT (foot). HAW: Will Day OUT (shoulder, 2 months \u2014 long-term, baked in). James Blanck OUT (hip, 2 weeks). Noah Mraz and Henry Hustwaite listed as 'Test' on injury list \u2014 HAW confirmed team not fully provided.",
       "scenarios": [],
-      "last_updated": "2026-04-06T08:00:00"
+      "last_updated": "2026-04-02T08:00:00"
     }
   ],
   "season_record": {
