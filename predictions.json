@@ -2,8 +2,8 @@
   "model_version": "5.2",
   "round": 4,
   "season": 2026,
-  "generated_at": "2026-04-06T02:33:56.115123",
-  "last_updated": "2026-04-06T02:33:56.115127",
+  "generated_at": "2026-04-06T05:10:43.576624",
+  "last_updated": "2026-04-06T05:10:43.576628",
   "data_sources": {
     "squiggle": true,
     "squiggle_weighted": true,
@@ -181,15 +181,32 @@
       "predicted_margin": 10,
       "home_score": 97,
       "away_score": 87,
-      "win_probability": 0.6,
+      "win_probability": 0.62,
       "tier": 3,
       "tier_name": "Lean",
       "venue": "M.C.G.",
       "match_time": "Mon 6 Apr 3:15pm AEST",
-      "ev_recommendation": "",
-      "key_factors": "Squiggle weighted consensus: HAW by 4.3 (79.3% agreement, 23/29 models tip HAW). Top models: Holy Grail (77.1%) tips GEE by 4.4 \u2014 DISAGREES. What Snoo (71.4%) tips HAW by 11.1. Live Ladders (65.7%) HAW by 7.0. Only 1 of top 3 disagrees \u2014 Rule 15 does NOT trigger. Wheelo data not fully visible but HAW are 2-1, PF 113.0 (3rd highest), genuine contenders. GEE 2-1, PF 82.3 (below average). HAW MCG HGA +3.3. HAW ODELO at MCG: net +10.5 (HIGH reliability, 15-8 record, PF lift +3.4, defence tightens -7.1 \u2014 they defend brilliantly at MCG). GEE ODELO at MCG: net -9.2 (HIGH reliability, 10-5 but PF drops -3.7 and defence loosens +5.5). Combined ODELO venue swing: ~19.7pts favoring HAW at MCG \u2014 this is a huge venue-specific edge. GEE travel: local (65km, no penalty). Odds: HAW $1.80 (implied 55.2%) vs GEE $2.22 (implied 44.8%). Line: HAW -6.5 @ $1.90 / GEE +5.5 @ $1.93. Total: 185.5. Line movement: 5.5pts toward GEE (H2H shifted from HAW $1.60 to $1.80, spread narrowed from -9.5 to -6.5). Rule 20 check: 5.5pt shift toward away team at MCG (+3.3 HGA) \u2014 MCG is NOT a strong HGA venue (threshold is 8+), so Rule 20 doesn't trigger. But the line movement is significant \u2014 market sees GEE as more competitive. GEE missing Patrick Dangerfield (calf, 1-2 weeks \u2014 check confirmed team: GEE team not provided in confirmed lists, so rely on injury list). Also missing Tyson Stengle (individualised program), Toby Conway (foot). HAW missing Will Day (shoulder, 2 months \u2014 long-term, baked in). SC validation: Holmes (SC 121.7) and Bailey Smith (SC 119.0) give GEE midfield quality. Stewart (SC 119.0) elite defender. HAW: Sicily (SC 108.0). English-level ruck data not relevant here \u2014 need to check HAW vs GEE ruck matchup. Weather: 17.5C, trace rain, 13km/h wind \u2014 minor impact. Footy Forecaster: HAW by 10 (59.5%) \u2014 agrees with HAW but lower confidence. Our predicted total: 96+88 = 184 vs bookmaker 185.5 \u2014 no edge. Line edge check: HAW by 8, line HAW -6.5. Case C: 8 - 6.5 = 1.5pts. Below 8.5 threshold \u2014 no flag. H2H edge: our 60% vs implied 55.2% = 4.8% edge \u2014 below 8% threshold. No EV found.",
-      "injury_impact": "GEE: Patrick Dangerfield listed as 'calf, 1-2 weeks' \u2014 GEE confirmed team not provided so status uncertain. If OUT, significant loss (-4pts). Tyson Stengle OUT (individualised program \u2014 longer term). Toby Conway OUT (foot). HAW: Will Day OUT (shoulder, 2 months \u2014 long-term, baked in). James Blanck OUT (hip, 2 weeks). Noah Mraz and Henry Hustwaite listed as 'Test' on injury list \u2014 HAW confirmed team not fully provided.",
-      "scenarios": [],
+      "ev_recommendation": "+EV: H2H HAW -- 9.8% edge",
+      "key_factors": "Squiggle weighted consensus: HAW by 4.0 (79.3% agreement, 23/29 models). Top models: Holy Grail (77.1%) tips GEE by 4.4 (DISAGREES), What Snoo (71.4%) tips HAW by 11.1, Live Ladders (65.7%) tips HAW by 7.0. Rule 15 check: Only 1 of top 3 models disagrees \u2014 Rule 15 does NOT trigger. Wheelo preview not fully loaded but form data: HAW 2-1, PF 113.0, PA 95.7 (diff +17.3) vs GEE 2-1, PF 82.3, PA 95.0 (diff -12.7). HAW have a significant form edge. Footy Forecaster: HAW by 10 (59.5%) \u2014 aligns with our view. LINE MOVEMENT CRITICAL: H2H shifted 7.9pts toward GEE (HAW $1.60\u2192$1.92, GEE $2.62\u2192$2.10). Spread narrowed from HAW -9.5 to HAW -4.5 (5pt shift toward GEE). This is a significant market move. Per Rule 19: odds drifting away from HAW by ~20%+ = -2pts to HAW. BUT this may signal late information \u2014 Patrick Dangerfield listed 1-2wks on injury list. Need to check confirmed teams. HAW confirmed 23: no Dangerfield (he's GEE). GEE confirmed team NOT provided in data \u2014 check injury list. Dangerfield listed 'calf, 1-2wks' \u2014 likely OUT but no confirmed 23 to verify. Toby Conway (foot, TBC), Tyson Stengle (individualised program) \u2014 potentially significant outs. HAW ODELO at MCG: net +10.5 (HIGH, 15W-8L) \u2014 excellent home MCG record. GEE ODELO at MCG: net -9.2 (HIGH, 10W-5L) \u2014 they struggle at MCG relative to GMHBA. MCG HGA for HAW: +3.3. GEE local travel (65km) \u2014 no penalty. Supercoach form: HAW Sicily (SC 108), missing Will Day (shoulder, R14 return). GEE: Max Holmes (SC 121.7), Bailey Smith (SC 119), Tom Stewart (SC 119) \u2014 elite trio. But Dangerfield's absence (if confirmed) removes GEE's biggest star. Weather: 21.4C, 0.8mm rain, 17km/h N wind \u2014 minimal MCG impact. Easter Monday blockbuster. SYSTEM CALC: Squiggle weighted HAW by 4.0. Wheelo form gap: HAW +17.3 diff vs GEE -12.7 diff = 30pt form differential. ODELO: HAW +10.5 vs GEE -9.2 at MCG = 19.7pt venue swing. But both teams 2-1, GEE won their last 2 (streak W2, defence tightening). Market shifting toward GEE suggests Dangerfield may play or GEE have other positive news. Rule 19 drift: -2pts from HAW. Footy Forecaster at 10pts. Blended: HAW by 10, accounting for MCG ODELO advantage and form edge, tempered by market movement. Confidence reduced to Tier 3 due to 6 Squiggle models backing GEE and significant market shift.",
+      "injury_impact": "HAW: Will Day OUT (shoulder, targeting R14, long-term, already in form stats). James Blanck OUT (hip, 2wks). Henry Hustwaite (ankle, Test) \u2014 not in confirmed 23 data. Noah Mraz (quad, Test) \u2014 status unclear without confirmed 23. GEE: Patrick Dangerfield likely OUT (calf, 1-2wks) \u2014 would be significant loss but GEE confirmed 23 not provided so cannot verify. If Dangerfield misses = -6pts to GEE (SC avg ~110+, key midfielder). Tyson Stengle OUT (individualised program, long-term, in form stats). Toby Conway (foot, TBC). Jacob Molier OUT (foot, 2-3wks).",
+      "scenarios": [
+        {
+          "label": "If Dangerfield plays",
+          "predicted_winner": "Hawthorn",
+          "predicted_margin": 6,
+          "win_probability": 0.57,
+          "tier": 3,
+          "tier_name": "Lean"
+        },
+        {
+          "label": "If Dangerfield misses",
+          "predicted_winner": "Hawthorn",
+          "predicted_margin": 14,
+          "win_probability": 0.66,
+          "tier": 2,
+          "tier_name": "Strong"
+        }
+      ],
       "last_updated": "2026-04-02T08:00:00"
     }
   ],
