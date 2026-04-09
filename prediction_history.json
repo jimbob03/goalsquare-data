@@ -610,5 +610,22 @@
     "correct": true,
     "margin_error": 9,
     "scored_at": "2026-04-06T08:18:33.578586"
+  },
+  {
+    "game_id": 38530,
+    "round": 5,
+    "season": 2026,
+    "home_team": "Adelaide",
+    "away_team": "Carlton",
+    "predicted_winner": "Adelaide",
+    "predicted_margin": 31,
+    "predicted_tier": 1,
+    "actual_winner": "Adelaide",
+    "actual_margin": 28,
+    "actual_home_score": 114,
+    "actual_away_score": 86,
+    "correct": true,
+    "margin_error": 3,
+    "scored_at": "2026-04-09T15:10:20.602052"
   }
 ]
