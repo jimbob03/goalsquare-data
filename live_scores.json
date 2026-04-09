@@ -1,7 +1,7 @@
 {
   "round": 5,
   "season": 2026,
-  "last_checked": "2026-04-09T10:33:55.495004",
+  "last_checked": "2026-04-09T10:35:23.518053",
   "summary": {
     "correct": 0,
     "total_scored": 0,
@@ -28,10 +28,10 @@
       "tier_name": "Lock",
       "win_probability": 0.84,
       "status": "live",
-      "actual_home_score": 69,
+      "actual_home_score": 70,
       "actual_away_score": 46,
       "actual_winner": "Adelaide",
-      "actual_margin": 23,
+      "actual_margin": 24,
       "correct": true,
       "margin_error": null
     },
