@@ -1,15 +1,15 @@
 {
   "round": 5,
   "season": 2026,
-  "last_checked": "2026-04-10T11:31:41.721766",
+  "last_checked": "2026-04-10T12:09:58.187682",
   "summary": {
-    "correct": 1,
-    "total_scored": 1,
+    "correct": 2,
+    "total_scored": 2,
     "total_games": 9,
     "accuracy": 100.0,
-    "mae": 3.0,
-    "games_live": 1,
-    "games_completed": 1,
+    "mae": 3.5,
+    "games_live": 0,
+    "games_completed": 2,
     "games_upcoming": 7
   },
   "games": [
@@ -49,13 +49,13 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.63,
-      "status": "live",
-      "actual_home_score": 36,
-      "actual_away_score": 32,
-      "actual_winner": "Collingwood",
-      "actual_margin": 4,
-      "correct": false,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 39,
+      "actual_away_score": 45,
+      "actual_winner": "Fremantle",
+      "actual_margin": -6,
+      "correct": true,
+      "margin_error": 4
     },
     {
       "game_id": 38532,
