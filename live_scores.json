@@ -1,7 +1,7 @@
 {
   "round": 5,
   "season": 2026,
-  "last_checked": "2026-04-11T10:42:48.153655",
+  "last_checked": "2026-04-11T11:17:33.981548",
   "summary": {
     "correct": 4,
     "total_scored": 5,
@@ -138,10 +138,10 @@
       "tier_name": "Strong",
       "win_probability": 0.68,
       "status": "live",
-      "actual_home_score": 47,
-      "actual_away_score": 19,
+      "actual_home_score": 69,
+      "actual_away_score": 26,
       "actual_winner": "Hawthorn",
-      "actual_margin": 28,
+      "actual_margin": 43,
       "correct": true,
       "margin_error": null
     },
