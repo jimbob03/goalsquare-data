@@ -1,16 +1,16 @@
 {
   "round": 5,
   "season": 2026,
-  "last_checked": "2026-04-11T05:44:28.697872",
+  "last_checked": "2026-04-11T06:43:16.116806",
   "summary": {
     "correct": 3,
-    "total_scored": 3,
+    "total_scored": 4,
     "total_games": 9,
-    "accuracy": 100.0,
-    "mae": 5.0,
+    "accuracy": 75.0,
+    "mae": 22.2,
     "games_live": 1,
-    "games_completed": 3,
-    "games_upcoming": 5
+    "games_completed": 4,
+    "games_upcoming": 4
   },
   "games": [
     {
@@ -93,13 +93,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.8,
-      "status": "live",
-      "actual_home_score": 107,
-      "actual_away_score": 67,
+      "status": "completed",
+      "actual_home_score": 113,
+      "actual_away_score": 68,
       "actual_winner": "Essendon",
-      "actual_margin": 40,
+      "actual_margin": 45,
       "correct": false,
-      "margin_error": null
+      "margin_error": 74
     },
     {
       "game_id": 38534,
@@ -115,12 +115,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.65,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 35,
+      "actual_away_score": 13,
+      "actual_winner": "Sydney",
+      "actual_margin": 22,
+      "correct": true,
       "margin_error": null
     },
     {
