@@ -1,7 +1,7 @@
 {
   "round": 5,
   "season": 2026,
-  "last_checked": "2026-04-11T07:39:23.211308",
+  "last_checked": "2026-04-11T08:25:20.118936",
   "summary": {
     "correct": 3,
     "total_scored": 4,
@@ -116,10 +116,10 @@
       "tier_name": "Strong",
       "win_probability": 0.67,
       "status": "live",
-      "actual_home_score": 51,
-      "actual_away_score": 35,
+      "actual_home_score": 73,
+      "actual_away_score": 56,
       "actual_winner": "Sydney",
-      "actual_margin": 16,
+      "actual_margin": 17,
       "correct": true,
       "margin_error": null
     },
