@@ -1,15 +1,15 @@
 {
   "round": 5,
   "season": 2026,
-  "last_checked": "2026-04-11T04:24:05.566606",
+  "last_checked": "2026-04-11T05:44:28.697872",
   "summary": {
-    "correct": 2,
-    "total_scored": 2,
+    "correct": 3,
+    "total_scored": 3,
     "total_games": 9,
     "accuracy": 100.0,
-    "mae": 3.5,
-    "games_live": 2,
-    "games_completed": 2,
+    "mae": 5.0,
+    "games_live": 1,
+    "games_completed": 3,
     "games_upcoming": 5
   },
   "games": [
@@ -71,13 +71,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.88,
-      "status": "live",
-      "actual_home_score": 43,
-      "actual_away_score": 53,
+      "status": "completed",
+      "actual_home_score": 66,
+      "actual_away_score": 92,
       "actual_winner": "Brisbane Lions",
-      "actual_margin": -10,
+      "actual_margin": -26,
       "correct": true,
-      "margin_error": null
+      "margin_error": 8
     },
     {
       "game_id": 38533,
@@ -94,11 +94,11 @@
       "tier_name": "Lock",
       "win_probability": 0.8,
       "status": "live",
-      "actual_home_score": 44,
-      "actual_away_score": 50,
-      "actual_winner": "Melbourne",
-      "actual_margin": -6,
-      "correct": true,
+      "actual_home_score": 107,
+      "actual_away_score": 67,
+      "actual_winner": "Essendon",
+      "actual_margin": 40,
+      "correct": false,
       "margin_error": null
     },
     {
