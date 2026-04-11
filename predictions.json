@@ -2,8 +2,8 @@
   "model_version": "5.2",
   "round": 5,
   "season": 2026,
-  "generated_at": "2026-04-11T06:44:25.435098",
-  "last_updated": "2026-04-11T06:44:25.435105",
+  "generated_at": "2026-04-11T09:11:16.496207+00:00",
+  "last_updated": "2026-04-11T09:11:16.496209+00:00",
   "data_sources": {
     "squiggle": true,
     "squiggle_weighted": true,
@@ -43,7 +43,9 @@
       "key_factors": "Squiggle weighted consensus: ADE by 29.9pts (100% model agreement). Top models: Wheelo (77.8%) ADE by 34.1, Holy Grail (75.0%) ADE by 19.95, Drop Kick (75.0%) ADE by 27.29. Wheelo ratings: ADE overall -0.5 vs CAR overall -14.7 \u2014 14.2pt class gap. ADE power ranking 8th (105.9) vs CAR 14th (92.9), 13pt gap. STATS: ADE hitout diff +6.8 vs CAR -5.5 \u2014 ruck advantage to ADE. CAR turnover diff +2.5 (better) vs ADE -1.8 \u2014 CAR wins turnovers, but their contested poss diff +5.8 is inflated (Rule 28i). CAR's only win was vs RIC (18th) \u2014 stats are INFLATED against weak opposition; discount 15-20%. CAR marks I50 diff -5.2 = poor forward entry conversion. Weitering (key fullback) OUT \u2014 confirmed not in CAR 23. WEATHER: 11.6mm rain at Adelaide Oval \u2014 scoring suppression -2pts each team (Rule 32), no material margin shift. Gather Round: no HGA. ADE home-state comfort +2pts. Rest: both teams 6 days. Carlton on 2 consecutive short breaks with interstate travel \u2014 minor fatigue flag. Total line moved 8pts down (Under signal, not margin relevant). MARGIN CALC: Squiggle weighted ADE by 29.9 -> CAR stats inflated Rule 28i (ADE effective +1pt net) = ADE by 30.9 -> ADE home-state comfort +2 = ADE by 32.9 -> Wheelo net impact swing: ADE +6.7, CAR -5.1, total 11.8pts, 25% = +3pts toward ADE = ADE by 35.9 -> weather -2pts each (no margin change) -> FINAL: ADE by 36. Wait \u2014 Rule 28: CAR wins turnovers differential (CAR +2.5 vs ADE -1.8). This is 1 metric against my tip. Only 1 contradiction = no 20% reduction (Rule 28f requires 3+). No reduction applied. FINAL: ADE by 36.",
       "injury_impact": "CAR: Jacob Weitering (key fullback) NOT IN CONFIRMED 23 = OUT. Weitering SC avg ~90, spine player (fullback): -1pt SC + -1pt spine = -2pts toward CAR (already captured in Wheelo net impact of -5.1 for CAR). ADE: Rory Laird confirmed IN (returned, confirmed in 23) \u2014 played last round, no change. Luke Pedlar OUT (concussion protocols, was already missing) = +0pts, already in form data.",
       "scenarios": [],
-      "last_updated": "2026-04-09T07:00:00"
+      "last_updated": "2026-04-09T07:00:00",
+      "locked": true,
+      "locked_at": "2026-04-09T09:40:00+00:00"
     },
     {
       "game_id": 38531,
@@ -64,7 +66,9 @@
       "key_factors": "Squiggle weighted consensus: FRE by 6.5pts (90.3% model agreement). Top models: Wheelo (78.4%) FRE by 10.1, Holy Grail (75.7%) FRE by 15.38, Drop Kick Data (75.7%) FRE by 9.35. All three top models agree on FRE \u2014 Rule 15 does NOT trigger. Wheelo ratings: FRE overall +14.1 vs COL 0.0 \u2014 strong 14.1pt gap. FRE attack +7.1 vs COL attack -5.6; FRE defence +7.0 vs COL defence +5.6. Gather Round: zero HGA. No home-state comfort for either team. FRE on 3-game winning streak (HOT). COL coming off 54-pt blowout loss to BRI. ODELO Adelaide Oval: COL net +3.0 (MEDIUM reliability, 100% 2025 weighting \u2014 cap +2pts Gather Round), FRE net -9.6 (LOW reliability \u2014 per Rule 18 flag, minimal weight). Stats: FRE dominates COL on every key metric \u2014 FRE contested poss diff +19.8 vs COL -18.5 (massive 38.3pt swing), FRE clearance diff +8.0 vs COL -5.5, FRE metres gained +393 vs COL -194. FRE inside 50s 56 avg vs COL 48.5; FRE I50 efficiency 55.4% vs COL 43.3% \u2014 12.1% gap, strong signal. COL wins turnover differential (+3.8 vs FRE -1.0) \u2014 FRE goes against the turnover metric. Rule 28f: COL wins turnovers but FRE wins contested poss, clearances, metres gained, I50+efficiency (4+ metrics favour FRE). FRE tip goes WITH the majority of stats. SC: Luke Jackson (FRE, 122.2 avg) vs Collingwood \u2014 no elite ruck opponent. Serong (117.8) and Bolton (106.2) in elite form. Nick Daicos confirmed IN (SC 131, played R3, was test \u2014 now in 23, genuine return from calf). Daicos is confirmed playing \u2014 no scenario needed. Wheelo player swings: COL +12.5 (Daicos + Pendlebury IN), FRE +0. Swing = 12.5pts, apply 25% = +3.1pts toward COL. Rule 28i: Both BATTLE-TESTED (+3pts each = net 0). Travel: COL -1.5pts (short), FRE -5.5pts (long) \u2014 but Gather Round reduces by 1pt for all non-SA teams (both already in Adelaide): COL penalty 0.5pts, FRE penalty 4.5pts. Net travel favour to COL = ~4pts \u2014 but this is already baked into Squiggle (they know teams travel to GR). NOT a valid adjustment. MARGIN CALC: Squiggle weighted FRE by 6.5 -> Wheelo player swing COL +3.1 (Daicos/Pendlebury IN) = FRE by 3.4 -> COL ODELO Adelaide Oval +2 (capped at Gather Round) = FRE by 1.4 -> COL battle-tested +3 = FRE by -1.6... wait \u2014 both BATTLE-TESTED, net 0 per Rule 29. Rule 28i both battle-tested: net 0. -> FINAL: FRE by 1.4. Round to FRE by 1. Footy Forecaster tips FRE by 12 \u2014 agrees directionally, ignored as supporting evidence (66% model). FF disagrees by less than 10pts from our call \u2014 not a caution flag.",
       "injury_impact": "COL: Nick Daicos confirmed IN (played R3, was Test \u2014 genuine return from calf, now in confirmed 23. Wheelo net impact captures this at +12.5 for COL). Scott Pendlebury confirmed IN (was Test \u2014 also genuine return). Darcy Moore remains OUT (hamstring, already in form data). FRE: No changes this week (Wheelo net impact +0). Oscar McDonald listed as Test but not relevant to margin (fringe player).",
       "scenarios": [],
-      "last_updated": "2026-04-10T07:00:00"
+      "last_updated": "2026-04-10T07:00:00",
+      "locked": true,
+      "locked_at": "2026-04-10T09:40:00+00:00"
     },
     {
       "game_id": 38532,
@@ -86,7 +90,9 @@
       "summary": "Brisbane are massive favourites against a North side missing primary ruck Xerri (suspended) and carrying a -12.4 Wheelo overall rating versus BRI's +14.6. The Lions' midfield trio of Neale, Dunkley and Ashcroft dominates at clearances (BRI diff +12.6 vs NTH +4.6), and BRI are hot with a 3-game winning streak. The line has moved 6pts further toward Brisbane since opening. NTH Coleman-Jones faces a significant step up without the resting structure Xerri provides.",
       "injury_impact": "NTH: Tristan Xerri suspended R4\u2013R7 \u2014 was OUT R4, already reflected in R4/R5 form data = +0pts. Finn O'Sullivan (jaw) OUT \u2014 NOT in confirmed 23, but was already out. BRI: Harris Andrews and Hugh McCluggage IN per confirmed 23 \u2014 Wheelo net impact +15.3 captures these returns. Joyce and Tunstill OUT but Wheelo already accounts for this.",
       "scenarios": [],
-      "last_updated": "2026-04-11T08:00:00"
+      "last_updated": "2026-04-11T08:00:00",
+      "locked": true,
+      "locked_at": "2026-04-11T02:35:00+00:00"
     },
     {
       "game_id": 38533,
@@ -108,7 +114,9 @@
       "summary": "Every Squiggle model backs Melbourne by 25 points, and on paper MEL's stats are compelling \u2014 Gawn (SC 142) dominates the ruck, MEL averages 59 inside 50s vs ESS's 42.8, and Melbourne's -7.4 scoring differential is vastly superior to ESS's -25.2. However, Essendon have an extraordinary Gather Round record against Melbourne \u2014 winning in 2023 and by 39 points in 2025 \u2014 triggering Rule 33's event-specific override (+5pts toward ESS). Combined with ESS's massive ODELO lift at Adelaide Oval in Gather Round games, this game is tighter than consensus suggests. ESS came off a shock 45-point win over Melbourne just last week which creates a fascinating psychological dynamic. Still tip Melbourne but reduce confidence.",
       "injury_impact": "ESS: Robey (DEBUT), Tsatas, Caddy, Ridley IN \u2014 Wheelo net impact +6.5 captures these changes. Perkins, El-Hawli, Guelfi, Johnson OUT \u2014 Wheelo accounts for all. MEL: Fritsch IN, Laurie OUT \u2014 Wheelo net impact +3.4. Petracca (hamstring) remains with Gold Coast \u2014 not relevant to this game.",
       "scenarios": [],
-      "last_updated": "2026-04-11T08:00:00"
+      "last_updated": "2026-04-11T08:00:00",
+      "locked": true,
+      "locked_at": "2026-04-11T03:15:00+00:00"
     },
     {
       "game_id": 38534,
@@ -130,7 +138,9 @@
       "summary": "Sydney and Gold Coast are rated essentially equal by Squiggle power rankings (0.7pt gap), making this the closest matchup of the round. The key edge for Sydney is Petracca's confirmed absence from the GCS 23 (hamstring, Test \u2014 NOT in squad), removing their most dangerous midfielder (SC avg 136) for the second straight week. The market has shifted 5.1pts toward Sydney since opening. Norwood Oval's narrow dimensions suit Sydney's tackle-heavy style. Humphrey also remains suspended, leaving GCS badly depleted in their premium spine.",
       "injury_impact": "GCS: Christian Petracca NOT in confirmed 23 = OUT (hamstring Test status, missed selection). SC avg 136, premium midfielder. New this week confirmation = -3pts to GCS. Humphrey suspended (R6) \u2014 was OUT R4, already in form data = +0pts. Jake Rogers NOT in confirmed 23 (head Test) \u2014 was already out. SYD: Sheldrick suspended (NOT in 23) \u2014 was playing R4. SC avg likely below 90 (depth/fringe). Wheelo net impact -5.8 captures SYD changes (Rosas IN, Sheldrick/Melican OUT).",
       "scenarios": [],
-      "last_updated": "2026-04-11T08:00:00"
+      "last_updated": "2026-04-11T08:00:00",
+      "locked": true,
+      "locked_at": "2026-04-11T06:15:00+00:00"
     },
     {
       "game_id": 38535,
@@ -138,21 +148,21 @@
       "away_team": "Western Bulldogs",
       "home_code": "HAW",
       "away_code": "WBD",
-      "predicted_winner": "Hawthorn",
-      "predicted_margin": 10,
-      "home_score": 94,
-      "away_score": 84,
-      "win_probability": 0.67,
-      "tier": 2,
-      "tier_name": "Strong",
+      "predicted_winner": "Western Bulldogs",
+      "predicted_margin": 6,
+      "home_score": 91,
+      "away_score": 97,
+      "win_probability": 0.56,
+      "tier": 3,
+      "tier_name": "Lean",
       "venue": "Adelaide Oval",
-      "match_time": "Sat 11 Apr 7:35pm AEST",
-      "ev_recommendation": "",
-      "key_factors": "Squiggle weighted consensus: HAW by 1.8pts (17/31 models, 54.8%). Top models: Wheelo (77.5%) HAW by 10.94, Holy Grail (75%) HAW by 7.81, Drop Kick Data (75%) HAW by 9.69. All three top models agree HAW, and cluster 8-11pts \u2014 significantly ABOVE the simple 1.8 consensus. Rule 15 check: 2+ top models must disagree with consensus DIRECTION. All 3 back HAW. Rule 15 NOT triggered. The weighted consensus (1.8) vs top-3 cluster (8-11pts) divergence means the weighted model is being pulled lower by weaker models \u2014 the top-3 cluster is the stronger signal. Wheelo ratings: HAW overall +22.3 vs WBD +22.4 \u2014 essentially identical class. HAW attack +12.6 vs WBD +15.7 (WBD slightly better attack); HAW defence +9.7 vs WBD +6.7 (HAW better defence). Wheelo Net Impact: HAW +4.0 (Amon, Mackenzie IN), WBD -0.2 (Richards, Emmett, Gallagher, Hynes, Scrimshaw, Jones all OUT; Ed Richards knee confirmed OUT \u2014 was playing). Total swing = 4.2pts toward HAW. 25% = +1.05pts toward HAW. Critical WBD outs: Tim English (ruck, knee) NOT in confirmed 23 = OUT. English SC avg 109.2, primary ruck, spine player: -1pt SC + -1pt spine = -2pts. English absence means WBD lose ruck dominance \u2014 confirmed absent per team list. Lachie Jones (Arthur Jones \u2014 Arty Jones) hamstring NOT in confirmed 23 = OUT. Ed Richards knee NOT in confirmed 23 = OUT. Wheelo net impact captures all WBD outs collectively in -0.2. Stats: HAW turnover diff -10.5 vs WBD +3.2 \u2014 WBD wins turnover battle decisively. WBD clearance diff +8.5 vs HAW +2.2. WBD metres gained +340 vs HAW +229. HAW contested poss +9.2 vs WBD +5.5 \u2014 HAW better contested. HAW intercept diff +10.0 vs WBD -3.2 \u2014 massive HAW defensive edge. Stat summary: WBD wins turnovers and clearances; HAW wins intercepts, contested poss. Turnovers most predictive (Rule 28a) \u2014 WBD has +13.7 pt differential advantage in turnovers. This contradicts HAW tip. However only 2 key metrics (turnovers, clearances) contradict \u2014 Rule 28f needs 3+ for reduction. WBD also wins metres gained = 3 metrics contradict HAW tip (turnovers, clearances, metres gained). Rule 28f triggered: reduce HAW margin by 20%. Market: H2H HAW shortened $1.80\u2192$1.70 (3.1pts toward HAW, Rule 19 H2H significant shift). Spread moved 2pts only (under threshold). Use H2H signal: 3.1pt shift = 3-5pt band = +3pts toward HAW. Schedule: HAW battle-tested +3pts; WBD neutral = +3pts toward HAW. Both teams equal travel, equal rest (both short interstate). MARGIN CALC: Squiggle weighted HAW by 1.8 -> Wheelo net impact 25% +1.05 = HAW by 2.85 -> HAW battle-tested +3 = HAW by 5.85 -> Market H2H +3 toward HAW = HAW by 8.85 -> Rule 28f (3 stats contradict: turnovers, clearances, metres gained) 20% reduction: 8.85 x 0.8 = 7.08 -> FINAL pre-round: HAW by 7. Top-3 models cluster 8-11pts; calc at 7 is consistent. FINAL: HAW by 7. FF tips WBD by 7 \u2014 disagrees by 14pts from our final. Caution flag \u2014 consider reducing half tier (was Tier 2, stays Tier 2 given all top Squiggle models back HAW). MARGIN CALC: Squiggle weighted HAW by 1.8 -> Wheelo 25% +1.05 = 2.85 -> Battle-tested +3 = 5.85 -> Market H2H +3 = 8.85 -> Rule 28f -20% = 7.08 -> FINAL: HAW by 7.",
-      "summary": "A genuine coin-flip by Squiggle consensus (54.8% agreement), but the top three models \u2014 Wheelo (10.9), Holy Grail (7.8) and Drop Kick Data (9.7) \u2014 all cluster 8-11pts for Hawthorn, suggesting the consensus is being dragged down by weaker models. Western Bulldogs are missing their primary ruck Tim English (knee), multiple key defenders, and Ed Richards, while Hawthorn get back Amon and Mackenzie. Hawthorn's intercept differential (+10.0) is elite and suits neutral venue football. WBD's turnover differential (+13.7pts) is the biggest risk factor and triggers Rule 28f. FF disagrees by 14pts (WBD by 7) \u2014 genuine caution flag.",
-      "injury_impact": "WBD: Tim English NOT in confirmed 23 = OUT (knee \u2014 new this week). Primary ruck, SC 109.2 (-1pt + -1pt spine). Ed Richards NOT in confirmed 23 = OUT (knee). Arty Jones NOT in confirmed 23 = OUT (hamstring). Emmett, Gallagher, Hynes, Scrimshaw also OUT. Combined captured in Wheelo net impact -0.2 (25% = minor). HAW: Karl Amon IN (confirmed 23, knee Test \u2014 was OUT R4). Cameron Mackenzie IN (knee Test \u2014 was OUT R4). Wheelo net impact +4.0 captures both returns.",
-      "scenarios": [],
-      "last_updated": "2026-04-11T08:00:00"
+      "match_time": "Sun 12 Apr 5:35am AEST",
+      "ev_recommendation": "+EV: Western Bulldogs +1.5 @ $2.58",
+      "key_factors": "WBD undefeated (4-0, +31.5 avg diff) vs Hawthorn's solid but less dominant form. Close contest expected on neutral venue.",
+      "injury_impact": "No significant injury impacts identified",
+      "last_updated": "2026-04-11T08:00:00",
+      "locked": false,
+      "first_predicted_at": "2026-04-11T09:11:16.496179+00:00"
     },
     {
       "game_id": 38536,
@@ -161,20 +171,20 @@
       "home_code": "GEE",
       "away_code": "WCE",
       "predicted_winner": "Geelong",
-      "predicted_margin": 47,
-      "home_score": 106,
-      "away_score": 58,
-      "win_probability": 0.94,
+      "predicted_margin": 42,
+      "home_score": 108,
+      "away_score": 66,
+      "win_probability": 0.87,
       "tier": 1,
       "tier_name": "Lock",
       "venue": "Norwood Oval",
-      "match_time": "Sun 12 Apr 12:30pm AEST",
-      "ev_recommendation": "+EV: TOTAL UNDER 192.5 -- 28.5pt edge (~75% hit)",
-      "key_factors": "Squiggle weighted consensus: GEE by 48.8pts (100%, 31/31 models). Top models: Wheelo (77.5%) GEE by 51.11, Holy Grail (75%) GEE by 46.22, Drop Kick Data (75%) GEE by 57.38. All top-3 agree GEE \u2014 Rule 15 NOT triggered. Top-3 cluster 46-57pts. Wheelo ratings: GEE overall +10.1 vs WCE -25.6 \u2014 35.7pt class gap. Massive structural difference. Wheelo Net Impact: GEE -0.9, WCE +1.1. Total swing = 2.0pts toward WCE. 25% = +0.5pts toward WCE \u2014 negligible. Stats: GEE turnover diff +3.0 vs WCE +2.2 (GEE slight edge). GEE metres gained -78 vs WCE -762 \u2014 GEE massively better territory. GEE Marks I50 +1.2 vs WCE -7.2 \u2014 GEE forward dominance. WCE Goals Diff -7.0 vs GEE -1.5. GEE I50 efficiency 40.3% vs WCE 48.6% \u2014 WCE slightly better efficiency but much fewer I50s (46.2 vs 57.8). WCE ruck situation concerning: Samson Ryan suspended (R6, was R4 check \u2014 per injury list Ryan suspended R6, so playing R4... wait injury list says 'Samson Ryan | Suspended | Round 6' meaning he serves suspension IN Round 6, so he's available for R5. Confirmed GWS vs RIC game has Ryan NOT in confirmed 23: 'OUTS: Kane McAuliffe, Callum Brown, Samson Ryan...' \u2014 that is the GWS/RIC game. For GEE vs WCE, Ryan is not on this team. WCE ruck situation: Hitout diff WCE -19.5. GEE hitout diff -20.8 \u2014 both poor but WCE more negative. Norwood Oval no ODELO data for either \u2014 minimal weight. GEE vs WCE H2H: GEE 8-2 last 10. H2H drifted +4.0pts toward GEE (H2H from $1.13\u2192$1.08 = 4pt shift, significant). Rule 19: 3-5pt shift = +3pts toward GEE. Schedule: GEE battle-tested +3pts; WCE also battle-tested +3pts \u2014 cancel. WCE came off 128-point loss \u2014 Rule 9 bounce-back of +5-8pts. However WCE had a bounce-back opportunity in a 17pt win before that. Rule 14: loss was 128pts, extreme. Apply +6pt bounce back for WCE. MARGIN CALC: Squiggle weighted GEE by 48.8 -> Wheelo net impact 25% +0.5 toward WCE = GEE by 48.3 -> Market H2H +3 toward GEE = GEE by 51.3 -> WCE bounce-back Rule 14 +6 toward WCE = GEE by 45.3 -> FINAL: GEE by 45. [Top-3 cluster 46-57 \u2014 45 is consistent with bottom of range.] FINAL: Geelong by 45. Line check: GEE -46.5. Predicted GEE by 45. Edge = 45 - 46.5 = -1.5pts (we predict UNDER the line). No line value for either side. Total: 107+57=164 vs line 192.5. Edge = 164-192.5 = 28.5pts UNDER. Qualifies! Under threshold exceeded by 16pts.",
-      "summary": "Geelong are massive 35-point class superiority favourites with every one of the 31 Squiggle models agreeing. WCE travel from Perth (cross-country fatigue), have the worst scoring differential in the competition (-42.0) and concede 119.5 points per game. Geelong's territory dominance (metres gained advantage: +684 on WCE) and the Cats' H2H dominance (8-2 last 10) make this as one-sided as it gets. The market has continued to move toward Geelong. Apply a modest WCE bounce-back after last week's 128-point drubbing.",
-      "injury_impact": "GEE: Worpel, Kolodjashnij, O'Connor, Blicavs IN; Flynn, Henry, Cripps, Martin, Champion OUT. Wheelo net impact -0.9 (minor). Patrick Dangerfield listed Test \u2014 NOT in confirmed GEE 23. Check confirmed list: Geelong team list not fully shown in data. Dangerfield listed 'Test' on injury list \u2014 no confirmed 23 provided for GEE. Per team_changes data: GEE INS include Worpel, Kolodjashnij, O'Connor, Blicavs. No mention of Dangerfield in INS or OUTS \u2014 status unclear. Wheelo net impact -0.9 is the best data available. WCE: Multiple players OUT \u2014 Matt Flynn, Jack Henry, Jamie Cripps, Jack Martin, Malakai Champion. Wheelo net impact +1.1 (marginal). Samson Ryan is GWS/RIC game related \u2014 not relevant here.",
-      "scenarios": [],
-      "last_updated": "2026-04-12T08:00:00"
+      "match_time": "Sun 12 Apr 10:30pm AEST",
+      "ev_recommendation": "",
+      "key_factors": "West Coast's catastrophic form (-42.0 avg diff, lost by 128 last round) vs Geelong's stability. Massive travel penalty for WCE.",
+      "injury_impact": "No significant injury impacts identified",
+      "last_updated": "2026-04-12T08:00:00",
+      "locked": false,
+      "first_predicted_at": "2026-04-11T09:11:16.496193+00:00"
     },
     {
       "game_id": 38537,
@@ -184,19 +194,19 @@
       "away_code": "RIC",
       "predicted_winner": "Greater Western Sydney",
       "predicted_margin": 38,
-      "home_score": 93,
-      "away_score": 55,
-      "win_probability": 0.88,
+      "home_score": 89,
+      "away_score": 51,
+      "win_probability": 0.85,
       "tier": 1,
       "tier_name": "Lock",
       "venue": "Barossa Park",
-      "match_time": "Sun 12 Apr 3:15pm AEST",
-      "ev_recommendation": "+EV: TOTAL UNDER 178.5 -- 30.5pt edge (~75% hit)",
-      "key_factors": "Squiggle weighted consensus: GWS by 34.5pts (100%, 31/31 models). Top models: Wheelo (77.5%) GWS by 32.51, Holy Grail (75%) GWS by 14.24, Drop Kick Data (75%) GWS by 38.32. Holy Grail at 14.24 significantly BELOW consensus of 34.5. Rule 15 check: Do 2+ of top 3 disagree with consensus DIRECTION? Holy Grail: GWS by 14 (same direction), Wheelo: GWS by 32 (same direction), DKD: GWS by 38 (same direction). All same direction = Rule 15 NOT triggered. Wheelo ratings: GWS overall +1.4 vs RIC -30.9 \u2014 32.3pt class gap. Wheelo Net Impact: GWS +14.4 (Daniels, Buckley, Hayes-Brown, Madden IN vs major outs), RIC +0.7. Total swing = 13.7pts toward GWS. 25% = +3.4pts toward GWS. Stats: RIC turnover diff +7.2 vs GWS +2.5 \u2014 RIC surprisingly wins turnover battle. However RIC metres gained -600 vs GWS -150. GWS I50 58.2 vs RIC 45.5 \u2014 GWS massive I50 advantage. GWS scores/I50 37.8% vs RIC only 39.6% (RIC slightly more efficient but massively fewer I50s). GWS tackles +9.0 vs RIC +1.0. Stat summary: RIC wins turnovers (contradicts GWS tip), but GWS wins I50s, metres gained, tackles \u2014 3 of 4 key metrics support GWS. Rule 28f: tip is GWS, RIC wins turnovers (1 metric contradicts) \u2014 below threshold for reduction. Rule 23: RIC scored 60, 43, 48 in last 3 games \u2014 structural decline, bounce-back NOT applied. Schedule: GWS battle-tested +3pts; RIC neutral = +3pts toward GWS. Samson Ryan (primary ruck) confirmed OUT from confirmed GWS vs RIC 23 (in OUTS list: 'Samson Ryan'). Ryan suspended R6 but per confirmed team list R5 he's OUT. Wait \u2014 the injury list says 'Samson Ryan | Suspended | Round 6' meaning suspension STARTS Round 6 (i.e. he serves it in R6), so he SHOULD be available R5. But he's listed in OUTS for R5 GWS vs RIC. The TEAM LIST is ultimate authority \u2014 Ryan is in OUTS for this game. So Ryan is NOT playing R5. Did he play R4? Yes, he was playing (the model context mentions 'Samson Ryan (ruck) may face MRO suspension for off-the-ball punch in R4'). Suspension effective from Round 5 then (suspended for R5+, serves in R6 per the 1-week ban). Ryan OUT = new this week. Primary ruck, SC data not in top list \u2014 apply spine modifier: SC data unavailable for Ryan specifically. RIC already has hitout diff -19.5 (worst stat). Ryan OUT compounds this. No SC data = apply -1pt (spine player without SC data). Barossa Park: ODELO LOW reliability for GWS (no data), RIC net -28.5 (LOW, 1 game, 0W-1L) \u2014 minimal weight per rules. Market: GWS spread moved 3.0pts (Rule 19: exactly 3pts = +3pts toward GWS per Rule 19 enforcement note \u2014 '3pts is NOT a boundary case, apply the full +3pts'). H2H also moved 3.1pts toward GWS \u2014 same signal, use once (larger of two signals both = 3pts). Apply +3pts toward GWS once only. MARGIN CALC: Squiggle weighted GWS by 34.5 -> Wheelo net impact 25% +3.4 toward GWS = GWS by 37.9 -> GWS battle-tested +3 = GWS by 40.9 -> Market line movement +3 toward GWS = GWS by 43.9 -> Ryan OUT (new, primary ruck, spine, no SC data) -1 toward RIC = GWS by 42.9 -> Rule 23 prevents RIC bounce-back (scored 60,43,48 \u2014 structural decline) = no adjustment -> FINAL: GWS by 43. Note: Holy Grail at GWS by 14 is a significant outlier vs consensus and calc. But Rule 15 requires 2 of top-3 to disagree \u2014 only 1 (HG) is low. Proceed with calc. FINAL: GWS by 43.",
-      "summary": "GWS are heavy favourites over a 0-4 Richmond side with a structurally broken scoring trajectory (60, 43, 48 in last three games). The Giants get key players back with Daniels, Buckley, Hayes-Brown and Madden returning (Wheelo net +14.4), while Richmond lose primary ruck Samson Ryan (suspended) confirmed out from the team list. GWS's inside-50 dominance (58.2 vs 45.5) and territorial advantage should see a comfortable win. The spread has moved 3 further points toward GWS since opening.",
-      "injury_impact": "RIC: Samson Ryan NOT in confirmed 23 (OUT \u2014 suspended, confirmed from team list). Primary ruck, new this week = -1pt. Ryan was playing R4. No viable ruck option. GWS: Cadman (hip, Test) NOT in confirmed 23 per OUTS list. Daniels (hamstring, Test) IN per confirmed 23. Bedford (hamstring, Test) NOT in confirmed 23 per OUTS. Multiple GWS outs (Briggs, Ryan... wait Kieren Briggs is listed in GWS OUTS \u2014 GWS lose BOTH rucks effectively). Wheelo net impact +14.4 captures all changes.",
-      "scenarios": [],
-      "last_updated": "2026-04-12T08:00:00"
+      "match_time": "Mon 13 Apr 1:15am AEST",
+      "ev_recommendation": "",
+      "key_factors": "Richmond winless (0-4, -43.5 avg diff) facing GWS who despite struggles are significantly better. Bottom vs second-bottom clash.",
+      "injury_impact": "No significant injury impacts identified",
+      "last_updated": "2026-04-12T08:00:00",
+      "locked": false,
+      "first_predicted_at": "2026-04-11T09:11:16.496199+00:00"
     },
     {
       "game_id": 38538,
@@ -204,27 +214,27 @@
       "away_team": "St Kilda",
       "home_code": "PTA",
       "away_code": "STK",
-      "predicted_winner": "St Kilda",
-      "predicted_margin": 6,
-      "home_score": 83,
-      "away_score": 89,
-      "win_probability": 0.57,
+      "predicted_winner": "Port Adelaide",
+      "predicted_margin": 12,
+      "home_score": 88,
+      "away_score": 76,
+      "win_probability": 0.62,
       "tier": 3,
       "tier_name": "Lean",
       "venue": "Adelaide Oval",
-      "match_time": "Sun 12 Apr 7:15pm AEST",
-      "ev_recommendation": "",
-      "key_factors": "Squiggle weighted consensus: STK by 2.0pts (16/31 models, 51.6%). Top models: Wheelo (77.5%) STK by 9.36, Holy Grail (75%) STK by 0.64, Drop Kick Data (75%) STK by 11.97. Top-3: Wheelo STK 9.36, HG STK 0.64, DKD STK 11.97. Rule 15 check: 2+ must disagree with consensus DIRECTION. All 3 tip STK = same direction. Rule 15 NOT triggered. However note: consensus is only 51.6%, genuine coin flip territory with slight STK lean from top models. Wheelo ratings: STK overall -3.7 vs PTA -11.9 \u2014 STK 8.2pt better. STK attack -1.8, PTA attack -6.5; STK defence -2.0, PTA defence -5.4. Wheelo Net Impact: PTA data not shown in provided team_changes (PTA vs STK section missing from team_changes.txt). Using SC fallback: PTA changes \u2014 Marshall (ankle, Test). Per confirmed 23 analysis: no confirmed 23 shown for PTA vs STK (team_changes only goes to HAW vs WBD in the provided text). Cannot confirm Marshall's status \u2014 treat as no confirmed change. No confirmed team lists = no player adjustment for this game. Stats: STK contested poss +5.0 vs PTA -7.0 \u2014 STK wins contested ball. STK hitout +5.0 vs PTA +4.5 \u2014 marginal. PTA metres gained +300 vs STK -248 \u2014 PTA significant territory edge. PTA goals diff +2.2 vs STK -2.5 \u2014 PTA scores more. Stats split: PTA wins metres gained, goals. STK wins contested poss. Rule 28a (turnovers): PTA -2.2 vs STK -2.5 \u2014 essentially equal, both negative. No clear turnover advantage. Schedule: PTA INFLATED (wins only vs ESS and RIC \u2014 bottom-4 teams). Rule 28i: discount PTA stats 15-20%. PTA's metres gained advantage of +300 discounted to ~250 \u2014 still meaningful but weakened. PTA goals diff discounted. Apply -1pt to PTA for inflated stats (Rule 29: minimum 1pt if flagged). STK battle-tested +3pts (losses vs COL, MEL, BRI \u2014 all top-10 at time). ODELO: PTA net +16.9 at Adelaide Oval (HIGH, 15 games, 8W-7L) \u2014 significant venue performance lift. STK net -12.7 (LOW, 2 games \u2014 minimal weight per Rule 18). PTA ODELO at Adelaide Oval is HIGH reliability and the best single venue metric available. Cap at +2pts Gather Round. PTA home-state comfort +2pts (SA team, capped at 2). Wait \u2014 ODELO cap AND home-state comfort: these are separate. ODELO adjustment capped at +2 for Gather Round. Home-state comfort is a separate +2 (max) but also capped. To avoid double-counting, use only ODELO (the more specific signal) = +2pts toward PTA. Market: H2H moved only -0.6pts, spread moved only +1.0pt \u2014 below thresholds, no Rule 19 adjustment. Todd Marshall ankle Test status \u2014 not in provided confirmed 23 (data not available for this game). Butters SC 117.2 playing = PTA has midfield firepower. Sinclair SC 124.5 (Saints) is elite. MARGIN CALC: Squiggle weighted STK by 2.0 -> STK battle-tested +3 = STK by 5.0 -> PTA inflated stats penalty -1 toward STK = STK by 6.0 -> PTA ODELO Adelaide Oval +2 toward PTA (capped Gather Round) = STK by 4.0 -> PTA home-state comfort \u2014 already captured by ODELO, skip to avoid double-count -> FINAL: STK by 4. FF tips PTA by 12 \u2014 disagrees with tip direction AND by 16pts from our final. Strong caution flag. FF at 61% backing PTA vs our STK call. This is a genuine risk. Half-tier reduction considered \u2014 already Tier 3. Maintaining STK call based on Wheelo ratings and Squiggle weighted consensus, but noted as high-risk lean. FINAL: STK by 4.",
-      "summary": "The tightest game of the round \u2014 only 16 of 31 Squiggle models back St Kilda, but the top models lean STK (Wheelo 9.4, DKD 12.0). Wheelo rates STK as the better-quality team by 8 points, and STK have been battle-tested with losses against top-10 opposition all season. Port Adelaide's wins have come exclusively against ESS and RIC (both bottom-4), inflating their stats against weak opposition. Footy Forecaster disagrees strongly (PTA by 12) \u2014 a genuine caution flag. Jack Sinclair (SC 124.5) and Callum Wilkie (SC 112.2) lead a STK defensive group that has shown resilience. Very close game, treat as a lean only.",
-      "injury_impact": "PTA: Todd Marshall (ankle, Test) \u2014 status uncertain. Confirmed team lists for this game not available in provided data. Rozee (hamstring, 12-14 weeks) remains OUT \u2014 long-term, already in form = +0pts. STK: Multiple Tests \u2014 Hunter Clark, Cooper Sharman, Liam Henry, Paddy Dow all listed as Tests. Without confirmed 23 for this game, status unclear. Jackson Macrae (knee, 1 week) likely OUT \u2014 was in R4. Max King (knee, TBC) remains doubtful. Limited confirmed information = minimal adjustment applied.",
-      "scenarios": [],
-      "last_updated": "2026-04-12T08:00:00"
+      "match_time": "Mon 13 Apr 5:15am AEST",
+      "ev_recommendation": "+EV: Port Adelaide -6.5 @ $2.32",
+      "key_factors": "Port Adelaide Oval advantage with better 2026 differential (+14.2 vs -13.5). Recent form momentum after 42pt win last round.",
+      "injury_impact": "No significant injury impacts identified",
+      "last_updated": "2026-04-12T08:00:00",
+      "locked": false,
+      "first_predicted_at": "2026-04-11T09:11:16.496201+00:00"
     }
   ],
   "season_record": {
     "tips_correct": 34,
     "tips_total": 38,
     "accuracy": 89.5,
-    "mae": 18.4
+    "mae": 17.2
   }
 }
