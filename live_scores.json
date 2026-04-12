@@ -1,16 +1,16 @@
 {
   "round": 5,
   "season": 2026,
-  "last_checked": "2026-04-12T04:48:24.084111",
+  "last_checked": "2026-04-12T06:16:23.470362",
   "summary": {
-    "correct": 5,
-    "total_scored": 6,
+    "correct": 6,
+    "total_scored": 7,
     "total_games": 9,
-    "accuracy": 83.3,
-    "mae": 19.3,
+    "accuracy": 85.7,
+    "mae": 16.9,
     "games_live": 1,
-    "games_completed": 6,
-    "games_upcoming": 2
+    "games_completed": 7,
+    "games_upcoming": 1
   },
   "games": [
     {
@@ -159,13 +159,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.95,
-      "status": "live",
-      "actual_home_score": 103,
-      "actual_away_score": 62,
+      "status": "completed",
+      "actual_home_score": 122,
+      "actual_away_score": 76,
       "actual_winner": "Geelong",
-      "actual_margin": 41,
+      "actual_margin": 46,
       "correct": true,
-      "margin_error": null
+      "margin_error": 2
     },
     {
       "game_id": 38537,
@@ -181,12 +181,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.91,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 72,
+      "actual_away_score": 26,
+      "actual_winner": "Greater Western Sydney",
+      "actual_margin": 46,
+      "correct": true,
       "margin_error": null
     },
     {
