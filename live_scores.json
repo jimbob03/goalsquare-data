@@ -1,16 +1,16 @@
 {
   "round": 5,
   "season": 2026,
-  "last_checked": "2026-04-12T08:33:16.866623",
+  "last_checked": "2026-04-12T09:29:05.913138",
   "summary": {
     "correct": 7,
     "total_scored": 8,
     "total_games": 9,
     "accuracy": 87.5,
     "mae": 16.8,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 8,
-    "games_upcoming": 1
+    "games_upcoming": 0
   },
   "games": [
     {
@@ -197,18 +197,18 @@
       "away_code": "STK",
       "venue": "Adelaide Oval",
       "predicted_winner": "St Kilda",
-      "predicted_margin": 6,
-      "predicted_home_score": 82,
-      "predicted_away_score": 88,
+      "predicted_margin": 5,
+      "predicted_home_score": 86,
+      "predicted_away_score": 91,
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.55,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 0,
+      "actual_away_score": 21,
+      "actual_winner": "St Kilda",
+      "actual_margin": -21,
+      "correct": true,
       "margin_error": null
     }
   ]
