@@ -1,7 +1,7 @@
 {
   "round": 5,
   "season": 2026,
-  "last_checked": "2026-04-12T09:29:05.913138",
+  "last_checked": "2026-04-12T10:10:08.525082",
   "summary": {
     "correct": 7,
     "total_scored": 8,
@@ -204,10 +204,10 @@
       "tier_name": "Lean",
       "win_probability": 0.55,
       "status": "live",
-      "actual_home_score": 0,
-      "actual_away_score": 21,
+      "actual_home_score": 27,
+      "actual_away_score": 49,
       "actual_winner": "St Kilda",
-      "actual_margin": -21,
+      "actual_margin": -22,
       "correct": true,
       "margin_error": null
     }
