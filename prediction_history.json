@@ -763,5 +763,22 @@
     "correct": true,
     "margin_error": 9,
     "scored_at": "2026-04-12T12:44:25.733975"
+  },
+  {
+    "game_id": 38539,
+    "round": 6,
+    "season": 2026,
+    "home_team": "Carlton",
+    "away_team": "Collingwood",
+    "predicted_winner": "Collingwood",
+    "predicted_margin": 9,
+    "predicted_tier": 3,
+    "actual_winner": "Collingwood",
+    "actual_margin": 5,
+    "actual_home_score": 83,
+    "actual_away_score": 88,
+    "correct": true,
+    "margin_error": 4,
+    "scored_at": "2026-04-16T15:14:40.638102"
   }
 ]
