@@ -1,7 +1,7 @@
 {
   "round": 6,
   "season": 2026,
-  "last_checked": "2026-04-17T10:45:30.444323",
+  "last_checked": "2026-04-17T11:39:04.184331",
   "summary": {
     "correct": 1,
     "total_scored": 1,
@@ -50,10 +50,10 @@
       "tier_name": "Lean",
       "win_probability": 0.62,
       "status": "live",
-      "actual_home_score": 78,
-      "actual_away_score": 21,
+      "actual_home_score": 90,
+      "actual_away_score": 54,
       "actual_winner": "Geelong",
-      "actual_margin": 57,
+      "actual_margin": 36,
       "correct": true,
       "margin_error": null
     },
@@ -72,8 +72,8 @@
       "tier_name": "Lock",
       "win_probability": 0.82,
       "status": "live",
-      "actual_home_score": 44,
-      "actual_away_score": 25,
+      "actual_home_score": 45,
+      "actual_away_score": 26,
       "actual_winner": "Sydney",
       "actual_margin": 19,
       "correct": true,
