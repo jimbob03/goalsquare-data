@@ -780,5 +780,39 @@
     "correct": true,
     "margin_error": 4,
     "scored_at": "2026-04-16T15:14:40.638102"
+  },
+  {
+    "game_id": 38540,
+    "round": 6,
+    "season": 2026,
+    "home_team": "Geelong",
+    "away_team": "Western Bulldogs",
+    "predicted_winner": "Geelong",
+    "predicted_margin": 6,
+    "predicted_tier": 3,
+    "actual_winner": "Geelong",
+    "actual_margin": 75,
+    "actual_home_score": 131,
+    "actual_away_score": 56,
+    "correct": true,
+    "margin_error": 69,
+    "scored_at": "2026-04-17T14:44:04.161480"
+  },
+  {
+    "game_id": 38541,
+    "round": 6,
+    "season": 2026,
+    "home_team": "Sydney",
+    "away_team": "Greater Western Sydney",
+    "predicted_winner": "Sydney",
+    "predicted_margin": 28,
+    "predicted_tier": 1,
+    "actual_winner": "Sydney",
+    "actual_margin": 41,
+    "actual_home_score": 107,
+    "actual_away_score": 66,
+    "correct": true,
+    "margin_error": 13,
+    "scored_at": "2026-04-17T14:44:04.161496"
   }
 ]
