@@ -1,16 +1,16 @@
 {
   "round": 6,
   "season": 2026,
-  "last_checked": "2026-04-18T09:04:37.828291",
+  "last_checked": "2026-04-18T09:58:53.019664",
   "summary": {
     "correct": 5,
     "total_scored": 5,
     "total_games": 9,
     "accuracy": 100.0,
     "mae": 30.2,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 5,
-    "games_upcoming": 4
+    "games_upcoming": 3
   },
   "games": [
     {
@@ -137,12 +137,12 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.56,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 8,
+      "actual_away_score": 22,
+      "actual_winner": "St Kilda",
+      "actual_margin": -14,
+      "correct": true,
       "margin_error": null
     },
     {
