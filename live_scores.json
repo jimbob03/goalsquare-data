@@ -1,7 +1,7 @@
 {
   "round": 6,
   "season": 2026,
-  "last_checked": "2026-04-18T03:37:54.525427",
+  "last_checked": "2026-04-18T04:33:45.069777",
   "summary": {
     "correct": 3,
     "total_scored": 3,
@@ -94,10 +94,10 @@
       "tier_name": "Lock",
       "win_probability": 0.86,
       "status": "live",
-      "actual_home_score": 15,
-      "actual_away_score": 24,
+      "actual_home_score": 58,
+      "actual_away_score": 61,
       "actual_winner": "Essendon",
-      "actual_margin": -9,
+      "actual_margin": -3,
       "correct": false,
       "margin_error": null
     },
