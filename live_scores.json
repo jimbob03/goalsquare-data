@@ -1,15 +1,15 @@
 {
   "round": 6,
   "season": 2026,
-  "last_checked": "2026-04-18T04:33:45.069777",
+  "last_checked": "2026-04-18T06:01:40.879493",
   "summary": {
-    "correct": 3,
-    "total_scored": 3,
+    "correct": 4,
+    "total_scored": 4,
     "total_games": 9,
     "accuracy": 100.0,
-    "mae": 28.7,
-    "games_live": 1,
-    "games_completed": 3,
+    "mae": 26.8,
+    "games_live": 0,
+    "games_completed": 4,
     "games_upcoming": 5
   },
   "games": [
@@ -93,13 +93,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.86,
-      "status": "live",
-      "actual_home_score": 58,
-      "actual_away_score": 61,
-      "actual_winner": "Essendon",
-      "actual_margin": -3,
-      "correct": false,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 119,
+      "actual_away_score": 110,
+      "actual_winner": "Gold Coast",
+      "actual_margin": 9,
+      "correct": true,
+      "margin_error": 21
     },
     {
       "game_id": 38543,
