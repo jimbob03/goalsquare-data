@@ -1,7 +1,7 @@
 {
   "round": 6,
   "season": 2026,
-  "last_checked": "2026-04-19T08:27:39.449427",
+  "last_checked": "2026-04-19T09:06:33.979940",
   "summary": {
     "correct": 6,
     "total_scored": 8,
@@ -204,10 +204,10 @@
       "tier_name": "Lock",
       "win_probability": 0.9,
       "status": "live",
-      "actual_home_score": 20,
-      "actual_away_score": 42,
+      "actual_home_score": 32,
+      "actual_away_score": 70,
       "actual_winner": "Fremantle",
-      "actual_margin": -22,
+      "actual_margin": -38,
       "correct": true,
       "margin_error": null
     }
