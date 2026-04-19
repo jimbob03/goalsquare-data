@@ -1,7 +1,7 @@
 {
   "round": 6,
   "season": 2026,
-  "last_checked": "2026-04-19T03:47:17.190537",
+  "last_checked": "2026-04-19T05:14:23.048224",
   "summary": {
     "correct": 5,
     "total_scored": 6,
@@ -160,10 +160,10 @@
       "tier_name": "Lock",
       "win_probability": 0.82,
       "status": "live",
-      "actual_home_score": 33,
-      "actual_away_score": 13,
+      "actual_home_score": 92,
+      "actual_away_score": 36,
       "actual_winner": "North Melbourne",
-      "actual_margin": 20,
+      "actual_margin": 56,
       "correct": true,
       "margin_error": null
     },
