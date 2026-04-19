@@ -1,7 +1,7 @@
 {
   "round": 6,
   "season": 2026,
-  "last_checked": "2026-04-19T08:03:55.890134",
+  "last_checked": "2026-04-19T08:27:39.449427",
   "summary": {
     "correct": 6,
     "total_scored": 8,
@@ -205,9 +205,9 @@
       "win_probability": 0.9,
       "status": "live",
       "actual_home_score": 20,
-      "actual_away_score": 35,
+      "actual_away_score": 42,
       "actual_winner": "Fremantle",
-      "actual_margin": -15,
+      "actual_margin": -22,
       "correct": true,
       "margin_error": null
     }
