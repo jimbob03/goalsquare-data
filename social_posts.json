@@ -1,74 +1,74 @@
 {
-  "generated_at": "2026-04-19T11:29:00.139560",
+  "generated_at": "2026-04-19T13:38:58.151277",
   "total_posts": 12,
   "posts": [
     {
       "type": "round_summary",
-      "content": "🏈 ROUND 7 PREDICTIONS\n\n📊 Season: 45/51 (88.2%)\n\n🤔 WBD vs SYD — WBD by 10\n🔒 RIC vs MEL — MEL by 26\n🔒 HAW vs GCS — HAW by 24\n🔒 ESS vs COL — COL by 26\n🔒 PTA vs GEE — GEE by 20\n🔒 FRE vs CAR — FRE by 27\n🔒 STK vs WCE — STK by 28\n🔒 BRI vs ADE — BRI by 27\n🔒 GWS vs NTH — GWS by 21\n\n💰 Value plays:\n  +EV: H2H WBD -- 42.7% edge (WBD 64% true prob vs 22.3% implied) | +EV: LINE WBD +26.5 -- 36.5pt edge (~85% cover)\n  +EV: LINE RIC +35.5 -- 9.5pt edge (~65% cover)\n  +EV: H2H HAW -- 16.5% edge (78% true prob vs 61.5% implied) | +EV: LINE HAW -8.5 -- 15.5pt edge (~75% cover)\n  +EV: H2H COL -- 13.7% edge (83% true prob vs 69.3% implied)\n  +EV: LINE WCE +40.5 -- 12.5pt edge (~70% cover)\n  +EV: H2H BRI -- 12.3% edge (84% true prob vs 71.7% implied)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
+      "content": "🏈 ROUND 7 PREDICTIONS\n\n📊 Season: 47/54 (87.0%)\n\n🤔 WBD vs SYD — WBD by 9\n🔒 RIC vs MEL — MEL by 27\n💪 HAW vs GCS — HAW by 20\n💪 ESS vs COL — COL by 20\n🔒 PTA vs GEE — GEE by 20\n🔒 FRE vs CAR — FRE by 28\n🔒 STK vs WCE — STK by 28\n🔒 BRI vs ADE — BRI by 28\n💪 GWS vs NTH — GWS by 18\n\n💰 Value plays:\n  +EV: H2H WBD -- 34.9% edge | +EV: LINE WBD +26.5 -- 35.5pt edge (~80% cover)\n  +EV: LINE RIC +36.5 -- 9.5pt edge (~65% cover)\n  +EV: LINE HAW -9.5 -- 10.5pt edge (~70% cover)\n  +EV: LINE WCE +40.5 -- 12.5pt edge (~70% cover)\n  +EV: H2H BRI -- 9.3% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
       "schedule": "wednesday_evening"
     },
     {
       "type": "ev_summary",
-      "content": "💰 ROUND 7 VALUE PLAYS\n\nWhere our model sees edge:\n\n📌 WBD vs SYD: +EV: H2H WBD -- 42.7% edge (WBD 64% true prob vs 22.3% implied)\n📌 WBD vs SYD: +EV: LINE WBD +26.5 -- 36.5pt edge (~85% cover)\n📌 RIC vs MEL: +EV: LINE RIC +35.5 -- 9.5pt edge (~65% cover)\n📌 HAW vs GCS: +EV: H2H HAW -- 16.5% edge (78% true prob vs 61.5% implied)\n📌 HAW vs GCS: +EV: LINE HAW -8.5 -- 15.5pt edge (~75% cover)\n📌 ESS vs COL: +EV: H2H COL -- 13.7% edge (83% true prob vs 69.3% implied)\n📌 STK vs WCE: +EV: LINE WCE +40.5 -- 12.5pt edge (~70% cover)\n📌 BRI vs ADE: +EV: H2H BRI -- 12.3% edge (84% true prob vs 71.7% implied)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare",
+      "content": "💰 ROUND 7 VALUE PLAYS\n\nWhere our model sees edge:\n\n📌 WBD vs SYD: +EV: H2H WBD -- 34.9% edge\n📌 WBD vs SYD: +EV: LINE WBD +26.5 -- 35.5pt edge (~80% cover)\n📌 RIC vs MEL: +EV: LINE RIC +36.5 -- 9.5pt edge (~65% cover)\n📌 HAW vs GCS: +EV: LINE HAW -9.5 -- 10.5pt edge (~70% cover)\n📌 STK vs WCE: +EV: LINE WCE +40.5 -- 12.5pt edge (~70% cover)\n📌 BRI vs ADE: +EV: H2H BRI -- 9.3% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare",
       "schedule": "thursday_morning"
     },
     {
       "type": "game_preview",
       "game": "WBD vs SYD",
-      "content": "🏈 WBD vs SYD\n\n🤔 Western Bulldogs by 10 | 64% win prob\n📍 Docklands | Thu 23 Apr 7:30pm AEST\n🏆 Tier 3 — Lean\n\n💰 +EV: H2H WBD -- 42.7% edge (WBD 64% true prob vs 22.3% implied) | +EV: LINE WBD +26.5 -- 36.5pt edge (~85% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #WesternBulldogs #Sydney",
+      "content": "🏈 WBD vs SYD\n\n🤔 Western Bulldogs by 9 | 57% win prob\n📍 Docklands | Thu 23 Apr 7:30pm AEST\n🏆 Tier 3 — Lean\n\n💰 +EV: H2H WBD -- 34.9% edge | +EV: LINE WBD +26.5 -- 35.5pt edge (~80% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #WesternBulldogs #Sydney",
       "schedule": "before_Thu"
     },
     {
       "type": "game_preview",
       "game": "RIC vs MEL",
-      "content": "🏈 RIC vs MEL\n\n🔒 Melbourne by 26 | 85% win prob\n📍 M.C.G. | Fri 24 Apr 7:40pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: LINE RIC +35.5 -- 9.5pt edge (~65% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Richmond #Melbourne",
+      "content": "🏈 RIC vs MEL\n\n🔒 Melbourne by 27 | 82% win prob\n📍 M.C.G. | Fri 24 Apr 7:40pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: LINE RIC +36.5 -- 9.5pt edge (~65% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Richmond #Melbourne",
       "schedule": "before_Fri"
     },
     {
       "type": "game_preview",
       "game": "HAW vs GCS",
-      "content": "🏈 HAW vs GCS\n\n🔒 Hawthorn by 24 | 78% win prob\n📍 York Park | Sat 25 Apr 12:15pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H HAW -- 16.5% edge (78% true prob vs 61.5% implied) | +EV: LINE HAW -8.5 -- 15.5pt edge (~75% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Hawthorn #GoldCoast",
+      "content": "🏈 HAW vs GCS\n\n💪 Hawthorn by 20 | 68% win prob\n📍 York Park | Sat 25 Apr 12:15pm AEST\n🏆 Tier 2 — Strong\n\n💰 +EV: LINE HAW -9.5 -- 10.5pt edge (~70% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Hawthorn #GoldCoast",
       "schedule": "before_Sat"
     },
     {
       "type": "game_preview",
       "game": "ESS vs COL",
-      "content": "🏈 ESS vs COL\n\n🔒 Collingwood by 26 | 83% win prob\n📍 M.C.G. | Sat 25 Apr 3:15pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H COL -- 13.7% edge (83% true prob vs 69.3% implied)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Essendon #Collingwood",
+      "content": "🏈 ESS vs COL\n\n💪 Collingwood by 20 | 65% win prob\n📍 M.C.G. | Sat 25 Apr 3:15pm AEST\n🏆 Tier 2 — Strong\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Essendon #Collingwood",
       "schedule": "before_Sat"
     },
     {
       "type": "game_preview",
       "game": "PTA vs GEE",
-      "content": "🏈 PTA vs GEE\n\n🔒 Geelong by 20 | 82% win prob\n📍 Adelaide Oval | Sat 25 Apr 6:35pm AEST\n🏆 Tier 1 — Lock\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #PortAdelaide #Geelong",
+      "content": "🏈 PTA vs GEE\n\n🔒 Geelong by 20 | 76% win prob\n📍 Adelaide Oval | Sat 25 Apr 6:35pm AEST\n🏆 Tier 1 — Lock\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #PortAdelaide #Geelong",
       "schedule": "before_Sat"
     },
     {
       "type": "game_preview",
       "game": "FRE vs CAR",
-      "content": "🏈 FRE vs CAR\n\n🔒 Fremantle by 27 | 87% win prob\n📍 Perth Stadium | Sat 25 Apr 8:15pm AEST\n🏆 Tier 1 — Lock\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Fremantle #Carlton",
+      "content": "🏈 FRE vs CAR\n\n🔒 Fremantle by 28 | 84% win prob\n📍 Perth Stadium | Sat 25 Apr 8:15pm AEST\n🏆 Tier 1 — Lock\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Fremantle #Carlton",
       "schedule": "before_Sat"
     },
     {
       "type": "game_preview",
       "game": "STK vs WCE",
-      "content": "🏈 STK vs WCE\n\n🔒 St Kilda by 28 | 87% win prob\n📍 Docklands | Sun 26 Apr 1:10pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: LINE WCE +40.5 -- 12.5pt edge (~70% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #StKilda #WestCoast",
+      "content": "🏈 STK vs WCE\n\n🔒 St Kilda by 28 | 86% win prob\n📍 Docklands | Sun 26 Apr 1:10pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: LINE WCE +40.5 -- 12.5pt edge (~70% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #StKilda #WestCoast",
       "schedule": "before_Sun"
     },
     {
       "type": "game_preview",
       "game": "BRI vs ADE",
-      "content": "🏈 BRI vs ADE\n\n🔒 Brisbane Lions by 27 | 84% win prob\n📍 Gabba | Sun 26 Apr 3:15pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H BRI -- 12.3% edge (84% true prob vs 71.7% implied)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #BrisbaneLions #Adelaide",
+      "content": "🏈 BRI vs ADE\n\n🔒 Brisbane Lions by 28 | 81% win prob\n📍 Gabba | Sun 26 Apr 3:15pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H BRI -- 9.3% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #BrisbaneLions #Adelaide",
       "schedule": "before_Sun"
     },
     {
       "type": "game_preview",
       "game": "GWS vs NTH",
-      "content": "🏈 GWS vs NTH\n\n🔒 Greater Western Sydney by 21 | 76% win prob\n📍 Manuka Oval | Sun 26 Apr 4:40pm AEST\n🏆 Tier 1 — Lock\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #GWS #NorthMelbourne",
+      "content": "🏈 GWS vs NTH\n\n💪 Greater Western Sydney by 18 | 65% win prob\n📍 Manuka Oval | Sun 26 Apr 4:40pm AEST\n🏆 Tier 2 — Strong\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #GWS #NorthMelbourne",
       "schedule": "before_Sun"
     },
     {
       "type": "scorecard",
-      "content": "📊 ROUND 7 SCORECARD\n\n⏳ WBD vs SYD — Tipped WBD by 10\n⏳ RIC vs MEL — Tipped MEL by 26\n⏳ HAW vs GCS — Tipped HAW by 24\n⏳ ESS vs COL — Tipped COL by 26\n⏳ PTA vs GEE — Tipped GEE by 20\n⏳ FRE vs CAR — Tipped FRE by 27\n⏳ STK vs WCE — Tipped STK by 28\n⏳ BRI vs ADE — Tipped BRI by 27\n⏳ GWS vs NTH — Tipped GWS by 21\n\nSeason: 45/51 (88.2%)\n\ngoalsquare.com.au\n#AFL #GoalSquare",
+      "content": "📊 ROUND 7 SCORECARD\n\n⏳ WBD vs SYD — Tipped WBD by 9\n⏳ RIC vs MEL — Tipped MEL by 27\n⏳ HAW vs GCS — Tipped HAW by 20\n⏳ ESS vs COL — Tipped COL by 20\n⏳ PTA vs GEE — Tipped GEE by 20\n⏳ FRE vs CAR — Tipped FRE by 28\n⏳ STK vs WCE — Tipped STK by 28\n⏳ BRI vs ADE — Tipped BRI by 28\n⏳ GWS vs NTH — Tipped GWS by 18\n\nSeason: 47/54 (87.0%)\n\ngoalsquare.com.au\n#AFL #GoalSquare",
       "schedule": "after_last_game"
     }
   ]
