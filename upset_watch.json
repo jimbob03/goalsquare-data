@@ -1,0 +1,30 @@
+{
+  "round": 7,
+  "generated_at": "2026-04-20T12:48:46.174962",
+  "alert_count": 1,
+  "alerts": [
+    {
+      "type": "COLLAPSE_MISMATCH",
+      "tier": "HIGH",
+      "game": "RIC vs MEL",
+      "venue": "M.C.G.",
+      "our_tip": "MEL by 28",
+      "upset_call": "MEL blowout 40+ likely",
+      "reason": "RIC in structural collapse (library) + RIC scored <60 recently ([48, 75, 55]) + MEL ODELO +16.8 HIGH at M.C.G.",
+      "history": "R6 NTH vs RIC: collapse + fortress = won by 75 (predicted 28)",
+      "confidence_note": "Collapse teams at fortress venues lose by 40+ on average",
+      "game_id": 38549,
+      "predicted_margin": 28,
+      "predicted_winner": "Melbourne"
+    }
+  ],
+  "content_pack": {
+    "headline": "Round 7 Upset Watch: RIC vs MEL \u2014 MEL blowout 40+ likely",
+    "tweet": "Round 7 Pattern Alert\n\nRIC vs MEL: MEL blowout 40+ likely\n\nWhy: RIC in structural collapse (library) + RIC scored <60 recently ([48, 75, 55]) + MEL ODELO +16.8 HIGH at M.C.G.\n\nConsensus: MEL by 28\nOur read: HIGH confidence",
+    "email_section": "### 1. RIC vs MEL \u2014 MEL blowout 40+ likely\n**Pattern:** COLLAPSE_MISMATCH (HIGH)\n**Why:** RIC in structural collapse (library) + RIC scored <60 recently ([48, 75, 55]) + MEL ODELO +16.8 HIGH at M.C.G.",
+    "video_hook": "Round 7 has one game I can't stop thinking about. RIC vs MEL at M.C.G.. MEL blowout 40+ likely.",
+    "all_alerts_short": [
+      "RIC vs MEL: MEL blowout 40+ likely (COLLAPSE_MISMATCH, HIGH)"
+    ]
+  }
+}
