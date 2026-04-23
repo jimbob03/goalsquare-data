@@ -1,7 +1,7 @@
 {
   "round": 7,
   "season": 2026,
-  "last_checked": "2026-04-23T11:27:50.561966",
+  "last_checked": "2026-04-23T11:37:25.757626",
   "summary": {
     "correct": 0,
     "total_scored": 0,
@@ -28,8 +28,8 @@
       "tier_name": "Lean",
       "win_probability": 0.64,
       "status": "live",
-      "actual_home_score": 47,
-      "actual_away_score": 81,
+      "actual_home_score": 53,
+      "actual_away_score": 87,
       "actual_winner": "Sydney",
       "actual_margin": -34,
       "correct": false,
