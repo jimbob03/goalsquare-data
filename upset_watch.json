@@ -1,6 +1,6 @@
 {
   "round": 7,
-  "generated_at": "2026-04-23T08:38:44.043744",
+  "generated_at": "2026-04-23T09:08:16.132003",
   "alert_count": 1,
   "alerts": [
     {
@@ -9,23 +9,23 @@
       "tier": "MODERATE",
       "game": "WBD vs SYD",
       "venue": "Marvel Stadium",
-      "our_tip": "WES by 8",
-      "upset_call": "Market divergence \u2014 review before locking",
-      "reason": "Spread shifted -6.0pts, significance MAJOR",
+      "our_tip": "WES by 9",
+      "upset_call": "Market moved 7.0pts toward WBD (market agrees \u2014 moved toward WBD)",
+      "reason": "Spread shifted 7.0pts toward WBD, significance MAJOR",
       "history": "Sharp money often right when moving against consensus",
       "confidence_note": "Consider late mail or team news moving the market",
       "game_id": 38548,
-      "predicted_margin": 8,
+      "predicted_margin": 9,
       "predicted_winner": "Western Bulldogs"
     }
   ],
   "content_pack": {
-    "headline": "Round 7 Upset Watch: WBD vs SYD \u2014 Market divergence \u2014 review before locking",
-    "tweet": "Round 7 Pattern Alert\n\nWBD vs SYD: Market divergence \u2014 review before locking\n\nWhy: Spread shifted -6.0pts, significance MAJOR\n\nConsensus: WES by 8\nOur read: MODERATE confidence",
-    "email_section": "### 1. WBD vs SYD \u2014 Market divergence \u2014 review before locking\n**Pattern:** MARKET_DIVERGENCE (MODERATE)\n**Why:** Spread shifted -6.0pts, significance MAJOR",
-    "video_hook": "Round 7 has one game I can't stop thinking about. WBD vs SYD at Marvel Stadium. Market divergence \u2014 review before locking.",
+    "headline": "Round 7 Upset Watch: WBD vs SYD \u2014 Market moved 7.0pts toward WBD (market agrees \u2014 moved toward WBD)",
+    "tweet": "Round 7 Pattern Alert\n\nWBD vs SYD: Market moved 7.0pts toward WBD (market agrees \u2014 moved toward WBD)\n\nWhy: Spread shifted 7.0pts toward WBD, significance MAJOR\n\nConsensus: WES by 9\nOur read: MODERATE confidence",
+    "email_section": "### 1. WBD vs SYD \u2014 Market moved 7.0pts toward WBD (market agrees \u2014 moved toward WBD)\n**Pattern:** MARKET_DIVERGENCE (MODERATE)\n**Why:** Spread shifted 7.0pts toward WBD, significance MAJOR",
+    "video_hook": "Round 7 has one game I can't stop thinking about. WBD vs SYD at Marvel Stadium. Market moved 7.0pts toward WBD (market agrees \u2014 moved toward WBD).",
     "all_alerts_short": [
-      "WBD vs SYD: Market divergence \u2014 review before locking (MARKET_DIVERGENCE, MODERATE)"
+      "WBD vs SYD: Market moved 7.0pts toward WBD (market agrees \u2014 moved toward WBD) (MARKET_DIVERGENCE, MODERATE)"
     ]
   }
 }
