@@ -916,5 +916,22 @@
     "correct": true,
     "margin_error": 23,
     "scored_at": "2026-04-19T11:30:58.534858"
+  },
+  {
+    "game_id": 38548,
+    "round": 7,
+    "season": 2026,
+    "home_team": "Western Bulldogs",
+    "away_team": "Sydney",
+    "predicted_winner": "Western Bulldogs",
+    "predicted_margin": 9,
+    "predicted_tier": 3,
+    "actual_winner": "Sydney",
+    "actual_margin": 66,
+    "actual_home_score": 60,
+    "actual_away_score": 126,
+    "correct": false,
+    "margin_error": 75,
+    "scored_at": "2026-04-23T15:28:52.059174"
   }
 ]
