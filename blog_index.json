@@ -1,8 +1,12 @@
 {
   "round": 7,
   "season": 2026,
-  "generated_at": "2026-04-23T10:11:34.377404Z",
+  "generated_at": "2026-04-24T10:15:47.400522Z",
   "index": {
-    "38549": "richmond-vs-melbourne-round-7-2026"
+    "38549": "richmond-vs-melbourne-round-7-2026",
+    "38551": "essendon-vs-collingwood-round-7-2026",
+    "38552": "port-adelaide-vs-geelong-round-7-2026",
+    "38553": "fremantle-vs-carlton-round-7-2026",
+    "38550": "hawthorn-vs-gold-coast-round-7-2026"
   }
 }
