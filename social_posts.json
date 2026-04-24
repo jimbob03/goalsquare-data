@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T02:16:03.779379",
-  "total_posts": 13,
+  "generated_at": "2026-04-24T10:44:24.808397",
+  "total_posts": 17,
   "posts": [
     {
       "type": "round_summary",
@@ -74,6 +74,42 @@
       "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r7-ric-vs-mel.png",
       "content": "🔒 RIC vs MEL — OUR LOCK\n\nMEL by 52 at M.C.G.\n\nCollapse + fortress combo firing — model flags a blowout\n\nFull analysis → https://goalsquare.com.au/post/richmond-vs-melbourne-round-7-2026\n\n#AFL #AFLTips #GoalSquare #Richmond #Melbourne",
       "schedule": "day_before_fri"
+    },
+    {
+      "type": "blog_preview",
+      "game": "HAW vs GCS",
+      "game_day": "Sat",
+      "blog_slug": "hawthorn-vs-gold-coast-round-7-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r7-haw-vs-gcs.png",
+      "content": "💪 HAW vs GCS — STRONG TIP\n\nHAW by 20 at York Park\n\nFull analysis → https://goalsquare.com.au/post/hawthorn-vs-gold-coast-round-7-2026\n\n#AFL #AFLTips #GoalSquare #Hawthorn #GoldCoast",
+      "schedule": "day_before_sat"
+    },
+    {
+      "type": "blog_preview",
+      "game": "ESS vs COL",
+      "game_day": "Sat",
+      "blog_slug": "essendon-vs-collingwood-round-7-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r7-ess-vs-col.png",
+      "content": "🔒 ESS vs COL — OUR LOCK\n\nCOL by 25 at M.C.G.\n\nESS struggle at this venue: 1W-8L (ODELO -17)\n\nFull analysis → https://goalsquare.com.au/post/essendon-vs-collingwood-round-7-2026\n\n#AFL #AFLTips #GoalSquare #Essendon #Collingwood",
+      "schedule": "day_before_sat"
+    },
+    {
+      "type": "blog_preview",
+      "game": "PTA vs GEE",
+      "game_day": "Sat",
+      "blog_slug": "port-adelaide-vs-geelong-round-7-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r7-pta-vs-gee.png",
+      "content": "🔒 PTA vs GEE — OUR LOCK\n\nGEE by 29 at Adelaide Oval\n\nGEE have dominated the recent H2H — avg 82pt margin\n\nFull analysis → https://goalsquare.com.au/post/port-adelaide-vs-geelong-round-7-2026\n\n#AFL #AFLTips #GoalSquare #PortAdelaide #Geelong",
+      "schedule": "day_before_sat"
+    },
+    {
+      "type": "blog_preview",
+      "game": "FRE vs CAR",
+      "game_day": "Sat",
+      "blog_slug": "fremantle-vs-carlton-round-7-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r7-fre-vs-car.png",
+      "content": "🔒 FRE vs CAR — OUR LOCK\n\nFRE by 36 at Perth Stadium\n\nCollapse + fortress combo firing — model flags a blowout\n\nFull analysis → https://goalsquare.com.au/post/fremantle-vs-carlton-round-7-2026\n\n#AFL #AFLTips #GoalSquare #Fremantle #Carlton",
+      "schedule": "day_before_sat"
     },
     {
       "type": "scorecard",
