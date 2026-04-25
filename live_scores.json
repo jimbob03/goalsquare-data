@@ -1,16 +1,16 @@
 {
   "round": 7,
   "season": 2026,
-  "last_checked": "2026-04-25T04:32:44.071081",
+  "last_checked": "2026-04-25T05:39:10.526738",
   "summary": {
-    "correct": 1,
-    "total_scored": 2,
+    "correct": 2,
+    "total_scored": 3,
     "total_games": 9,
-    "accuracy": 50.0,
-    "mae": 38.5,
+    "accuracy": 66.7,
+    "mae": 35.3,
     "games_live": 1,
-    "games_completed": 2,
-    "games_upcoming": 6
+    "games_completed": 3,
+    "games_upcoming": 5
   },
   "games": [
     {
@@ -71,13 +71,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.71,
-      "status": "live",
-      "actual_home_score": 81,
-      "actual_away_score": 60,
+      "status": "completed",
+      "actual_home_score": 112,
+      "actual_away_score": 63,
       "actual_winner": "Hawthorn",
-      "actual_margin": 21,
+      "actual_margin": 49,
       "correct": true,
-      "margin_error": null
+      "margin_error": 29
     },
     {
       "game_id": 38551,
@@ -93,12 +93,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.78,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 2,
+      "actual_away_score": 12,
+      "actual_winner": "Collingwood",
+      "actual_margin": -10,
+      "correct": true,
       "margin_error": null
     },
     {
