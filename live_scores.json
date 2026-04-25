@@ -1,16 +1,16 @@
 {
   "round": 7,
   "season": 2026,
-  "last_checked": "2026-04-25T08:35:58.123247",
+  "last_checked": "2026-04-25T09:35:55.736219",
   "summary": {
     "correct": 3,
     "total_scored": 4,
     "total_games": 9,
     "accuracy": 75.0,
     "mae": 39.5,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 4,
-    "games_upcoming": 5
+    "games_upcoming": 4
   },
   "games": [
     {
@@ -115,12 +115,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.83,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 49,
+      "actual_away_score": 36,
+      "actual_winner": "Port Adelaide",
+      "actual_margin": 13,
+      "correct": false,
       "margin_error": null
     },
     {
