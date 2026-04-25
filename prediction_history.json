@@ -933,22 +933,5 @@
     "correct": false,
     "margin_error": 75,
     "scored_at": "2026-04-23T15:28:52.059174"
-  },
-  {
-    "game_id": 38549,
-    "round": 7,
-    "season": 2026,
-    "home_team": "Richmond",
-    "away_team": "Melbourne",
-    "predicted_winner": "Melbourne",
-    "predicted_margin": 52,
-    "predicted_tier": 1,
-    "actual_winner": "Melbourne",
-    "actual_margin": 54,
-    "actual_home_score": 72,
-    "actual_away_score": 126,
-    "correct": true,
-    "margin_error": 2,
-    "scored_at": "2026-04-24T22:15:02.327768"
   }
 ]
