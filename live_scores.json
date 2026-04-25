@@ -1,7 +1,7 @@
 {
   "round": 7,
   "season": 2026,
-  "last_checked": "2026-04-25T06:10:22.794324",
+  "last_checked": "2026-04-25T07:44:55.183403",
   "summary": {
     "correct": 2,
     "total_scored": 3,
@@ -94,10 +94,10 @@
       "tier_name": "Lock",
       "win_probability": 0.78,
       "status": "live",
-      "actual_home_score": 21,
-      "actual_away_score": 32,
+      "actual_home_score": 48,
+      "actual_away_score": 124,
       "actual_winner": "Collingwood",
-      "actual_margin": -11,
+      "actual_margin": -76,
       "correct": true,
       "margin_error": null
     },
