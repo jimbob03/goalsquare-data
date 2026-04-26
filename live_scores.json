@@ -1,7 +1,7 @@
 {
   "round": 7,
   "season": 2026,
-  "last_checked": "2026-04-26T06:46:19.689381",
+  "last_checked": "2026-04-26T06:56:57.173265",
   "summary": {
     "correct": 5,
     "total_scored": 7,
@@ -182,8 +182,8 @@
       "tier_name": "Lock",
       "win_probability": 0.87,
       "status": "live",
-      "actual_home_score": 62,
-      "actual_away_score": 39,
+      "actual_home_score": 68,
+      "actual_away_score": 45,
       "actual_winner": "Brisbane Lions",
       "actual_margin": 23,
       "correct": true,
@@ -204,11 +204,11 @@
       "tier_name": "Lean",
       "win_probability": 0.62,
       "status": "live",
-      "actual_home_score": 6,
-      "actual_away_score": 0,
-      "actual_winner": "Greater Western Sydney",
-      "actual_margin": 6,
-      "correct": true,
+      "actual_home_score": 7,
+      "actual_away_score": 13,
+      "actual_winner": "North Melbourne",
+      "actual_margin": -6,
+      "correct": false,
       "margin_error": null
     }
   ]
