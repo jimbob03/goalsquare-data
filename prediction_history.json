@@ -949,7 +949,7 @@
     "actual_away_score": 126,
     "correct": true,
     "margin_error": 2,
-    "scored_at": "2026-04-26T10:55:23.519416"
+    "scored_at": "2026-04-26T10:58:31.876414"
   },
   {
     "game_id": 38550,
@@ -966,7 +966,7 @@
     "actual_away_score": 63,
     "correct": true,
     "margin_error": 29,
-    "scored_at": "2026-04-26T10:55:23.519427"
+    "scored_at": "2026-04-26T10:58:31.876428"
   },
   {
     "game_id": 38551,
@@ -983,7 +983,7 @@
     "actual_away_score": 137,
     "correct": true,
     "margin_error": 52,
-    "scored_at": "2026-04-26T10:55:23.519431"
+    "scored_at": "2026-04-26T10:58:31.876432"
   },
   {
     "game_id": 38552,
@@ -1000,7 +1000,7 @@
     "actual_away_score": 65,
     "correct": false,
     "margin_error": 60,
-    "scored_at": "2026-04-26T10:55:23.519434"
+    "scored_at": "2026-04-26T10:58:31.876435"
   },
   {
     "game_id": 38553,
@@ -1017,7 +1017,7 @@
     "actual_away_score": 89,
     "correct": true,
     "margin_error": 23,
-    "scored_at": "2026-04-26T10:55:23.519437"
+    "scored_at": "2026-04-26T10:58:31.876438"
   },
   {
     "game_id": 38554,
@@ -1034,7 +1034,7 @@
     "actual_away_score": 42,
     "correct": true,
     "margin_error": 64,
-    "scored_at": "2026-04-26T10:55:23.519439"
+    "scored_at": "2026-04-26T10:58:31.876441"
   },
   {
     "game_id": 38555,
@@ -1051,7 +1051,7 @@
     "actual_away_score": 75,
     "correct": true,
     "margin_error": 23,
-    "scored_at": "2026-04-26T10:55:23.519442"
+    "scored_at": "2026-04-26T10:58:31.876444"
   },
   {
     "game_id": 38556,
@@ -1068,6 +1068,6 @@
     "actual_away_score": 98,
     "correct": true,
     "margin_error": 5,
-    "scored_at": "2026-04-26T10:55:23.519444"
+    "scored_at": "2026-04-26T10:58:31.876447"
   }
 ]
