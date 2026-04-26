@@ -1,31 +1,31 @@
 {
-  "round": 7,
-  "generated_at": "2026-04-25T10:30:03.760783",
+  "round": 8,
+  "generated_at": "2026-04-26T10:09:56.272482",
   "alert_count": 1,
   "alerts": [
     {
-      "type": "MARKET_DIVERGENCE",
-      "category": "CAUTION",
-      "tier": "MODERATE",
-      "game": "FRE vs CAR",
-      "venue": "Perth Stadium",
-      "our_tip": "FRE by 37",
-      "upset_call": "Market moved 8.0pts toward FRE (market agrees \u2014 moved toward FRE)",
-      "reason": "Spread shifted 8.0pts toward FRE, significance MAJOR",
-      "history": "Sharp money often right when moving against consensus",
-      "confidence_note": "Consider late mail or team news moving the market",
-      "game_id": 38553,
-      "predicted_margin": 37,
+      "type": "FORTRESS_UPSET",
+      "category": "UPSET",
+      "tier": "STRONG",
+      "game": "WBD vs FRE",
+      "venue": "Docklands",
+      "our_tip": "FRE by 6",
+      "upset_call": "WBD LIVE at home",
+      "reason": "WBD ODELO +22.0 HIGH vs FRE ODELO -29.7 at Docklands",
+      "history": "12W-4L",
+      "confidence_note": "Fortress +22.0 ODELO historically wins at high rate",
+      "game_id": 38558,
+      "predicted_margin": 6,
       "predicted_winner": "Fremantle"
     }
   ],
   "content_pack": {
-    "headline": "Round 7 Upset Watch: FRE vs CAR \u2014 Market moved 8.0pts toward FRE (market agrees \u2014 moved toward FRE)",
-    "tweet": "Round 7 Pattern Alert\n\nFRE vs CAR: Market moved 8.0pts toward FRE (market agrees \u2014 moved toward FRE)\n\nWhy: Spread shifted 8.0pts toward FRE, significance MAJOR\n\nConsensus: FRE by 37\nOur read: MODERATE confidence",
-    "email_section": "### 1. FRE vs CAR \u2014 Market moved 8.0pts toward FRE (market agrees \u2014 moved toward FRE)\n**Pattern:** MARKET_DIVERGENCE (MODERATE)\n**Why:** Spread shifted 8.0pts toward FRE, significance MAJOR",
-    "video_hook": "Round 7 has one game I can't stop thinking about. FRE vs CAR at Perth Stadium. Market moved 8.0pts toward FRE (market agrees \u2014 moved toward FRE).",
+    "headline": "Round 8 Upset Watch: WBD vs FRE \u2014 WBD LIVE at home",
+    "tweet": "Round 8 Pattern Alert\n\nWBD vs FRE: WBD LIVE at home\n\nWhy: WBD ODELO +22.0 HIGH vs FRE ODELO -29.7 at Docklands\n\nConsensus: FRE by 6\nOur read: STRONG confidence",
+    "email_section": "### 1. WBD vs FRE \u2014 WBD LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** WBD ODELO +22.0 HIGH vs FRE ODELO -29.7 at Docklands",
+    "video_hook": "Round 8 has one game I can't stop thinking about. WBD vs FRE at Docklands. WBD LIVE at home.",
     "all_alerts_short": [
-      "FRE vs CAR: Market moved 8.0pts toward FRE (market agrees \u2014 moved toward FRE) (MARKET_DIVERGENCE, MODERATE)"
+      "WBD vs FRE: WBD LIVE at home (FORTRESS_UPSET, STRONG)"
     ]
   }
 }
