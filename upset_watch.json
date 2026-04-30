@@ -1,6 +1,6 @@
 {
   "round": 8,
-  "generated_at": "2026-04-29T11:15:04.794213",
+  "generated_at": "2026-04-30T08:52:07.129524",
   "alert_count": 2,
   "alerts": [
     {
@@ -9,13 +9,13 @@
       "tier": "STRONG",
       "game": "WBD vs FRE",
       "venue": "Marvel Stadium",
-      "our_tip": "FRE by 6",
+      "our_tip": "FRE by 7",
       "upset_call": "WBD LIVE at home",
       "reason": "WBD ODELO +22.0 HIGH vs FRE ODELO -29.7 at Marvel Stadium",
       "history": "12W-4L",
       "confidence_note": "Fortress +22.0 ODELO historically wins at high rate",
       "game_id": 38558,
-      "predicted_margin": 6,
+      "predicted_margin": 7,
       "predicted_winner": "Fremantle"
     },
     {
@@ -24,24 +24,24 @@
       "tier": "MODERATE",
       "game": "COL vs HAW",
       "venue": "M.C.G.",
-      "our_tip": "HAW by 20",
-      "upset_call": "Market moved 9.0pts toward HAW (market agrees \u2014 moved toward HAW)",
-      "reason": "Spread shifted 9.0pts toward HAW, significance MAJOR",
+      "our_tip": "HAW by 21",
+      "upset_call": "Market moved 7.0pts toward HAW (market agrees \u2014 moved toward HAW)",
+      "reason": "Spread shifted 7.0pts toward HAW, significance MAJOR",
       "history": "Sharp money often right when moving against consensus",
       "confidence_note": "Consider late mail or team news moving the market",
       "game_id": 38557,
-      "predicted_margin": 20,
+      "predicted_margin": 21,
       "predicted_winner": "Hawthorn"
     }
   ],
   "content_pack": {
     "headline": "Round 8 Upset Watch: WBD vs FRE \u2014 WBD LIVE at home",
-    "tweet": "Round 8 Pattern Alert\n\nWBD vs FRE: WBD LIVE at home\n\nWhy: WBD ODELO +22.0 HIGH vs FRE ODELO -29.7 at Marvel Stadium\n\nConsensus: FRE by 6\nOur read: STRONG confidence",
-    "email_section": "### 1. WBD vs FRE \u2014 WBD LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** WBD ODELO +22.0 HIGH vs FRE ODELO -29.7 at Marvel Stadium\n### 2. COL vs HAW \u2014 Market moved 9.0pts toward HAW (market agrees \u2014 moved toward HAW)\n**Pattern:** MARKET_DIVERGENCE (MODERATE)\n**Why:** Spread shifted 9.0pts toward HAW, significance MAJOR",
+    "tweet": "Round 8 Pattern Alert\n\nWBD vs FRE: WBD LIVE at home\n\nWhy: WBD ODELO +22.0 HIGH vs FRE ODELO -29.7 at Marvel Stadium\n\nConsensus: FRE by 7\nOur read: STRONG confidence",
+    "email_section": "### 1. WBD vs FRE \u2014 WBD LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** WBD ODELO +22.0 HIGH vs FRE ODELO -29.7 at Marvel Stadium\n### 2. COL vs HAW \u2014 Market moved 7.0pts toward HAW (market agrees \u2014 moved toward HAW)\n**Pattern:** MARKET_DIVERGENCE (MODERATE)\n**Why:** Spread shifted 7.0pts toward HAW, significance MAJOR",
     "video_hook": "Round 8 has one game I can't stop thinking about. WBD vs FRE at Marvel Stadium. WBD LIVE at home.",
     "all_alerts_short": [
       "WBD vs FRE: WBD LIVE at home (FORTRESS_UPSET, STRONG)",
-      "COL vs HAW: Market moved 9.0pts toward HAW (market agrees \u2014 moved toward HAW) (MARKET_DIVERGENCE, MODERATE)"
+      "COL vs HAW: Market moved 7.0pts toward HAW (market agrees \u2014 moved toward HAW) (MARKET_DIVERGENCE, MODERATE)"
     ]
   }
 }
