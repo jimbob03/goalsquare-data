@@ -1,7 +1,7 @@
 {
   "round": 8,
   "season": 2026,
-  "last_checked": "2026-05-01T10:52:38.029830",
+  "last_checked": "2026-05-01T11:54:38.623082",
   "summary": {
     "correct": 0,
     "total_scored": 1,
@@ -50,11 +50,11 @@
       "tier_name": "Strong",
       "win_probability": 0.65,
       "status": "live",
-      "actual_home_score": 60,
-      "actual_away_score": 46,
-      "actual_winner": "Western Bulldogs",
-      "actual_margin": 14,
-      "correct": false,
+      "actual_home_score": 83,
+      "actual_away_score": 105,
+      "actual_winner": "Fremantle",
+      "actual_margin": -22,
+      "correct": true,
       "margin_error": null
     },
     {
@@ -72,10 +72,10 @@
       "tier_name": "Coin Flip",
       "win_probability": 0.52,
       "status": "live",
-      "actual_home_score": 9,
-      "actual_away_score": 21,
+      "actual_home_score": 37,
+      "actual_away_score": 43,
       "actual_winner": "Port Adelaide",
-      "actual_margin": -12,
+      "actual_margin": -6,
       "correct": false,
       "margin_error": null
     },
