@@ -2,8 +2,8 @@
   "model_version": "5.2",
   "round": 8,
   "season": 2026,
-  "generated_at": "2026-05-01T10:42:02.723293",
-  "last_updated": "2026-05-01T10:42:02.723299",
+  "generated_at": "2026-05-01T20:00:24.594342",
+  "last_updated": "2026-05-01T20:00:24.594348",
   "data_sources": {
     "squiggle": true,
     "squiggle_weighted": true,
@@ -220,22 +220,22 @@
       "home_code": "ESS",
       "away_code": "BRI",
       "predicted_winner": "Brisbane Lions",
-      "predicted_margin": 41,
-      "home_score": 78,
-      "away_score": 118,
+      "predicted_margin": 40,
+      "home_score": 74,
+      "away_score": 114,
       "win_probability": 0.92,
       "tier": 1,
       "tier_name": "Lock",
-      "venue": "Marvel Stadium",
+      "venue": "Docklands",
       "match_time": "Sat 2 May 12:35pm AEST",
-      "ev_recommendation": "+EV: TOTAL OVER 185.5 @ $1.90 -- 10.5pt edge (~65% hit)",
-      "key_factors": "SQUIGGLE WEIGHTED CONSENSUS: BRI by 40.0pts (31/31 models, 100%). Top 3: Wheelo (82.8%) BRI by 58.8, Holy Grail (81.2%) BRI by 32.8, Drop Kick (81.2%) BRI by 54.1. Top-3 avg 48.55 vs consensus 40.0 = ratio 1.21 (\u2265 1.20 threshold). Rule 38 FULL FIRES: +2pts toward BRI. Rule 15 NOT FIRED (all 3 same direction, ratio above 50%). WHEELO RATINGS: ESS overall -24.0 vs BRI overall +15.2 \u2014 BRI rated 39.2pts stronger. BRI attack +9.9, defence +5.4. ESS attack -9.7, defence -14.3 (leaks heavily). ODELO: ESS at Docklands net +4.0 HIGH (10 games) \u2014 below +5.0 magnitude tier threshold, NO adjustment. BRI at Docklands net +23.5 LOW (3 games) \u2014 DO NOT USE (LOW reliability). Neither ODELO applies. POWER RANK: BRI 111.1 vs ESS 86.8 = gap 24.3pts \u2192 Rule 50 TIER 1 (\u226515). +8pts toward BRI, caps opposing signals at +3 combined, direction LOCKED, min Tier 2. FORM TRAJECTORY: ESS last 4 avg -18.8, BRI last 4 avg +32.5 \u2192 gap 51.3pts toward BRI. Rule 49: 0.4 \u00d7 51.3 = 20.5, cap +20 (gap 30-60 range) \u2192 +20pts toward BRI. ESS BLEEDING FLAG: last game loss by 77 to COL. Rule 53 FIRED: base -5 (loss >55, deep bleeding), COL PR 105.4 (top 6, \u00d71.0) = -5pts toward ESS = +5pts toward BRI. BRI HOT FORM FLAG (4 wins by 20+ in last 5): Rule 51 TIER 2 check: 3+ wins by 20+? BRI: +33, +54, +26, -2, +52 \u2014 4 wins \u2265 20. HOT FORM TIER 2 FIRES (+5pts toward BRI). HOT FORM TIER 1 check (3 consecutive by 30+): last 3 BRI = +26, -2, +52 \u2014 NOT consecutive, Rule 54 NOT triggered. SCHEDULE: ESS BATTLE-TESTED SURVIVAL (+1 toward ESS). BRI BATTLE-TESTED QUALITY WINS (+3 toward BRI). Net: +2 toward BRI. WHEELO NET IMPACT: ESS -12.1 (Parish managed, Kako/May injured, Tsatas omitted), BRI +4.2 (Zorko, Curtin in; Allen injured but was out before). Swing: 16.3pts \u00d7 40% (15+ range) = +6.5pts toward BRI. xSCORE: ESS xRating +9.0 LUCKY (at +8 boundary). Rule 40 check: ESS xChain 70.1 (below average) \u2014 not elite sustained conversion; apply -2pts for LUCKY ESS = +2pts toward BRI. BRI xRating -1.8 FAIR (no adj). BRI xChain 93.4 (elite) \u2014 BRI generating elite scoring chains. ESS xChain 70.1 vs BRI 93.4 = 23.3pt chain quality gap. BRI scores 42pts from stoppages vs ESS concedes 37.7/game \u2014 brutal match-up edge. REST: ESS 7-day break vs BRI 6-day break + interstate medium travel (Gabba to Docklands). Minor ESS rest edge. CONSENSUS_LAG: |power gap 24.3 \u2013 weighted margin 40.0| = 15.7 \u2265 6 \u2192 CONSENSUS_LAG fires. Flag: HIGH UNCERTAINTY. Tier downgraded 1 step. ESS Rule 52 check: consecutive losses \u2265 30? ESS last 2: -77, -9 \u2014 NOT 2 consecutive \u2265 30. Rule 52 NOT FIRED. BUDGET: In-budget toward BRI: power rank +8, form trajectory +20, Rule 53 +5, net impact +6.5, schedule diff +2, HOT FORM T2 +5, Rule 38 +2, xRating +2 = +50.5 raw. All signals pro-BRI. Cap +12 (no exemptions \u2014 trajectory divergence NOT fired as BRI lacks HOT FORM TIER 1 for Rule 54). MARGIN CALC: Squiggle weighted BRI by 40.0 \u2192 Rule 38 +2 toward BRI = BRI by 42.0 \u2192 capped budget +12 toward BRI = BRI by 52.0 \u2192 Rule 41 FIRED (margin 52.0 \u2265 30 AND win prob well above 85%, no TRAJECTORY_DIVERGENCE exemption, \u00d70.90): 52.0 \u00d7 0.90 = 46.8 \u2192 Rule 42 FIRED (ESS volatility 39.1 > 30, \u00d70.90): 46.8 \u00d7 0.90 = 42.1 \u2192 Rule 43 NOT FIRED (ESS xRating +9.0 but individual game outscoring above 10pts not confirmed across 2 of last 3 specifically) \u2192 FINAL: BRI by 42.",
-      "summary": "Brisbane are 39.2pts stronger than Essendon per Wheelo and the power ranking gap of 24.3 is one of the largest in the competition. ESS are without Parish (managed), Kako, May, and Tsatas \u2014 a Wheelo net swing of 16.3pts toward BRI. Essendon's defence has been the worst in the comp (conceding 111.7/game) against Brisbane's elite chain quality (xChain 93.4). The Wheelo model (82.8% accurate) tips BRI by 58.8. Rules 41 and 42 dampen to BRI by 42 \u2014 still a comfortable win. FF's more conservative BRI by 28 is flagged as a caution.",
-      "tldr": "Wheelo (82.8%) tips BRI by 58.8, power rank gap 24.3pts. ESS missing Parish + 3 others, BRI xChain 93.4 (elite) vs ESS leaking 111.7 PA.",
-      "injury_impact": "ESS: Darcy Parish OUT (Managed) \u2014 key mid absent. Isaac Kako OUT (Injured), Archer May OUT (Injured), Elijah Tsatas OUT (Omitted). Wheelo net impact -12.1pts to ESS. BRI: Oscar Allen OUT (Injured) was already absent last round (+0 adjustment per Rule 31). Cody Curtin IN (Debut). Wheelo net impact +4.2pts to BRI.",
+      "ev_recommendation": "",
+      "key_factors": "Squiggle weighted: BRI by 40.0 (100% agreement). Top-3: Wheelo (83.3%) BRI 58.8, Drop Kick (81.8%) BRI 54.1, Holy Grail (80.3%) BRI 32.8. Top-3 avg 48.6, ratio 1.21 >= 1.20 -> Rule 38 FULL FIRES (+2pts BRI). Wheelo: BRI overall +15.2 vs ESS -24.0 (39pt gap). BRI attack +9.9, defence +5.4. ESS attack -9.7, defence -14.3. Rule 28i: ESS BATTLE-TESTED SURVIVAL (+1pt ESS, within cap), BRI BATTLE-TESTED QUALITY (+3pts BRI). Rule 50: power gap 24.3pts (Tier 1, +8pts BRI, caps opposing signals at +3 combined, direction LOCKED). Rule 50.5 CONSENSUS_LAG: |24.3-40.0| = 15.7 >= 6 -> flag HIGH UNCERTAINTY (margin prediction uncertain even if direction is locked). ESS BLEEDING FLAG: lost by 77 vs COL (PR 105.4, top-6, modifier x1.0, base -5 as 55+ loss) -> Rule 53 FIRES (-5pts toward ESS). ESS xRating +9.0 LUCKY: xChain 70.1 (low chain quality, structural underpinning) -- Rule 40: apply -2pts toward ESS (LUCKY but xChain low suggests luck, not skill). BRI xRating -1.8 FAIR (no adj). BRI last-4 avg +32.5, ESS last-4 avg -18.75 -> form_gap 51.25pts -> Rule 49 FIRES: 0.4 x 51.25 = 20.5, capped at +20 (30-60 tier) -> +20pts toward BRI. BRI HOT FORM TIER 2 (4 wins by 20+ in last 5): Rule 51 FIRES (+5pts BRI, caps single pro-opp bonus at +4). Rule 54 check: BRI needs HOT FORM TIER 1 (3 CONSECUTIVE wins by 30+) -- last 3 consecutive: +26, -2, +52 -- NOT 3 consecutive. Rule 54 NOT FIRED. Player swing: ESS net -12.1 (Parish MANAGED OUT -- critical), BRI net +4.2 (Zorko IN) -> swing 16.3pts at 40% = +6.5pts toward BRI (+7pts). Line movement: spread moved +3.0pts toward BRI -> Rule 19 FIRES (+3pts toward BRI, but Rule 50 Tier 1 caps opposing signals at +3 combined; pro-ESS signals capped to +3 total). Budget (pro-BRI): R38+2, R28i BRI+3, R50+8, R51+5, R53-ESS +5, R49+20, players+7 = 50pts. Pro-ESS: capped at +3 by Rule 50 (Rule28i-surv+1 and R19+3, cap limits to +3). Net +47 toward BRI -> capped +12 (Rule 57, no exemptions: BRI ODELO Docklands LOW 3 games, BLOWOUT_COMBO NOT FIRED). BRI 40.0 + 12 = BRI 52.0. Rule 41 FIRED (margin 52 >= 30 AND win_prob >= 85%, no TRAJ_DIV or BLOWOUT_COMBO exemption, x0.90) = BRI 46.8 -> 47. Rule 42 FIRED (ESS stdev 39.1 > 30, apply AFTER Rule 41, x0.90) = BRI 42.3 -> 42. Rule 43 FIRED (ESS xRating +9.0 LUCKY, season avg outscoring xScore by 9+, last 3 scores 60/110/113 vs xScore baseline ~70.7 -- 2 of 3 likely outscored by 10+, -3pts) = BRI 39. MARGIN CALC: Squiggle BRI 40.0 -> net cap +12 = BRI 52.0 -> Rule 41 FIRED (52 >= 30, win_prob >= 85%, x0.90) = BRI 46.8 -> Rule 42 FIRED (ESS stdev 39.1, x0.90) = BRI 42.3 -> Rule 43 FIRED (ESS LUCKY xRating, -3pts) = BRI 39.3 -> FINAL: BRI by 39.",
+      "summary": "Brisbane arrive at Docklands 39 points better on power rankings with a 24.3-point class gap -- one of the largest mismatches of the season. Wheelo rates BRI at +15.2 overall vs ESS at -24.0, a 39-point spread. Essendon are without the crucial Darcy Parish (managed), compounding a -12.1 net player swing in BRI's favour. ESS's xRating sits at +9.0 LUCKY -- their scoring has been inflated by conversion luck all year, and a correction looms. BRI's last four games average a +32.5 winning margin while ESS average -18.75 over the same stretch.",
+      "tldr": "BRI class gap 24.3pts, Wheelo 39pt advantage. Parish managed OUT for ESS, -12.1 net player swing toward BRI.",
+      "injury_impact": "ESS NET -12.1: Parish (Managed, KEY mid OUT this week), Kako (Injured), May (Injured). Critical spine and engine-room losses. BRI NET +4.2: Zorko (IN, return), Curtin (debut). Combined swing 16.3pts toward BRI at 40% scale = +7pts in margin calc.",
       "scenarios": [],
       "pattern_observations": [],
-      "last_updated": "2026-04-30T08:00:00",
+      "last_updated": "2026-05-02T08:00:00",
       "recent_form_home": [
         "L",
         "L",
@@ -265,6 +265,7 @@
         52
       ],
       "blowout_risk": false,
+      "bookie_total": 185.5,
       "locked": false
     },
     {
@@ -274,29 +275,29 @@
       "home_code": "WCE",
       "away_code": "RIC",
       "predicted_winner": "West Coast",
-      "predicted_margin": 4,
+      "predicted_margin": 3,
       "home_score": 94,
-      "away_score": 90,
-      "win_probability": 0.54,
+      "away_score": 92,
+      "win_probability": 0.52,
       "tier": 4,
       "tier_name": "Coin Flip",
       "venue": "Perth Stadium",
       "match_time": "Sat 2 May 4:15pm AEST",
-      "ev_recommendation": "+EV: LINE RIC +17.5 @ $1.90 -- 13.5pt edge (~70% cover)",
-      "key_factors": "SQUIGGLE WEIGHTED CONSENSUS: WCE by 13.1pts (31/31 models, 100%). Top 3: Wheelo (82.8%) WCE by 20.1, Holy Grail (81.2%) WCE by 8.3, Drop Kick (81.2%) WCE by 17.3. Top-3 avg 15.22 vs consensus 13.1 = ratio 1.162 (between 1.15 and 1.20). Rule 38 LITE BULLISH fires: +1pt toward WCE. Flag: TOP3_BULLISH_LITE. Rule 15 NOT FIRED (all 3 same direction, ratio above 50%). WHEELO RATINGS: WCE overall -30.2 vs RIC overall -37.1 \u2014 both well below average. WCE 6.9pts less negative = relative class edge. ODELO: WCE at Perth Stadium net +0.2 HIGH (15 games, 2W-13L) \u2014 below +5.0 magnitude tier threshold. NO ODELO adjustment for WCE. RIC at Perth Stadium net +45.5 LOW (2 games) \u2014 DO NOT USE. Perth Stadium HGA +11.3 already in Squiggle. WCE BLEEDING FLAG: last game loss by 101 to STK. Rule 53 FIRED for WCE: base -5 (loss > 55, deep bleeding), STK PR 99.4 (middle 6, \u00d71.5) = -7.5pts toward WCE. RIC BLEEDING FLAG: last game loss by 54 to MEL. Rule 53 FIRED for RIC: base -3 (loss 40-54), MEL PR 98.8 (middle 6, \u00d71.5) = -4.5pts toward RIC. WCE RECENT COLLAPSE FLAG (consecutive losses -56, -101 \u2265 30). Rule 52 FIRED for WCE: -5pts toward WCE. RIC RECENT COLLAPSE FLAG (consecutive losses -75, -54 \u2265 30). Rule 52 FIRED for RIC: -5pts toward RIC. FORM TRAJECTORY: WCE last 4 avg -82.8, RIC last 4 avg -56.8 \u2192 gap 26.0pts toward RIC (RIC performing less badly). Rule 49: 0.4 \u00d7 26.0 = 10.4pts toward RIC. Cap: gap 15-30 = cap +15. Apply +10.4pts toward RIC. SCHEDULE: WCE BATTLE-TESTED SURVIVAL (+1 toward WCE). RIC NEUTRAL (0). WHEELO NET IMPACT: WCE +3.8 (Cole, Owies, Schoenberg in), RIC -2.1 (Short, Sonsie, Hayes-Brown in; Ralphsmith, Lalor out \u2014 net negative). Swing: 5.9pts \u00d7 25% = +1.5pts toward WCE. POWER RANK: WCE 80.8 vs RIC 78.9 = gap 1.9 (below 4pt threshold, no Rule 50 adjustment). xSCORE: WCE xRating -5.2 UNLUCKY (under -8 threshold, no mandatory adj). RIC xRating -6.8 UNLUCKY (under -8 threshold, no mandatory adj). Both teams shooting poorly (WCE 41%, RIC 41% accuracy). WCE xChain 75.7 vs RIC xChain 75.5 \u2014 virtually identical chain quality. Both teams structurally broken. LINE MOVEMENT STABLE: Spread -2.0pts (under 3pt threshold). Rule 19 NOT FIRED. CONSENSUS_LAG: |power gap 1.9 \u2013 weighted margin 13.1| = 11.2 \u2265 6 \u2192 CONSENSUS_LAG fires. Flag: HIGH UNCERTAINTY. Tier downgraded 1 step. BUDGET: Pro-RIC: form trajectory +10.4, Rule 52 WCE +5, Rule 53 WCE +7.5 = +22.9. Pro-WCE: R38 LITE +1, schedule +1, net impact +1.5, Rule 52 RIC +5, Rule 53 RIC +4.5 = +13. Net toward RIC: +22.9 - 13 = +9.9 toward RIC. Cap +12. Under cap, apply all. MARGIN CALC: Squiggle weighted WCE by 13.1 \u2192 Rule 38 LITE +1 toward WCE = WCE by 14.1 \u2192 schedule WCE +1 = WCE by 15.1 \u2192 net impact +1.5 toward WCE = WCE by 16.6 \u2192 Rule 52 RIC +5 toward WCE = WCE by 21.6 \u2192 Rule 53 RIC +4.5 toward WCE = WCE by 26.1 \u2192 form trajectory -10.4 toward RIC = WCE by 15.7 \u2192 Rule 52 WCE -5 toward RIC = WCE by 10.7 \u2192 Rule 53 WCE -7.5 toward RIC = WCE by 3.2 \u2192 BUDGET CHECK: net in-budget -9.9 toward RIC from base 13.1 = WCE by 3.2 (confirmed) \u2192 Rule 41 NOT FIRED (margin 3.2, below 30) \u2192 Rule 42 NOT FIRED (RIC volatility 21.6, below 30 threshold) \u2192 Rule 43 NOT FIRED (RIC xRating -6.8, scoring below xScore) \u2192 FINAL: WCE by 3.",
-      "summary": "Two of the worst teams in the competition meeting in Perth \u2014 WCE's home advantage and slightly better power rating give them a narrow edge, but both clubs are in structural free-fall. The key insight is the bookmaker total of 183.5 which looks dramatically inflated given WCE have averaged 53 points in their last 3 games and RIC 67. UNDER 183.5 represents significant value. RIC +17.5 also has major value \u2014 I predict WCE winning by only 3, making the 17.5-point start excessive.",
-      "tldr": "Two collapsed teams, WCE wins narrowly by 3. Bookmaker line (WCE -17.5) and total (183.5) both dramatically overestimate margins for two of the lowest-scoring teams in the comp.",
-      "injury_impact": "WCE: Tom Cole IN, Matthew Owies IN, Harry Schoenberg IN. Wheelo net impact +3.8pts to WCE. RIC: Jayden Short IN, Tyler Sonsie IN, Oliver Hayes-Brown IN; Hugo Ralphsmith OUT (Injured), Sam Lalor OUT (Injured). Wheelo net impact -2.1pts to RIC. Net swing 5.9pts toward WCE.",
+      "ev_recommendation": "+EV: LINE RIC +17.5 @ $1.90 -- 14.5pt edge (~70% cover)",
+      "key_factors": "Squiggle weighted: WCE by 13.0 (100% agreement). Top-3: Wheelo (83.3%) WCE 20.1, Drop Kick (81.8%) WCE 17.3, Holy Grail (80.3%) WCE 8.3. Top-3 avg 15.2, ratio 1.17 (1.15-1.20) -> Rule 38 LITE fires: TOP3_BULLISH_LITE (+1pt WCE). Wheelo: WCE overall -30.2 vs RIC -37.1 (WCE less bad by 6.9pts). WCE attack -14.2, defence -16.0. RIC attack -21.9, defence -15.1. Rule 28i: WCE BATTLE-TESTED SURVIVAL (+1pt WCE), RIC neutral (0). Rule 50: power gap 1.9pts (Close, no adj). Rule 50.5 CONSENSUS_LAG: |1.9 - 13.0| = 11.1 >= 6 -> flag HIGH UNCERTAINTY -- power rankings suggest a closer game than Squiggle implies. WCE ODELO Perth Stadium +0.2 HIGH (15 games, 2W-13L) -- below +5.0 threshold, NO magnitude tier adjustment. Note: WCE barely outperforms season baseline at Perth, meaning the generic +11.3 HGA in Squiggle appears to be over-crediting WCE. RIC ODELO Perth Stadium +45.5 LOW (2 games) -> do NOT use. WCE COLLAPSE FLAG (4 losses by 30+ in last 5), WORSENING FLAG (losses escalating: 46-56-101), BLEEDING FLAG (last game -101 vs STK, PR 99.4, middle-6, x1.5, base -5, net -7.5pts toward WCE). RIC COLLAPSE FLAG (5 losses by 30+ in last 5), BLEEDING FLAG (last game -54 vs MEL, PR 98.8, middle-6, x1.5, base -5, net -7.5pts toward RIC). Rule 52: WCE RECENT COLLAPSE (consecutive losses -56 and -101, both 30+) -> FIRES -5pts toward WCE. Rule 52 for RIC: losses -75 and -54 -- consecutive? Most recent 3: -56, -75, -54 (all 30+), yes 2+ consecutive -> FIRES -5pts toward RIC. WCE last-4 avg -82.8, RIC last-4 avg -56.8 -> form_gap 26.0pts in favour of RIC -> Rule 49 FIRES: 0.4 x 26.0 = 10.4pts toward RIC, cap 15 (15-30 tier), apply +10.4. Player swing: WCE net +3.8, RIC net -2.1 -> swing 5.9pts at 25% = +1.5 -> +2pts toward WCE. xRating: WCE -5.2 (below +-8, no adj), RIC -6.8 (UNLUCKY, below +-8 threshold, no adj). Both COLD SCORING FLAGS noted. Both WCE and RIC bleeding against middle-6 opponents by 55+: net bleeding cancels (both -7.5). Budget: pro-WCE (R38 LITE+1, 28i surv+1, RIC bleeding+7.5, players+2) = 11.5; pro-RIC (R49+10.4, R52 WCE-collapse+5, WCE bleeding+7.5) = 22.9. Net +11.4 toward RIC. Cap +12; 11.4 < 12 so all apply. WCE 13.0 - 11.4 = WCE 1.6 -> WCE 2. Rule 41 NOT FIRED (2 < 30). Rule 42 NOT FIRED (RIC stdev 21.6 < 30). Rule 43 NOT FIRED (RIC xRating -6.8, underscoring, no outperformance of xScore). MARGIN CALC: Squiggle WCE 13.0 -> net pro-RIC -11.4 (budget items sum to 11.4 toward RIC, within +12 cap) = WCE 1.6 -> Rule 41 NOT FIRED (2 < 30) -> Rule 42 NOT FIRED (RIC stdev 21.6 < 30) -> Rule 43 NOT FIRED (RIC underscoring xScore) -> FINAL: WCE by 2.",
+      "summary": "The worst two teams in 2026 square off in Perth, and while West Coast hold home ground advantage, their ODELO at Perth Stadium is just +0.2 over 15 games -- effectively zero specific fortress uplift. WCE's form is catastrophically worse than RIC's: WCE average margin -82.8 over the last four rounds versus RIC's -56.8, a 26-point form gap that triggers Rule 49. Both teams bled heavily last week. Perth Stadium's generic +11.3 HGA is almost entirely offset by how poorly WCE have been playing at home. The market line of -17.5 and a total of 183.5 both appear dramatically misaligned with season scoring data.",
+      "tldr": "RIC's form gap over WCE is 26pts better over last 4 games. WCE ODELO at Perth only +0.2 (2W-13L at home in 2026).",
+      "injury_impact": "WCE NET +3.8: Cole/Owies/Schoenberg IN, Brock/Williams/Allan OUT (omitted). RIC NET -2.1: Ralphsmith (Injured, OUT), Lalor (Injured, OUT); Short/Sonsie/Hayes-Brown IN. Net swing 5.9pts toward WCE at 25% = +2pts WCE.",
       "scenarios": [],
       "pattern_observations": [
         {
-          "observation": "Bookmaker total of 183.5 set for two teams averaging 67.0 and 60.6 PF respectively, with WCE scoring 42, 41, and 35 in recent games \u2014 a 33.5pt gap between model total (~150) and bookmaker line is historically rare and warrants research into whether Perth Stadium conditions or venue effects systematically inflate totals for poor-scoring teams.",
+          "observation": "Market total of 183.5 for a WCE vs RIC clash where both teams have COLD SCORING FLAGs and combined PF averages of 127.6. WCE's recent 5 scores: 92/35/76/41/42 (avg 57). RIC recent 5: 43/48/75/55/72 (avg 59). Combined recent avg ~116pts. Market appears to be using outdated or generic scoring priors for Perth Stadium.",
           "category": "other",
           "confidence": "HIGH",
-          "evidence": "WCE PF avg 67.0, RIC PF avg 60.6 (2026 season). WCE last 3 scores: 42, 41, 76. RIC last 3: 72, 55, 75. Bookmaker total 183.5."
+          "evidence": "WCE PF avg 67.0, RIC PF avg 60.6 = combined 127.6. Both teams flagged COLD SCORING (3 games under 60 in last 5 each). Market total 183.5 implies 56pt premium above combined season averages."
         }
       ],
-      "last_updated": "2026-04-30T08:00:00",
+      "last_updated": "2026-05-02T08:00:00",
       "recent_form_home": [
         "W",
         "L",
@@ -326,6 +327,7 @@
         -54
       ],
       "blowout_risk": false,
+      "bookie_total": 183.5,
       "locked": false
     },
     {
@@ -336,28 +338,21 @@
       "away_code": "NTH",
       "predicted_winner": "Geelong",
       "predicted_margin": 36,
-      "home_score": 115,
-      "away_score": 79,
-      "win_probability": 0.87,
+      "home_score": 116,
+      "away_score": 80,
+      "win_probability": 0.89,
       "tier": 1,
       "tier_name": "Lock",
-      "venue": "GMHBA Stadium",
+      "venue": "Kardinia Park",
       "match_time": "Sat 2 May 4:35pm AEST",
-      "ev_recommendation": "",
-      "key_factors": "SQUIGGLE WEIGHTED CONSENSUS: GEE by 32.4pts (31/31 models, 100%). Top 3: Wheelo (82.8%) GEE by 27.0, Holy Grail (81.2%) GEE by 39.2, Drop Kick (81.2%) GEE by 29.4. Top-3 avg 31.87 vs consensus 32.4 = ratio 0.983 (between 0.85 and 1.15). No Rule 38 fires. Rule 15 NOT FIRED (all 3 same direction, ratio above 50%). WHEELO RATINGS: GEE overall +12.1 vs NTH overall -7.6 \u2014 GEE 19.7pts stronger. GEE attack +7.9, defence +4.2. NTH attack -1.4, defence -6.2 (leaks). ODELO: GEE at GMHBA net +17.5 HIGH (13 games, 11W-2L) \u2192 tier +15.0-19.9 = +7pts toward GEE. NTH: No ODELO data at GMHBA. Rule 36 check: GEE xRating -8.0 (at exactly the -10 threshold boundary \u2014 -10 or worse required, -8.0 does NOT qualify). Rule 36 NOT FIRED. Standard xRating Rule 40: GEE xRating -8.0 UNLUCKY (at -8 boundary). Rule 40 check: GEE xChain 84.1 (above average, not noted declining) \u2014 creating quality chains and under-converting. Apply +2pts toward GEE. POWER RANK: GEE 109.0 vs NTH 92.9 = gap 16.1pts \u2192 Rule 50 TIER 1 (\u226515). +8pts toward GEE, caps opposing signals at +3 combined, direction LOCKED, min Tier 2. SCHEDULE: GEE BATTLE-TESTED QUALITY WINS \u2014 3 wins vs top-10 incl. FRE, ADE, WBD (+3pts toward GEE). NTH BATTLE-TESTED SURVIVAL (+1 toward NTH). Power rank Tier 1 caps opposing (NTH) signals at +3 total \u2014 NTH gets +1 (well under cap). FORM TRAJECTORY: GEE last 4 avg +22.5, NTH last 4 avg +13.0 \u2192 gap 9.5 (under 15pt threshold). Rule 49 NOT FIRED. WHEELO NET IMPACT: GEE -5.4 (Blicavs injured, Bowes managed), NTH -3.2 (Wardlaw illness, Pink omitted). Swing: NTH net less negative \u2014 swing 2.2pts toward NTH \u00d7 25% = +0.6pts toward NTH. H2H: GEE won last 3 straight vs NTH (avg 72.0pts). At GMHBA: GEE won by 75 in only meeting. In Squiggle. xSCORE: GEE xRating -8.0 UNLUCKY \u2014 creating quality shots but under-shooting. +2pts applied above. NTH xRating +2.7 FAIR. GEE xChain 84.1 vs NTH xChain 77.6 \u2014 GEE generating better chains. NTH accuracy 54% vs GEE 44% \u2014 NTH converting shots better but GEE generating far more quality opportunities. REST: GEE 7-day break vs NTH 6-day break (short break + back-to-back interstate flagged for NTH). NTH compounding fatigue from back-to-back interstate games. LINE MOVEMENT STABLE: No triggers. CONSENSUS_LAG: |power gap 16.1 \u2013 weighted margin 32.4| = 16.3 \u2265 6 \u2192 CONSENSUS_LAG fires. Flag: HIGH UNCERTAINTY. Tier downgraded 1 step (would be Tier 1 at 87%, downgraded to Tier 2). FF tips GEE by 13 \u2014 disagrees by 23pts (FLAG: caution risk, FF significantly below model prediction). BUDGET: Pro-GEE in-budget: ODELO +7, power rank +8, schedule GEE +3, xRating +2, R38 (not fired) = +20. Pro-NTH: schedule NTH +1, net impact +0.6 = +1.6. Net toward GEE: +18.4. Cap +12 (no exemptions \u2014 Rule 54 not fired, Rule 36 not fired). Apply +12. MARGIN CALC: Squiggle weighted GEE by 32.4 \u2192 in-budget net +18.4 toward GEE capped at +12 = GEE by 44.4 \u2192 Rule 41 FIRED (margin 44.4 \u2265 30 AND win prob well above 85%, no exemption flags, \u00d70.90): 44.4 \u00d7 0.90 = 39.96 \u2192 Rule 42 FIRED (NTH volatility 33.3 > 30, \u00d70.90): 39.96 \u00d7 0.90 = 35.96 \u2192 Rule 43 NOT FIRED (NTH xRating +2.7 FAIR, not outscoring xScore by 10+ in 2 of last 3) \u2192 FINAL: GEE by 36.",
-      "summary": "Geelong's GMHBA fortress is elite (+17.5 ODELO, 11W-2L in 13 games) and they carry a 19.7-point Wheelo class gap over North. The power ranking gap of 16.1 is Tier 1 and locks the direction. Mark Blicavs is out injured (Wheelo net -5.4 to GEE) but NTH are also missing Wardlaw and arrive on a back-to-back interstate schedule. GEE's xRating of -8.0 means they've been under-converting quality chances \u2014 expect correction at their fortress. FF's 13-point tip is flagged as a significant outlier.",
-      "tldr": "GEE GMHBA ODELO +17.5 HIGH (11W-2L), power rank gap 16.1pts, xRating -8.0 UNLUCKY correction due at fortress.",
-      "injury_impact": "GEE: Mark Blicavs OUT (Injured) \u2014 key ruck, significant loss. Jack Bowes OUT (Managed). Wheelo net impact -5.4pts to GEE. NTH: George Wardlaw OUT (Illness). Wheelo net impact -3.2pts to NTH. Net swing 2.2pts toward NTH (\u00d725% = minor).",
+      "ev_recommendation": "+EV: H2H GEE @ $1.26 -- 10.1% edge",
+      "key_factors": "Squiggle weighted: GEE by 32.2 (100% agreement). Top-3: Wheelo (83.3%) GEE 27.0, Drop Kick (81.8%) GEE 29.4, Holy Grail (80.3%) GEE 39.2. Top-3 avg 31.9, ratio 0.99 (between 0.85-1.15) -> Rule 38 NOT FIRED (no significant deviation). Wheelo: GEE overall +12.1 vs NTH -7.6 (19.7pt gap). GEE attack +7.9, defence +4.2. Rule 28i: GEE BATTLE-TESTED QUALITY (+3pts), NTH BATTLE-TESTED SURVIVAL (+1pt NTH, within Rule 50 Tier 1 cap). Rule 50: power gap 16.1pts (Tier 1, >= 15, +8pts GEE, caps opposing signals at +3 combined, direction LOCKED). Rule 50.5 CONSENSUS_LAG: |16.1 - 32.2| = 16.1 >= 6 -> flag HIGH UNCERTAINTY (large power/consensus divergence). GEE ODELO GMHBA +17.5 HIGH (13 games, 11W-2L, magnitude 15.0-19.9 = +7pts toward GEE). NTH: no ODELO at Kardinia Park. GEE xRating -8.0 UNLUCKY (at exactly -8 threshold). Rule 40 check: GEE xChain 84.1 (high quality but no confirmed weekly decline data) -- apply standard +2pts GEE (xChain quality strong but xRating -8 signals bad luck, not decline). Rule 36: GEE xRating -8.0 requires -10 or worse for fortress trigger -- NOT FIRED. NTH xRating +2.7 FAIR (no adj). GEE xChain 84.1 vs NTH xChain 77.6 (GEE superior shot creation). GEE H2H: 3W-0L vs NTH overall, 1W-0L at GMHBA (by 75pts). Player swing: GEE net -5.4 (Blicavs Injured OUT, Bowes Managed OUT; De Koning/Kolodjashnij IN), NTH net -3.2 (Wardlaw Illness, Pink Omitted; Comben/Blamires IN) -> swing 2.2pts toward NTH at 25% = +1pt NTH (within cap). Form gap: GEE last-4 avg +22.5, NTH last-4 avg +13.0 -> form_gap 9.5 (below 15 threshold) -> Rule 49 NOT FIRED. Budget: pro-GEE (R28i+3, R50 Tier1+8, ODELO+7, xRating+2) = 20pts; pro-NTH (R28i surv+1, players+1) = 2pts within +3 cap. Net +18 toward GEE -> capped +12 (Rule 57, no exemptions). GEE 32.2 + 12 = GEE 44.2. Rule 41 FIRED (44.2 >= 30 AND win_prob >= 85%, no TRAJ_DIV/BLOWOUT_COMBO exemption, x0.90) = GEE 39.8 -> 40. Rule 42 FIRED (NTH stdev 33.3 > 30, apply after Rule 41, x0.90) = GEE 36.0 -> 36. Rule 43 NOT FIRED (NTH xRating +2.7, not outscoring xScore by 10+ in 2 of 3). MARGIN CALC: Squiggle GEE 32.2 -> net cap +12 = GEE 44.2 -> Rule 41 FIRED (44.2 >= 30, win_prob >= 85%, x0.90) = GEE 40.0 -> Rule 42 FIRED (NTH stdev 33.3, x0.90) = GEE 36.0 -> Rule 43 NOT FIRED -> FINAL: GEE by 36.",
+      "summary": "Geelong at GMHBA is a genuine fortress: ODELO +17.5 across 13 games (11W-2L), backed by a 16-point power ranking gap and every single Squiggle model agreeing on the Cats. NTH's schedule has been survival-mode (losses to top-10, no quality wins) and their key stats are inflated by the 75-point win over RIC. GEE lost by 30 to Port last week which provides some bounce-back context, but their xRating sits at -8.0 UNLUCKY -- Blicavs is out with injury but De Koning and Kolodjashnij return. Footy Forecaster sees GEE by only 13, a 23-point disagreement -- be aware of potential margin overestimation.",
+      "tldr": "GEE GMHBA ODELO +17.5 (11W-2L), 16pt power-rank class gap, 100% model consensus. NTH outclassed in every metric.",
+      "injury_impact": "GEE NET -5.4: Blicavs (Injured OUT, key utility-ruck), Bowes (Managed OUT). De Koning and Kolodjashnij return (apply Rule 22: 60% of impact for first game back). NTH NET -3.2: Wardlaw (Illness OUT), Pink (Omitted). Net swing 2.2pts toward NTH (+1pt in calc).",
       "scenarios": [],
-      "pattern_observations": [
-        {
-          "observation": "GEE at GMHBA has won 11 of 13 games (84.6% win rate) with an ODELO net of +17.5 \u2014 the strongest reliable fortress profile in the sample outside Perth Stadium. NTH have lost all 3 H2H meetings to GEE by an average of 72pts. The combination of elite venue ODELO, H2H dominance, and quality opponent gaps suggests GMHBA vs NTH is a structurally mis-priced matchup.",
-          "category": "fortress",
-          "confidence": "HIGH",
-          "evidence": "GEE ODELO GMHBA +17.5 HIGH (13 games, 11W-2L). H2H GEE 3W-0L vs NTH, avg margin 72pts. GEE $1.25 in market."
-        }
-      ],
-      "last_updated": "2026-04-30T08:00:00",
+      "pattern_observations": [],
+      "last_updated": "2026-05-02T08:00:00",
       "recent_form_home": [
         "W",
         "L",
@@ -387,6 +382,7 @@
         -7
       ],
       "blowout_risk": true,
+      "bookie_total": 193.5,
       "locked": false
     },
     {
@@ -397,21 +393,21 @@
       "away_code": "STK",
       "predicted_winner": "St Kilda",
       "predicted_margin": 18,
-      "home_score": 82,
-      "away_score": 100,
+      "home_score": 81,
+      "away_score": 99,
       "win_probability": 0.73,
       "tier": 2,
       "tier_name": "Strong",
-      "venue": "Marvel Stadium",
+      "venue": "Docklands",
       "match_time": "Sat 2 May 7:35pm AEST",
-      "ev_recommendation": "+EV: H2H STK @ $1.55 -- 9.0% edge",
-      "key_factors": "SQUIGGLE WEIGHTED CONSENSUS: STK by 6.0pts (27/31 models, 87.1%). Top 3: Wheelo (82.8%) STK by 9.0, Holy Grail (81.2%) STK by 7.7, Drop Kick (81.2%) STK by 5.2. Top-3 avg 7.3 vs consensus 6.0 = ratio 1.217 (\u2265 1.20 threshold). Rule 38 FULL FIRES: +2pts toward STK. Rule 15 NOT FIRED (all 3 same direction, ratio above 50%). WHEELO RATINGS: CAR overall -9.1 vs STK overall -0.5 \u2014 STK 8.6pts less negative (relatively stronger). STK attack -0.4 vs CAR attack -5.0 (both below average, STK slight edge). ODELO: STK at Docklands net +17.5 HIGH (15 games, 7W-8L) \u2192 tier +15.0-19.9 = +7pts toward STK. CAR at Docklands net +10.0 MEDIUM (7 games, 2W-5L) \u2192 MEDIUM reliability: half-weight, max +1pt toward CAR. Both teams nominally 'home' at this venue but STK has far superior venue performance. SCHEDULE: CAR INFLATED \u2014 only win vs RIC (bottom 4, PR <80) = -1.5pts toward CAR (midpoint). STK NEUTRAL (0). POWER RANK: STK 99.4 vs CAR 94.6 = gap 4.8pts \u2192 Rule 50 Tier 3 (+3pts toward STK). FORM TRAJECTORY: STK last 4 avg +20.2, CAR last 4 avg -14.2 \u2192 gap 34.4pts toward STK. Rule 49: 0.4 \u00d7 34.4 = 13.76pts toward STK. Cap: gap 30-60 = cap +20. Apply +13.76pts toward STK. WHEELO NET IMPACT: CAR +12.0 (McKay, Pittonet returning; multiple ins), STK -2.6 (Clark, Ryan out injured). Swing: 14.6pts toward CAR \u00d7 33% (8-15 range) = +4.8pts toward CAR. xSCORE: CAR xRating -3.4 UNLUCKY (under -8 threshold, no mandatory adj). STK xRating +3.7 LUCKY (under +8 threshold, no mandatory adj). STK xChain 84.7 vs CAR 80.8 \u2014 STK slight chain quality edge. STK accuracy 49% vs CAR 46%. REST: CAR returning from cross-country travel (Perth \u2192 Melbourne) but Docklands is CAR's home ground. Travel penalty already in Squiggle. STK is home (0km, last played Docklands). LINE MOVEMENT STABLE: Spread unchanged 11.5. H2H -1.7pts (minimal). No Rule 19. CONSENSUS_LAG: |power gap 4.8 \u2013 weighted margin 6.0| = 1.2 < 6. NOT FIRED. CAR Rule 52 check: consecutive losses \u2265 30? CAR last 5: -23, -10, -28, -5, -14 \u2014 none reach 30. Rule 52 NOT FIRED. STK last game +101 vs WCE \u2014 Rule 18 inflation check: win vs WCE (PR 80.8, bottom 6) \u2014 do NOT let junk-time +101 distort STK's form baseline. STK genuine 4-game form: -1, +101, -33, +14 = avg +20.2 raw but inflated by WCE result. Blended avg (discounting WCE blowout) ~+10-12. Using raw for Rule 49 but noting conservative context. FF tips STK by 14 \u2014 agrees on direction, difference 4pts (under 10pt threshold, ignore). H2H: CAR 1W-1L vs STK, no dominant streak. BUDGET: Pro-STK: ODELO STK +7, schedule CAR -1.5, power rank +3, form trajectory +13.76, Rule 38 +2 = +27.26. Pro-CAR: ODELO CAR +1, net impact +4.8 = +5.8. Net toward STK: +21.46. Cap +12. Apply +12. MARGIN CALC: Squiggle weighted STK by 6.0 \u2192 capped budget +12 toward STK = STK by 18.0 \u2192 Rule 41 NOT FIRED (margin 18, below 30) \u2192 Rule 42 NOT FIRED (CAR volatility 20.2, below 30 threshold) \u2192 Rule 43 NOT FIRED (CAR xRating -3.4, scoring below xScore) \u2192 FINAL: STK by 18.",
-      "summary": "St Kilda hold a class edge reinforced by their elite Docklands ODELO (+17.5, 7W-8L overall but strong performance lift vs season baseline) and a 34.4-point form trajectory gap \u2014 STK averaging +20.2 in their last 4 vs CAR's -14.2. Carlton return McKay and Pittonet (Wheelo +12.0 net impact) which is a genuine positive, but STK lose Clark and Ryan. The H2H bet on STK at $1.55 offers 8.5% edge over implied odds with our 73% win probability.",
-      "tldr": "STK Docklands ODELO +17.5 HIGH, form gap 34.4pts (STK +20.2 vs CAR -14.2 last 4), CAR 1W-6 record in 2026.",
-      "injury_impact": "CAR: Harry McKay IN (returning key fwd, Rule 22 at 60% of net impact), Marc Pittonet IN (returning ruck). Multiple outs also replaced. Wheelo net impact +12.0pts to CAR (strong returning class). STK: Hunter Clark OUT (Injured), Liam Ryan OUT (Injured). Wheelo net impact -2.6pts to STK. Net swing 14.6pts toward CAR (\u00d733% = +4.8pts).",
+      "ev_recommendation": "+EV: H2H STK @ $1.56 -- 9.2% edge",
+      "key_factors": "Squiggle weighted: STK by 6.2 (87.1% agreement, 27/31 models). Top-3: Wheelo (83.3%) STK 9.0, Drop Kick (81.8%) STK 5.2, Holy Grail (80.3%) STK 7.7. Top-3 avg 7.3, ratio 1.18 (1.15-1.20) -> Rule 38 LITE fires: TOP3_BULLISH_LITE (+1pt STK). Wheelo: STK overall -0.5 vs CAR -9.1 (8.6pt gap, STK stronger). CAR attack -5.0, defence -4.2. STK attack -0.4, defence -0.1. Rule 28i: CAR INFLATED (-2pts toward CAR, majority wins vs bottom-4 RIC only) = +2pts toward STK. STK neutral (0). Rule 50: power gap 4.8pts (Tier 3, +3pts STK). Rule 50.5: |4.8-6.2| = 1.4 < 6 -> CONSENSUS_LAG NOT FIRED. STK ODELO Docklands +17.5 HIGH (15 games, 7W-8L, magnitude 15.0-19.9 = +7pts STK). CAR ODELO Docklands +10.0 MEDIUM (7 games, 2W-5L, half-weight max +1pt toward CAR). Travel: CAR traveled cross-country from Perth last week -- already in Squiggle. CAR last-4 avg -14.25, STK last-4 avg +20.25 -> form_gap 34.5pts -> Rule 49 FIRES: 0.4 x 34.5 = 13.8pts, capped at +20 (30-60 tier), apply +14pts STK. Player swing: CAR net +12.0 (McKay KEY FORWARD return, Pittonet RUCK return, Saad/Hollands IN), STK net -2.6 (Ryan/Clark Injured OUT) -> swing 14.6pts toward CAR (8-15pt range, 33%) = +4.8 -> +5pts CAR. Note Rule 22: McKay and Pittonet returning from absence -- weight at 60% of impact (already embedded in Wheelo net). Rule 52: CAR last 3 [-28, -5, -14] -- no consecutive 30+ losses. NOT FIRED. STK BLEEDING? Last game +101 (WIN). NOT FIRED. STK xRating +3.7 LUCKY (below +-8, no adj). CAR xRating -3.4 UNLUCKY (below +-8, no adj). CAR xChain 80.8 vs STK xChain 84.7 (STK superior shot creation). Budget: pro-STK (R38 LITE+1, R28i-inflated+2, R50 Tier3+3, ODELO STK+7, R49+14) = 27pts; pro-CAR (ODELO MEDIUM+1, players+5) = 6pts. Net +21 toward STK -> capped +12 (Rule 57 default). STK 6.2 + 12 = STK 18.2. Rule 41 NOT FIRED (18.2 < 30). Rule 42 NOT FIRED (CAR stdev 20.2 < 30). Rule 43 NOT FIRED (CAR xRating -3.4, underscoring xScore). MARGIN CALC: Squiggle STK 6.2 -> net cap +12 = STK 18.2 -> Rule 41 NOT FIRED (18.2 < 30) -> Rule 42 NOT FIRED (CAR stdev 20.2 < 30) -> Rule 43 NOT FIRED -> FINAL: STK by 18.",
+      "summary": "St Kilda's Docklands ODELO is a genuine +17.5 (15 games, HIGH reliability) and they arrive off a 101-point demolition of West Coast. The form gap over Carlton is 34.5 points across the last four matches. McKay and Pittonet return for Carlton which provides +12.0 net player impact, but Rule 22 applies (first game back rarely full output) and Carlton are 1-6 with an inflated schedule (only win was over Richmond). Carlton's ODELO at Docklands is MEDIUM reliability (7 games) and not enough to close the gap. Market has STK at $1.56, implying 64% -- my model sees 73%.",
+      "tldr": "STK Docklands ODELO +17.5 HIGH, form gap 34pts over CAR. McKay/Pittonet return but first game back dampened.",
+      "injury_impact": "CAR NET +12.0: McKay (key fwd, return -- Rule 22 applies, 60% of impact), Pittonet (ruck, return), Saad/Hollands IN. STK NET -2.6: Ryan (Injured OUT), Clark (Injured OUT). Net swing 14.6pts toward CAR at 33% = +5pts CAR in calc.",
       "scenarios": [],
       "pattern_observations": [],
-      "last_updated": "2026-04-30T08:00:00",
+      "last_updated": "2026-05-02T08:00:00",
       "recent_form_home": [
         "L",
         "L",
@@ -441,6 +437,7 @@
         101
       ],
       "blowout_risk": false,
+      "bookie_total": 182.5,
       "locked": false
     },
     {
@@ -450,8 +447,8 @@
       "home_code": "SYD",
       "away_code": "MEL",
       "predicted_winner": "Sydney",
-      "predicted_margin": 38,
-      "home_score": 116,
+      "predicted_margin": 36,
+      "home_score": 114,
       "away_score": 78,
       "win_probability": 0.91,
       "tier": 1,
@@ -459,13 +456,20 @@
       "venue": "S.C.G.",
       "match_time": "Sun 3 May 3:15pm AEST",
       "ev_recommendation": "",
-      "key_factors": "SQUIGGLE WEIGHTED CONSENSUS: SYD by 34.7pts (31/31 models, 100%). Top 3: Wheelo (82.8%) SYD by 39.5, Holy Grail (81.2%) SYD by 40.0, Drop Kick (81.2%) SYD by 36.8. Top-3 avg 38.77 vs consensus 34.7 = ratio 1.117 (between 0.85 and 1.15). No Rule 38 fires. Rule 15 NOT FIRED (all 3 same direction, above 50%). WHEELO RATINGS: SYD overall +24.3 vs MEL overall -1.5 \u2014 SYD 25.8pts stronger. SYD attack +12.8, defence +11.5 (elite both ends). MEL attack +1.3 (slightly above avg), defence -2.7 (slightly leaking). ODELO: SYD at SCG net -3.1 HIGH (14 games, 8W-6L) \u2014 NEGATIVE ODELO, no magnitude tier adjustment (no positive fortress bonus for SYD at SCG). MEL: No ODELO data at SCG. POWER RANK: SYD 112.6 vs MEL 98.8 = gap 13.8pts \u2192 Rule 50 TIER 2 (8-14). +5pts toward SYD, caps single pro-MEL bonus at +3. SCHEDULE: SYD BATTLE-TESTED QUALITY WINS \u2014 4 wins vs top-10 incl. BRI, WCE, GCS, GWS, WBD (+3pts toward SYD). MEL BATTLE-TESTED QUALITY WINS \u2014 2 wins vs top-10 incl. BRI, GCS (+3pts toward MEL). Net: 0 (both quality wins, cancel out). SYD HOT FORM TIER 1: last 3 consecutive wins by 30+: +32, +41, +66. HOT FORM TIER 1 FIRES. Rule 54 check: does MEL have RECENT COLLAPSE or BLEEDING? MEL last game +54 (WIN, no bleeding). MEL last 2: -45, +2, +54 (only 1 consecutive loss \u2265 30). Rule 54 NOT triggered. Rule 51 HOT FORM TIER 1 applies: +8pts toward SYD, caps opposing signals at +3 combined, min Tier 2. FORM TRAJECTORY: SYD last 4 avg +66.8, MEL last 4 avg +7.8 \u2192 gap 59.0pts toward SYD. Rule 49: 0.4 \u00d7 59.0 = 23.6, cap +20 (gap 30-60 range) \u2192 +20pts toward SYD. WHEELO NET IMPACT: SYD +8.0 (Heeney returning, Melican in), MEL -3.5 (Petty, Cross in; Culley injured, Taylor omitted). Swing: 11.5pts \u00d7 33% (8-15 range) = +3.8pts toward SYD. xSCORE: SYD xRating +4.6 LUCKY (under +8 threshold, no mandatory adj). MEL xRating +7.1 LUCKY (under +8 threshold, no mandatory adj). SYD xChain 93.4 (elite, matches BRI as best in comp) vs MEL 80.4. SYD turnovers generating 70pts/game vs MEL conceding on turnovers. SYD SCG venue: ODELO -3.1 suggests SYD under-performs vs their season baseline there \u2014 no positive ODELO bonus (already noted). Rule 36 NOT FIRED (SYD xRating +4.6, positive, not negative). REST: Both teams medium travel 713km (SYD from Docklands, MEL from MCG) \u2014 equal adjustment already in Squiggle. LINE MOVEMENT STABLE: No Rule 19. CONSENSUS_LAG: |power gap 13.8 \u2013 weighted margin 34.7| = 20.9 \u2265 6 \u2192 CONSENSUS_LAG fires. Flag: HIGH UNCERTAINTY. Tier downgraded 1 step (from Tier 1 to Tier 2). Power rank Tier 2 caps single pro-MEL bonus at +3 \u2014 MEL has no qualifying pro-MEL bonuses post-schedule cancellation. FF tips SYD by 44 \u2014 agrees direction, +6pt difference (under 10pt threshold, no flag). MILESTONE: Brodie Grundy \u2014 250th game. BUDGET: Pro-SYD in-budget: power rank +5, form trajectory +20, HOT FORM TIER 1 +8 (note: inside budget per R57), net impact +3.8, Rule 38 (not fired) = +36.8. Pro-MEL: schedule cancel. Cap +12 (no exemptions \u2014 TRAJECTORY_DIVERGENCE not fired as MEL lacks RECENT COLLAPSE/BLEEDING). MARGIN CALC: Squiggle weighted SYD by 34.7 \u2192 capped budget +12 toward SYD = SYD by 46.7 \u2192 Rule 41 FIRED (margin 46.7 \u2265 30 AND win prob well above 85%, no TRAJECTORY_DIVERGENCE exemption, \u00d70.90): 46.7 \u00d7 0.90 = 42.03 \u2192 Rule 42 FIRED (MEL volatility 34.4 > 30, \u00d70.90): 42.03 \u00d7 0.90 = 37.83 \u2192 Rule 43 NOT FIRED (MEL xRating +7.1, not confirmed outscoring xScore by 10+ in 2 of last 3 individual games) \u2192 FINAL: SYD by 38.",
-      "summary": "Sydney are firing on all cylinders \u2014 HOT FORM TIER 1 (3 consecutive wins by 30+), elite Wheelo class gap of 25.8pts, and the best chain quality in the competition (xChain 93.4). Isaac Heeney returns from injury this week alongside Lewis Melican, a net Wheelo impact of +8.0pts. Melbourne are the better of the bottom-half teams but their defence has been leaking in recent weeks and they face a SYD midfield generating 70 points from turnovers alone. CONSENSUS_LAG fires (power gap 13.8 vs margin 34.7) as a confidence caveat but the H2H value on SYD at $1.19 remains valid.",
-      "tldr": "SYD HOT FORM TIER 1 (3 wins by 30+), xChain 93.4 elite, Heeney returns. Wheelo class gap 25.8pts \u2014 9% H2H edge at $1.19.",
-      "injury_impact": "SYD: Isaac Heeney IN (returning, applied at 60% per Rule 22 \u2014 first game back), Lewis Melican IN. Tom McCartin OUT (Injured \u2014 was playing last round, genuine new loss). Wheelo net impact +8.0pts to SYD. MEL: Harrison Petty IN, Paddy Cross IN. Jai Culley OUT (Injured). Wheelo net impact -3.5pts to MEL. Net swing 11.5pts toward SYD (\u00d733% = +3.8pts).",
+      "key_factors": "Squiggle weighted: SYD by 34.6 (100% agreement). Top-3: Wheelo (83.3%) SYD 39.5, Drop Kick (81.8%) SYD 36.8, Holy Grail (80.3%) SYD 40.0. Top-3 avg 38.8, ratio 1.12 (between 1.0-1.15) -> Rule 38 NOT FIRED. Wheelo: SYD overall +24.3 vs MEL -1.5 (25.8pt gap). SYD attack +12.8, defence +11.5 (both elite). Rule 28i: SYD BATTLE-TESTED QUALITY (+3pts), MEL BATTLE-TESTED QUALITY (+3pts MEL, capped at +3 by Rule 51). Rule 50: power gap 13.8pts (Tier 2, +5pts SYD, caps single pro-loser bonus at +3). Rule 50.5 CONSENSUS_LAG: |13.8-34.6| = 20.8 >= 6 -> flag HIGH UNCERTAINTY. SYD ODELO SCG -3.1 HIGH (14 games, 8W-6L) -- NEGATIVE, below +5.0 threshold, no magnitude tier adj. Note: SYD performs BELOW their season baseline at their own home ground -- unusual for a top team. MEL: no ODELO data at SCG. SYD HOT FORM TIER 1: 3 consecutive wins by 30+ (R5 +32, R6 +41, R7 +66) -> Rule 51 FIRES (+8pts SYD, caps opposing signals at +3 combined). Rule 54: SYD HOT FORM TIER 1, check if MEL has RECENT COLLAPSE or BLEEDING -- MEL last game +54 (WIN), no RECENT COLLAPSE. Rule 54 NOT FIRED. Player swing: SYD net +8.0 (Heeney return KEY, Melican IN; McCartin Injured OUT), MEL net -3.5 (Culley Injured OUT; Cross/Petty IN) -> swing 11.5pts toward SYD (8-15pt range, 33%) = +3.8 -> +4pts SYD. Rule 22: Heeney returning (apply 60%, already embedded in Wheelo net). SYD last-4 avg +66.75, MEL last-4 avg +7.75 -> form_gap 59.0pts -> Rule 49 FIRES: 0.4 x 59 = 23.6, capped at +20 (30-60 tier) -> +20pts SYD. SYD xRating +4.6 (below +-8, no adj). MEL xRating +7.1 LUCKY (close to +-8, below threshold, no adj). Rule 43: MEL xRating +7.1 -- last 3 MEL scores 68/104/126 vs xScore baseline ~90.5 -> scores 104 and 126 likely outscored xScore by 10+ each -> Rule 43 FIRES (-3pts after dampening). Budget: pro-SYD (R28i+3, R50 Tier2+5, R51 HOT FORM T1+8, R49+20, players+4) = 40pts; pro-MEL (R28i+3, capped by Rule 51 at +3 combined) = 3pts. Net +37 toward SYD -> capped +12 (Rule 57, no TRAJ_DIV/BLOWOUT_COMBO). SYD 34.6 + 12 = SYD 46.6. Rule 41 FIRED (46.6 >= 30 AND win_prob >= 85%, no exemption flags, x0.90) = SYD 41.9 -> 42. Rule 42 FIRED (MEL stdev 34.4 > 30, after Rule 41, x0.90) = SYD 37.7 -> 38. Rule 43 FIRED (MEL xRating +7.1, 2 of last 3 scores outscoring xScore by 10+, -3pts) = SYD 34.7 -> 35. MARGIN CALC: Squiggle SYD 34.6 -> net cap +12 = SYD 46.6 -> Rule 41 FIRED (46.6 >= 30, win_prob >= 85%, x0.90) = SYD 41.9 -> Rule 42 FIRED (MEL stdev 34.4, x0.90) = SYD 37.7 -> Rule 43 FIRED (MEL LUCKY xRating, -3pts) = SYD 34.7 -> FINAL: SYD by 35.",
+      "summary": "Sydney are on HOT FORM TIER 1 -- three consecutive wins by 30+ points including demolitions of WCE (128), GCS (41) and WBD (66). Wheelo rates the gap at 25.8 points and the power ranking class difference is 13.8. Isaac Heeney returns from injury, adding +8.0 net player impact to the Swans. Melbourne have genuine scoring luck in their numbers (xRating +7.1) meaning their recent scoring has been above what their shot quality earns -- a regression towards the SCG mean is expected. The match total of 188.5 looks very low given both teams' PF averages combining for ~210.",
+      "tldr": "SYD HOT FORM TIER 1 (3 wins by 30+), Wheelo gap 25.8pts, Heeney returns. MEL xRating LUCKY -- regression expected.",
+      "injury_impact": "SYD NET +8.0: Heeney (return from absence -- Rule 22 at 60% already in Wheelo net), Melican IN. McCartin (Injured OUT). MEL NET -3.5: Culley (Injured OUT). Net swing 11.5pts toward SYD at 33% = +4pts in calc.",
       "scenarios": [],
-      "pattern_observations": [],
-      "last_updated": "2026-04-30T08:00:00",
+      "pattern_observations": [
+        {
+          "observation": "SYD's ODELO at the SCG is -3.1 (HIGH reliability, 14 games, 8W-6L). A top-2 ranked team performing BELOW their season baseline at their own home ground is statistically unusual and may indicate an SCG-specific matchup factor.",
+          "category": "fortress",
+          "confidence": "MEDIUM",
+          "evidence": "SYD ODELO SCG net -3.1 over 14 HIGH-reliability games. SYD ranked 2nd by power rating (112.6) but underperforms baseline at home. 8W-6L home record at SCG in this sample."
+        }
+      ],
+      "last_updated": "2026-05-03T08:00:00",
       "recent_form_home": [
         "L",
         "W",
@@ -495,6 +499,7 @@
         54
       ],
       "blowout_risk": false,
+      "bookie_total": 188.5,
       "locked": false
     },
     {
@@ -510,23 +515,23 @@
       "win_probability": 0.52,
       "tier": 4,
       "tier_name": "Coin Flip",
-      "venue": "People First Stadium",
+      "venue": "Carrara",
       "match_time": "Sun 3 May 7:20pm AEST",
       "ev_recommendation": "+EV: LINE GWS +11.5 @ $1.90 -- 13.5pt edge (~70% cover)",
-      "key_factors": "SQUIGGLE WEIGHTED CONSENSUS: GCS by 10.3pts (30/31 models, 96.8%). Top 3: Wheelo (82.8%) GCS by 12.2, Holy Grail (81.2%) GCS by 9.8, Drop Kick (81.2%) GCS by 5.5. Top-3 avg 9.16 vs consensus 10.3 = ratio 0.889 (between 0.85 and 1.15). No Rule 38 fires. Rule 15 NOT FIRED (all 3 same direction, ratio above 50%). WHEELO RATINGS: GCS overall +9.7 vs GWS overall +1.9 \u2014 GCS 7.8pts stronger per Wheelo. ODELO data for this specific game not fully available in data feed \u2014 no ODELO adjustment applied. POWER RANK: GCS 103.7 vs GWS 101.6 = gap 2.1 (below 4pt threshold, no Rule 50 adjustment). SCHEDULE: GCS INFLATED \u2014 majority of wins vs bottom-4 (WCE, RIC, ESS; GEE win was quality but minority). Apply -1.5pts toward GCS. GWS INFLATED \u2014 majority of wins vs bottom-4 (RIC, NTH; HAW win was quality but 1 of 3 wins). Apply -1.5pts toward GWS. Net: 0 (both inflated, cancel). FORM TRAJECTORY: GCS last 4 avg -23.0, GWS last 4 avg -2.8 \u2192 gap 20.2pts toward GWS (GWS performing less badly). Rule 49: 0.4 \u00d7 20.2 = 8.08pts toward GWS. Cap: gap 15-30 = cap +15. Apply +8pts toward GWS. GCS BLEEDING FLAG: last game loss by 49 to HAW. Rule 53 FIRED for GCS: base -3 (loss 40-54), HAW PR 113.0 (top 6, \u00d71.0) = -3pts toward GCS = +3pts toward GWS. GCS Rule 52 check: consecutive losses \u2265 30? GCS last 2: -49, +9 \u2014 NOT 2 consecutive \u2265 30. Rule 52 NOT FIRED. LINE MOVEMENT MAJOR: Spread moved +9.0pts toward GWS (from -20.5 to -11.5). GWS start DECREASED from +20.5 to +11.5 \u2014 market backing GWS (underdog's number decreasing = market backing underdog per rules). H2H major shift 6.3pts toward GWS. Rule 19 FIRES: 9+ spread shift = +6pts toward GWS. Use larger shift (spread > H2H). Only count once. RULE 48 WARNING CASCADE: WARNING 1: Top-3 models (Wheelo, Holy Grail, Drop Kick) all tip GCS \u2014 OPPOSITE to our post-rules tip of GWS. WARNING 2: FF tips GCS by 15 \u2014 disagrees with our GWS by 2 pick by 17pts (\u226515pt threshold). WARNING COUNT: 2 warnings \u2192 force minimum tier = 3 (Lean), cap win_prob at 55%. Opening bookmaker: GCS $1.58 implied 62.4%, GWS $2.62 implied 37.6% \u2192 37.6% > 35% threshold, Rule 48(d) NOT triggered. Rule 56: opening line implies 37.6% for GWS (above 30% threshold, NOT triggered). xSCORE: GCS xRating +5.6 LUCKY (under +8 threshold, no mandatory adj). GWS xRating -1.8 FAIR (no adj). GCS xChain 86.2 vs GWS 81.5 \u2014 GCS generates better chains. H2H: GWS won all 4 meetings vs GCS (avg 27.2pts). At Carrara: GWS won the 1 meeting by 35pts. IN Squiggle but noteworthy streak. GCS 0W-4L vs GWS across all meetings. REST: Both teams have 0km travel (GCS from Norwood Oval returned to Gold Coast, GWS from Manuka Oval returned to Sydney/Gold Coast). Both listed as Home (0km). CONSENSUS_LAG: |power gap 2.1 \u2013 weighted margin 10.3| = 8.2 \u2265 6 \u2192 CONSENSUS_LAG fires. Flag: HIGH UNCERTAINTY. Tier would downgrade by 1 but R48 already forces Tier 3 floor. BUDGET: Pro-GWS in-budget: form trajectory +8, Rule 53 GCS +3, Rule 19 line movement +6 = +17. Pro-GCS: schedules cancel (both inflated). Net toward GWS: +17. Cap +12 (no exemptions). Apply +12 toward GWS. MARGIN CALC: Squiggle weighted GCS by 10.3 \u2192 capped budget -12 toward GWS = GCS by -1.7 = GWS by 1.7 \u2192 Rule 41 NOT FIRED (margin 1.7, below 30) \u2192 Rule 42 FIRED (GCS volatility 44.7 > 30, \u00d70.90): 1.7 \u00d7 0.90 = 1.53 \u2192 Rule 43 NOT FIRED (GCS xRating +5.6, not at 10+ outscoring level in 2 of last 3 confirmed) \u2192 FINAL: GWS by 2.",
-      "summary": "This is a model-vs-market tip flip \u2014 30 of 31 Squiggle models back GCS, yet the spread moved a massive 9 points toward GWS (from -20.5 to -11.5), triggering a Rule 19 Major adjustment of +6pts. GCS arrive bleeding after a 49-point loss to Hawthorn and their last 4-game average is -23.0 vs GWS's -2.8. Two Rule 48 warnings are active (top-3 models and FF both disagree) \u2014 minimum Tier 3 enforced. This is a high-uncertainty multi-leg pick only. The LINE GWS +11.5 has 13.5pt edge regardless of direction.",
-      "tldr": "Massive 9-pt market move toward GWS triggers Rule 19. GCS bleeding after -49 loss, form gap 20.2pts toward GWS. WARNING: top 3 models and FF both disagree.",
-      "injury_impact": "GCS: Matt Rowell OUT (Injured) \u2014 key mid absent. Jarrod Witts OUT (Managed \u2014 was playing, genuine new loss this week). Zeke Uwland OUT (Managed). Wheelo net impact not confirmed in data feed (incomplete). GWS: Kieren Briggs IN (key ruck return). Nicholas Madden OUT (Injured). Wheelo net impact not confirmed in data feed.",
+      "key_factors": "Squiggle weighted: GCS by 10.3 (96.8% agreement, 30/31 models). Top-3: Wheelo (83.3%) GCS 12.2, Drop Kick (81.8%) GCS 5.5, Holy Grail (80.3%) GCS 9.8. Top-3 avg 9.2, ratio 0.89 (0.85-1.15) -> Rule 38 NOT FIRED. Wheelo preview partial data: GCS attack +8.3, GCS ODELO data unavailable from source cut-off. Rule 28i: GCS INFLATED (-2pts GCS), GWS INFLATED (-2pts GWS) -> net 0 (cancel). Rule 50: power gap 2.1pts (Close, no adj). Rule 50.5 CONSENSUS_LAG: |2.1-10.3| = 8.2 >= 6 -> flag HIGH UNCERTAINTY. GCS last-4 avg -23.0, GWS last-4 avg -2.75 -> form_gap 20.25pts toward GWS -> Rule 49 would fire: 0.4 x 20.25 = 8.1pts toward GWS, cap +15. GCS BLEEDING FLAG: last game -49 vs HAW (PR 113.0, top-6, modifier x1.0, base -3 for 40-54pt loss) -> Rule 53 fires: -3pts toward GCS. GWS won last 4 H2H straight (avg 27.2pts). Rule 21: GWS won 3+ consecutive H2H including at Carrara -> +3pts GWS. Line movement MAJOR: spread moved 9.0pts (from -20.5 to -11.5, GCS giving 9pts less start) -> Rule 19: 9pt shift = +6pts toward GWS. H2H shift also -6.7pts toward GWS. Both signals back GWS strongly. GCS xRating +5.6 LUCKY (below +-8, no adj). GWS xRating -1.8 FAIR (no adj). GCS xChain 86.2 vs GWS xChain 81.5 (GCS slightly better). Rule 43: GWS (loser in original calc) xRating -1.8, underscoring -- NOT FIRED. RAW CALC: Rule 49 (+8.1 toward GWS) + Rule 53 (+3 toward GWS) + Rule 21 (+3 toward GWS) + Rule 19 (+6 toward GWS) = 20.1pts toward GWS. Budget cap +12 would give: GCS 10.3 - 12.0 = GWS by 1.7. RULE 48 CHECK (warnings against GWS pick): (a) 30/31 models tip GCS -- model agreement strongly against GWS pick (WARNING 1). (b) All top-3 models tip GCS (opposite to GWS flip) -- WARNING 2. (c) FF tips GCS by 15 (disagrees with GWS by 17pts) -- WARNING 3. Rule 48 FIRES with 3 WARNINGS: force Tier 4 CoinFlip, cap win_prob 52%, ZERO all pro-loser (pro-GWS) bonuses, suppress EV. Zeroing pro-GWS bonuses -> revert to GCS consensus as winner. GCS by 10.3. Rule 41 NOT FIRED (10.3 < 30). Rule 42 FIRED (GWS stdev 42.4 > 30, x0.90) = GCS 9.27 -> 9. Rule 43 NOT FIRED (GWS xRating -1.8, underscoring). MARGIN CALC: Squiggle GCS 10.3 -> Rule 48 (3 warnings) zeros all pro-GWS adjustments -> GCS 10.3 -> Rule 41 NOT FIRED (10.3 < 30) -> Rule 42 FIRED (GWS stdev 42.4 > 30, x0.90) = GCS 9.3 -> Rule 43 NOT FIRED -> FINAL: GCS by 9.",
+      "summary": "Every signal in the market points toward GWS: a 9-point line shift, a 6.7-point H2H move, GWS winning four straight H2H meetings including at Carrara, and the Gold Coast losing by 49 last week without Witts or Rowell. However, Rule 48 fires with three warnings against tipping GWS -- 30 of 31 models back GCS, all three top-accuracy models back GCS, and Footy Forecaster disagrees by 17 points. The 3-warning cascade forces a CoinFlip tier and zeroes all pro-GWS adjustments. Treat this as a no-bet game.",
+      "tldr": "Market heavily moved to GWS (9pt line shift, GWS won last 4 H2H). But 30/31 models tip GCS -- Rule 48 caps confidence.",
+      "injury_impact": "GCS: Witts (Managed OUT, primary ruck -- significant), Rowell (Injured OUT, key mid). Multiple omissions. Full Wheelo net_impact unavailable (data cut-off) but qualitatively this is a major negative for GCS spine. GWS: Briggs IN (ruck return), Fonti IN. Madden (Injured OUT).",
       "scenarios": [],
       "pattern_observations": [
         {
-          "observation": "GWS have won all 4 H2H meetings vs GCS (including at Carrara) AND the spread moved 9pts toward GWS in the week before this game. Market sharp-money moving toward a team with unbeaten H2H record at this venue is a potentially predictive confluence worth tracking.",
+          "observation": "GWS has won all 4 recent H2H meetings against GCS (avg 27.2pts) including at Carrara. Market has moved 9pts toward GWS in the spread and 6.7pts in H2H -- the largest single-game market move in Round 8. Despite this, 96.8% of Squiggle models still tip GCS.",
           "category": "event_h2h",
           "confidence": "MEDIUM",
-          "evidence": "GWS 4W-0L all-time vs GCS (avg margin 27.2pts). GCS 0W-1L at Carrara (lost by 35). Spread moved from -20.5 to -11.5 in R8 2026 (9pt shift toward GWS)."
+          "evidence": "GWS 4W-0L vs GCS in last 4 meetings. At Carrara: GCS 0W-1L (GWS won by 35). Spread moved from -20.5 to -11.5 toward GWS. H2H shifted 6.7pts toward GWS. Yet 30/31 models retain GCS as pick."
         }
       ],
-      "last_updated": "2026-04-30T08:00:00",
+      "last_updated": "2026-05-03T08:00:00",
       "recent_form_home": [
         "W",
         "L",
@@ -555,16 +560,8 @@
         -41,
         7
       ],
-      "flip_triggers": [
-        "Rule 15B",
-        "Line movement",
-        "xRating regression",
-        "Rule 50 power rank gap",
-        "Rule 52 recent collapse"
-      ],
-      "flip_root_causes": [],
-      "flip_type": "diverse",
       "blowout_risk": false,
+      "bookie_total": 187.5,
       "locked": false
     }
   ],
