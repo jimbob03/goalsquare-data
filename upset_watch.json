@@ -1,47 +1,31 @@
 {
   "round": 8,
-  "generated_at": "2026-05-01T07:43:20.629966",
-  "alert_count": 2,
+  "generated_at": "2026-05-01T10:42:02.785653",
+  "alert_count": 1,
   "alerts": [
-    {
-      "type": "FORTRESS_UPSET",
-      "category": "UPSET",
-      "tier": "STRONG",
-      "game": "WBD vs FRE",
-      "venue": "Docklands",
-      "our_tip": "FRE by 8",
-      "upset_call": "WBD LIVE at home",
-      "reason": "WBD ODELO +22.0 HIGH vs FRE ODELO -29.7 at Docklands",
-      "history": "12W-4L",
-      "confidence_note": "Fortress +22.0 ODELO historically wins at high rate",
-      "game_id": 38558,
-      "predicted_margin": 8,
-      "predicted_winner": "Fremantle"
-    },
     {
       "type": "MARKET_DIVERGENCE",
       "category": "CAUTION",
       "tier": "MODERATE",
       "game": "GCS vs GWS",
-      "venue": "Carrara",
-      "our_tip": "GRE by 1",
-      "upset_call": "Market moved 8.0pts toward GWS (market agrees \u2014 moved toward GWS)",
-      "reason": "Spread shifted 8.0pts toward GWS, significance MAJOR",
+      "venue": "People First Stadium",
+      "our_tip": "GRE by 2",
+      "upset_call": "Market moved 9.0pts toward GWS (market agrees \u2014 moved toward GWS)",
+      "reason": "Spread shifted 9.0pts toward GWS, significance MAJOR",
       "history": "Sharp money often right when moving against consensus",
       "confidence_note": "Consider late mail or team news moving the market",
       "game_id": 38565,
-      "predicted_margin": 1,
+      "predicted_margin": 2,
       "predicted_winner": "Greater Western Sydney"
     }
   ],
   "content_pack": {
-    "headline": "Round 8 Upset Watch: WBD vs FRE \u2014 WBD LIVE at home",
-    "tweet": "Round 8 Pattern Alert\n\nWBD vs FRE: WBD LIVE at home\n\nWhy: WBD ODELO +22.0 HIGH vs FRE ODELO -29.7 at Docklands\n\nConsensus: FRE by 8\nOur read: STRONG confidence",
-    "email_section": "### 1. WBD vs FRE \u2014 WBD LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** WBD ODELO +22.0 HIGH vs FRE ODELO -29.7 at Docklands\n### 2. GCS vs GWS \u2014 Market moved 8.0pts toward GWS (market agrees \u2014 moved toward GWS)\n**Pattern:** MARKET_DIVERGENCE (MODERATE)\n**Why:** Spread shifted 8.0pts toward GWS, significance MAJOR",
-    "video_hook": "Round 8 has one game I can't stop thinking about. WBD vs FRE at Docklands. WBD LIVE at home.",
+    "headline": "Round 8 Upset Watch: GCS vs GWS \u2014 Market moved 9.0pts toward GWS (market agrees \u2014 moved toward GWS)",
+    "tweet": "Round 8 Pattern Alert\n\nGCS vs GWS: Market moved 9.0pts toward GWS (market agrees \u2014 moved toward GWS)\n\nWhy: Spread shifted 9.0pts toward GWS, significance MAJOR\n\nConsensus: GRE by 2\nOur read: MODERATE confidence",
+    "email_section": "### 1. GCS vs GWS \u2014 Market moved 9.0pts toward GWS (market agrees \u2014 moved toward GWS)\n**Pattern:** MARKET_DIVERGENCE (MODERATE)\n**Why:** Spread shifted 9.0pts toward GWS, significance MAJOR",
+    "video_hook": "Round 8 has one game I can't stop thinking about. GCS vs GWS at People First Stadium. Market moved 9.0pts toward GWS (market agrees \u2014 moved toward GWS).",
     "all_alerts_short": [
-      "WBD vs FRE: WBD LIVE at home (FORTRESS_UPSET, STRONG)",
-      "GCS vs GWS: Market moved 8.0pts toward GWS (market agrees \u2014 moved toward GWS) (MARKET_DIVERGENCE, MODERATE)"
+      "GCS vs GWS: Market moved 9.0pts toward GWS (market agrees \u2014 moved toward GWS) (MARKET_DIVERGENCE, MODERATE)"
     ]
   }
 }
