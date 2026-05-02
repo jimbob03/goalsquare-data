@@ -1,7 +1,7 @@
 {
   "round": 8,
   "season": 2026,
-  "last_checked": "2026-05-02T06:58:59.693618",
+  "last_checked": "2026-05-02T08:22:51.072067",
   "summary": {
     "correct": 3,
     "total_scored": 4,
@@ -116,11 +116,11 @@
       "tier_name": "Coin Flip",
       "win_probability": 0.52,
       "status": "live",
-      "actual_home_score": 27,
-      "actual_away_score": 21,
-      "actual_winner": "West Coast",
-      "actual_margin": 6,
-      "correct": true,
+      "actual_home_score": 69,
+      "actual_away_score": 73,
+      "actual_winner": "Richmond",
+      "actual_margin": -4,
+      "correct": false,
       "margin_error": null
     },
     {
@@ -138,11 +138,11 @@
       "tier_name": "Lock",
       "win_probability": 0.89,
       "status": "live",
-      "actual_home_score": 27,
-      "actual_away_score": 7,
-      "actual_winner": "Geelong",
-      "actual_margin": 20,
-      "correct": true,
+      "actual_home_score": 54,
+      "actual_away_score": 55,
+      "actual_winner": "North Melbourne",
+      "actual_margin": -1,
+      "correct": false,
       "margin_error": null
     },
     {
