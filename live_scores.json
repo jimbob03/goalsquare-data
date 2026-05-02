@@ -1,16 +1,16 @@
 {
   "round": 8,
   "season": 2026,
-  "last_checked": "2026-05-02T04:55:04.957707",
+  "last_checked": "2026-05-02T06:58:59.693618",
   "summary": {
-    "correct": 2,
-    "total_scored": 3,
+    "correct": 3,
+    "total_scored": 4,
     "total_games": 9,
-    "accuracy": 66.7,
-    "mae": 8.7,
-    "games_live": 1,
-    "games_completed": 3,
-    "games_upcoming": 5
+    "accuracy": 75.0,
+    "mae": 12.5,
+    "games_live": 2,
+    "games_completed": 4,
+    "games_upcoming": 3
   },
   "games": [
     {
@@ -93,13 +93,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.92,
-      "status": "live",
-      "actual_home_score": 61,
-      "actual_away_score": 118,
+      "status": "completed",
+      "actual_home_score": 79,
+      "actual_away_score": 143,
       "actual_winner": "Brisbane Lions",
-      "actual_margin": -57,
+      "actual_margin": -64,
       "correct": true,
-      "margin_error": null
+      "margin_error": 24
     },
     {
       "game_id": 38561,
@@ -115,12 +115,12 @@
       "tier": 4,
       "tier_name": "Coin Flip",
       "win_probability": 0.52,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 27,
+      "actual_away_score": 21,
+      "actual_winner": "West Coast",
+      "actual_margin": 6,
+      "correct": true,
       "margin_error": null
     },
     {
@@ -137,12 +137,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.89,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 27,
+      "actual_away_score": 7,
+      "actual_winner": "Geelong",
+      "actual_margin": 20,
+      "correct": true,
       "margin_error": null
     },
     {
