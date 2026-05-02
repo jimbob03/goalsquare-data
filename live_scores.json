@@ -1,15 +1,15 @@
 {
   "round": 8,
   "season": 2026,
-  "last_checked": "2026-05-02T12:09:37.094532",
+  "last_checked": "2026-05-02T13:47:08.274323",
   "summary": {
-    "correct": 4,
-    "total_scored": 6,
+    "correct": 5,
+    "total_scored": 7,
     "total_games": 9,
-    "accuracy": 66.7,
-    "mae": 12.8,
-    "games_live": 1,
-    "games_completed": 6,
+    "accuracy": 71.4,
+    "mae": 14.0,
+    "games_live": 0,
+    "games_completed": 7,
     "games_upcoming": 2
   },
   "games": [
@@ -159,13 +159,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.73,
-      "status": "live",
+      "status": "completed",
       "actual_home_score": 69,
       "actual_away_score": 108,
       "actual_winner": "St Kilda",
       "actual_margin": -39,
       "correct": true,
-      "margin_error": null
+      "margin_error": 21
     },
     {
       "game_id": 38564,
