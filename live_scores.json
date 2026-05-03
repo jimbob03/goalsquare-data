@@ -1,7 +1,7 @@
 {
   "round": 8,
   "season": 2026,
-  "last_checked": "2026-05-03T10:15:23.822296",
+  "last_checked": "2026-05-03T11:11:06.203790",
   "summary": {
     "correct": 6,
     "total_scored": 8,
@@ -204,11 +204,11 @@
       "tier_name": "Coin Flip",
       "win_probability": 0.52,
       "status": "live",
-      "actual_home_score": 25,
-      "actual_away_score": 27,
-      "actual_winner": "Greater Western Sydney",
-      "actual_margin": -2,
-      "correct": true,
+      "actual_home_score": 54,
+      "actual_away_score": 42,
+      "actual_winner": "Gold Coast",
+      "actual_margin": 12,
+      "correct": false,
       "margin_error": null
     }
   ]
