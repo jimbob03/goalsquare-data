@@ -1,6 +1,6 @@
 {
   "round": 8,
-  "generated_at": "2026-05-02T23:23:05.360542",
+  "generated_at": "2026-05-03T00:58:30.965220",
   "alert_count": 1,
   "alerts": [
     {
@@ -8,7 +8,7 @@
       "category": "CAUTION",
       "tier": "MODERATE",
       "game": "GCS vs GWS",
-      "venue": "People First Stadium",
+      "venue": "Carrara",
       "our_tip": "GRE by 0",
       "upset_call": "Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS)",
       "reason": "Spread shifted 10.0pts toward GWS, significance MAJOR",
@@ -23,7 +23,7 @@
     "headline": "Round 8 Upset Watch: GCS vs GWS \u2014 Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS)",
     "tweet": "Round 8 Pattern Alert\n\nGCS vs GWS: Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS)\n\nWhy: Spread shifted 10.0pts toward GWS, significance MAJOR\n\nConsensus: GRE by 0\nOur read: MODERATE confidence",
     "email_section": "### 1. GCS vs GWS \u2014 Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS)\n**Pattern:** MARKET_DIVERGENCE (MODERATE)\n**Why:** Spread shifted 10.0pts toward GWS, significance MAJOR",
-    "video_hook": "Round 8 has one game I can't stop thinking about. GCS vs GWS at People First Stadium. Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS).",
+    "video_hook": "Round 8 has one game I can't stop thinking about. GCS vs GWS at Carrara. Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS).",
     "all_alerts_short": [
       "GCS vs GWS: Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS) (MARKET_DIVERGENCE, MODERATE)"
     ]
