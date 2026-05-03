@@ -1188,5 +1188,39 @@
     "correct": true,
     "margin_error": 21,
     "scored_at": "2026-05-02T14:35:54.875258"
+  },
+  {
+    "game_id": 38564,
+    "round": 8,
+    "season": 2026,
+    "home_team": "Sydney",
+    "away_team": "Melbourne",
+    "predicted_winner": "Sydney",
+    "predicted_margin": 34,
+    "predicted_tier": 1,
+    "actual_winner": "Sydney",
+    "actual_margin": 17,
+    "actual_home_score": 131,
+    "actual_away_score": 114,
+    "correct": true,
+    "margin_error": 17,
+    "scored_at": "2026-05-03T14:35:57.148842"
+  },
+  {
+    "game_id": 38565,
+    "round": 8,
+    "season": 2026,
+    "home_team": "Gold Coast",
+    "away_team": "Greater Western Sydney",
+    "predicted_winner": "Greater Western Sydney",
+    "predicted_margin": 0,
+    "predicted_tier": 4,
+    "actual_winner": "Gold Coast",
+    "actual_margin": 20,
+    "actual_home_score": 83,
+    "actual_away_score": 63,
+    "correct": false,
+    "margin_error": 20,
+    "scored_at": "2026-05-03T14:35:57.148859"
   }
 ]
