@@ -1,16 +1,16 @@
 {
   "round": 8,
   "season": 2026,
-  "last_checked": "2026-05-03T09:04:56.808535",
+  "last_checked": "2026-05-03T10:15:23.822296",
   "summary": {
     "correct": 6,
     "total_scored": 8,
     "total_games": 9,
     "accuracy": 75.0,
     "mae": 14.4,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 8,
-    "games_upcoming": 1
+    "games_upcoming": 0
   },
   "games": [
     {
@@ -203,12 +203,12 @@
       "tier": 4,
       "tier_name": "Coin Flip",
       "win_probability": 0.52,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 25,
+      "actual_away_score": 27,
+      "actual_winner": "Greater Western Sydney",
+      "actual_margin": -2,
+      "correct": true,
       "margin_error": null
     }
   ]
