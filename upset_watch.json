@@ -1,31 +1,31 @@
 {
-  "round": 8,
-  "generated_at": "2026-05-03T00:58:30.965220",
+  "round": 9,
+  "generated_at": "2026-05-04T00:31:33.687102",
   "alert_count": 1,
   "alerts": [
     {
-      "type": "MARKET_DIVERGENCE",
-      "category": "CAUTION",
-      "tier": "MODERATE",
-      "game": "GCS vs GWS",
-      "venue": "Carrara",
-      "our_tip": "GRE by 0",
-      "upset_call": "Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS)",
-      "reason": "Spread shifted 10.0pts toward GWS, significance MAJOR",
-      "history": "Sharp money often right when moving against consensus",
-      "confidence_note": "Consider late mail or team news moving the market",
-      "game_id": 38565,
-      "predicted_margin": 0,
-      "predicted_winner": "Greater Western Sydney"
+      "type": "FORTRESS_UPSET",
+      "category": "UPSET",
+      "tier": "STRONG",
+      "game": "FRE vs HAW",
+      "venue": "Perth Stadium",
+      "our_tip": "HAW by 1",
+      "upset_call": "FRE LIVE at home",
+      "reason": "FRE ODELO +18.2 HIGH vs HAW ODELO -27.5 at Perth Stadium",
+      "history": "14W-4L",
+      "confidence_note": "FRE +20.4 HIGH - among strongest fortress effects in the comp",
+      "game_id": 38566,
+      "predicted_margin": 1,
+      "predicted_winner": "Hawthorn"
     }
   ],
   "content_pack": {
-    "headline": "Round 8 Upset Watch: GCS vs GWS \u2014 Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS)",
-    "tweet": "Round 8 Pattern Alert\n\nGCS vs GWS: Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS)\n\nWhy: Spread shifted 10.0pts toward GWS, significance MAJOR\n\nConsensus: GRE by 0\nOur read: MODERATE confidence",
-    "email_section": "### 1. GCS vs GWS \u2014 Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS)\n**Pattern:** MARKET_DIVERGENCE (MODERATE)\n**Why:** Spread shifted 10.0pts toward GWS, significance MAJOR",
-    "video_hook": "Round 8 has one game I can't stop thinking about. GCS vs GWS at Carrara. Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS).",
+    "headline": "Round 9 Upset Watch: FRE vs HAW \u2014 FRE LIVE at home",
+    "tweet": "Round 9 Pattern Alert\n\nFRE vs HAW: FRE LIVE at home\n\nWhy: FRE ODELO +18.2 HIGH vs HAW ODELO -27.5 at Perth Stadium\n\nConsensus: HAW by 1\nOur read: STRONG confidence",
+    "email_section": "### 1. FRE vs HAW \u2014 FRE LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** FRE ODELO +18.2 HIGH vs HAW ODELO -27.5 at Perth Stadium",
+    "video_hook": "Round 9 has one game I can't stop thinking about. FRE vs HAW at Perth Stadium. FRE LIVE at home.",
     "all_alerts_short": [
-      "GCS vs GWS: Market moved 10.0pts toward GWS (market agrees \u2014 moved toward GWS) (MARKET_DIVERGENCE, MODERATE)"
+      "FRE vs HAW: FRE LIVE at home (FORTRESS_UPSET, STRONG)"
     ]
   }
 }
