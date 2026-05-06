@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T11:22:56.910494",
-  "total_posts": 12,
+  "generated_at": "2026-05-06T11:23:03.452317",
+  "total_posts": 13,
   "posts": [
     {
       "type": "round_summary",
@@ -65,6 +65,15 @@
       "game": "RIC vs ADE",
       "content": "🏈 RIC vs ADE\n\n💪 Adelaide by 40 | 86% win prob\n📍 MCG | Sun 10 May 3:15pm AEST\n🏆 Tier 2 — Strong\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Richmond #Adelaide",
       "schedule": "before_Sun"
+    },
+    {
+      "type": "blog_preview",
+      "game": "FRE vs HAW",
+      "game_day": "Thu",
+      "blog_slug": "fremantle-vs-hawthorn-round-9-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r9-fre-vs-haw.png",
+      "content": "🪙 FRE vs HAW — CLOSE ONE\n\nFRE by 2 at Perth Stadium\n\nHAW struggle at this venue: 0W-1L (ODELO -27)\n\nFull analysis → https://goalsquare.com.au/post/fremantle-vs-hawthorn-round-9-2026\n\n#AFL #AFLTips #GoalSquare #Fremantle #Hawthorn",
+      "schedule": "day_before_thu"
     },
     {
       "type": "scorecard",
