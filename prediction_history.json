@@ -1222,5 +1222,22 @@
     "correct": false,
     "margin_error": 20,
     "scored_at": "2026-05-03T14:35:57.148859"
+  },
+  {
+    "game_id": 38566,
+    "round": 9,
+    "season": 2026,
+    "home_team": "Fremantle",
+    "away_team": "Hawthorn",
+    "predicted_winner": "Fremantle",
+    "predicted_margin": 5,
+    "predicted_tier": 3,
+    "actual_winner": "Fremantle",
+    "actual_margin": 15,
+    "actual_home_score": 88,
+    "actual_away_score": 73,
+    "correct": true,
+    "margin_error": 10,
+    "scored_at": "2026-05-07T15:55:23.856406"
   }
 ]
