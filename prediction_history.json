@@ -1239,5 +1239,39 @@
     "correct": true,
     "margin_error": 10,
     "scored_at": "2026-05-07T15:55:23.856406"
+  },
+  {
+    "game_id": 38567,
+    "round": 9,
+    "season": 2026,
+    "home_team": "Brisbane Lions",
+    "away_team": "Carlton",
+    "predicted_winner": "Brisbane Lions",
+    "predicted_margin": 43,
+    "predicted_tier": 1,
+    "actual_winner": "Brisbane Lions",
+    "actual_margin": 11,
+    "actual_home_score": 100,
+    "actual_away_score": 89,
+    "correct": true,
+    "margin_error": 32,
+    "scored_at": "2026-05-08T15:10:46.315792"
+  },
+  {
+    "game_id": 38568,
+    "round": 9,
+    "season": 2026,
+    "home_team": "Port Adelaide",
+    "away_team": "Western Bulldogs",
+    "predicted_winner": "Port Adelaide",
+    "predicted_margin": 10,
+    "predicted_tier": 3,
+    "actual_winner": "Western Bulldogs",
+    "actual_margin": 2,
+    "actual_home_score": 72,
+    "actual_away_score": 74,
+    "correct": false,
+    "margin_error": 12,
+    "scored_at": "2026-05-08T15:10:46.315811"
   }
 ]
