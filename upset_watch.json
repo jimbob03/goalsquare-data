@@ -1,12 +1,31 @@
 {
   "round": 9,
-  "generated_at": "2026-05-07T11:29:51.603157",
-  "alert_count": 0,
-  "alerts": [],
+  "generated_at": "2026-05-08T10:41:24.542150",
+  "alert_count": 1,
+  "alerts": [
+    {
+      "type": "MARKET_DIVERGENCE",
+      "category": "CAUTION",
+      "tier": "MODERATE",
+      "game": "NTH vs SYD",
+      "venue": "Marvel Stadium",
+      "our_tip": "SYD by 30",
+      "upset_call": "Market moved 7.0pts toward NTH (market fading our pick \u2014 moved toward NTH)",
+      "reason": "Spread shifted 7.0pts toward NTH, significance MAJOR",
+      "history": "Sharp money often right when moving against consensus",
+      "confidence_note": "Consider late mail or team news moving the market",
+      "game_id": 38569,
+      "predicted_margin": 30,
+      "predicted_winner": "Sydney"
+    }
+  ],
   "content_pack": {
-    "headline": "Round 9: consensus round",
-    "tweet": null,
-    "email_section": null,
-    "video_hook": null
+    "headline": "Round 9 Upset Watch: NTH vs SYD \u2014 Market moved 7.0pts toward NTH (market fading our pick \u2014 moved toward NTH)",
+    "tweet": "Round 9 Pattern Alert\n\nNTH vs SYD: Market moved 7.0pts toward NTH (market fading our pick \u2014 moved toward NTH)\n\nWhy: Spread shifted 7.0pts toward NTH, significance MAJOR\n\nConsensus: SYD by 30\nOur read: MODERATE confidence",
+    "email_section": "### 1. NTH vs SYD \u2014 Market moved 7.0pts toward NTH (market fading our pick \u2014 moved toward NTH)\n**Pattern:** MARKET_DIVERGENCE (MODERATE)\n**Why:** Spread shifted 7.0pts toward NTH, significance MAJOR",
+    "video_hook": "Round 9 has one game I can't stop thinking about. NTH vs SYD at Marvel Stadium. Market moved 7.0pts toward NTH (market fading our pick \u2014 moved toward NTH).",
+    "all_alerts_short": [
+      "NTH vs SYD: Market moved 7.0pts toward NTH (market fading our pick \u2014 moved toward NTH) (MARKET_DIVERGENCE, MODERATE)"
+    ]
   }
 }
