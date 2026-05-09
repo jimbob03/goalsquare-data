@@ -1,16 +1,16 @@
 {
   "round": 9,
   "season": 2026,
-  "last_checked": "2026-05-09T08:57:06.195466",
+  "last_checked": "2026-05-09T10:04:37.393963",
   "summary": {
     "correct": 4,
     "total_scored": 5,
     "total_games": 9,
     "accuracy": 80.0,
     "mae": 22.4,
-    "games_live": 0,
+    "games_live": 2,
     "games_completed": 5,
-    "games_upcoming": 4
+    "games_upcoming": 2
   },
   "games": [
     {
@@ -137,11 +137,11 @@
       "tier": 4,
       "tier_name": "Coin Flip",
       "win_probability": 0.52,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
+      "status": "live",
+      "actual_home_score": 33,
+      "actual_away_score": 33,
+      "actual_winner": "Tied",
+      "actual_margin": 0,
       "correct": null,
       "margin_error": null
     },
@@ -159,12 +159,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.68,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 33,
+      "actual_away_score": 22,
+      "actual_winner": "Geelong",
+      "actual_margin": 11,
+      "correct": true,
       "margin_error": null
     },
     {
