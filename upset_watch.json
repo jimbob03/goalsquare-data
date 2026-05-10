@@ -1,10 +1,10 @@
 {
-  "round": 9,
-  "generated_at": "2026-05-09T10:30:09.720804",
+  "round": 10,
+  "generated_at": "2026-05-10T10:30:44.493614",
   "alert_count": 0,
   "alerts": [],
   "content_pack": {
-    "headline": "Round 9: consensus round",
+    "headline": "Round 10: consensus round",
     "tweet": null,
     "email_section": null,
     "video_hook": null
