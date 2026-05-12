@@ -1341,5 +1341,39 @@
     "correct": true,
     "margin_error": 39,
     "scored_at": "2026-05-09T14:38:41.265357"
+  },
+  {
+    "game_id": 38573,
+    "round": 9,
+    "season": 2026,
+    "home_team": "Melbourne",
+    "away_team": "West Coast",
+    "predicted_winner": "Melbourne",
+    "predicted_margin": 42,
+    "predicted_tier": 2,
+    "actual_winner": "Melbourne",
+    "actual_margin": 32,
+    "actual_home_score": 99,
+    "actual_away_score": 67,
+    "correct": true,
+    "margin_error": 10,
+    "scored_at": "2026-05-12T07:26:42.468828"
+  },
+  {
+    "game_id": 38574,
+    "round": 9,
+    "season": 2026,
+    "home_team": "Richmond",
+    "away_team": "Adelaide",
+    "predicted_winner": "Adelaide",
+    "predicted_margin": 41,
+    "predicted_tier": 1,
+    "actual_winner": "Adelaide",
+    "actual_margin": 37,
+    "actual_home_score": 61,
+    "actual_away_score": 98,
+    "correct": true,
+    "margin_error": 4,
+    "scored_at": "2026-05-12T07:26:42.468839"
   }
 ]
