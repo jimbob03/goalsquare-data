@@ -1,16 +1,16 @@
 {
   "round": 10,
   "season": 2026,
-  "last_checked": "2026-05-15T08:42:10.636913",
+  "last_checked": "2026-05-15T11:05:46.216212",
   "summary": {
     "correct": 0,
     "total_scored": 1,
     "total_games": 9,
     "accuracy": 0.0,
     "mae": 55.0,
-    "games_live": 0,
+    "games_live": 2,
     "games_completed": 1,
-    "games_upcoming": 8
+    "games_upcoming": 6
   },
   "games": [
     {
@@ -49,12 +49,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.91,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 25,
+      "actual_away_score": 45,
+      "actual_winner": "Collingwood",
+      "actual_margin": -20,
+      "correct": false,
       "margin_error": null
     },
     {
@@ -71,12 +71,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.87,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 38,
+      "actual_away_score": 36,
+      "actual_winner": "Gold Coast",
+      "actual_margin": 2,
+      "correct": true,
       "margin_error": null
     },
     {
