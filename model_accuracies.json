@@ -1,111 +1,111 @@
 {
   "season": 2026,
-  "last_updated": "2026-05-14T11:15:41.574682",
+  "last_updated": "2026-05-15T11:23:14.713233",
   "total_models": 31,
   "models": [
     {
       "name": "Wheelo Ratings",
-      "accuracy": 84.0,
-      "mae": 23.9,
-      "tips_total": 81,
+      "accuracy": 82.9,
+      "mae": 24.3,
+      "tips_total": 82,
       "tips_correct": 68
     },
     {
       "name": "Drop Kick Data",
-      "accuracy": 82.7,
-      "mae": 25.1,
-      "tips_total": 81,
+      "accuracy": 81.7,
+      "mae": 25.5,
+      "tips_total": 82,
       "tips_correct": 67
     },
     {
-      "name": "Holy Grail Ratings",
-      "accuracy": 80.2,
-      "mae": 25.2,
-      "tips_total": 81,
+      "name": "s10",
+      "accuracy": 79.3,
+      "mae": 25.6,
+      "tips_total": 82,
       "tips_correct": 65
     },
     {
-      "name": "s10",
-      "accuracy": 80.2,
-      "mae": 25.3,
-      "tips_total": 81,
+      "name": "Holy Grail Ratings",
+      "accuracy": 79.3,
+      "mae": 25.6,
+      "tips_total": 82,
       "tips_correct": 65
     },
     {
       "name": "Glicko Ratings",
-      "accuracy": 80.2,
-      "mae": 25.5,
-      "tips_total": 81,
+      "accuracy": 79.3,
+      "mae": 25.8,
+      "tips_total": 82,
       "tips_correct": 65
     },
     {
       "name": "Punters",
-      "accuracy": 79.0,
-      "mae": 24.8,
-      "tips_total": 81,
+      "accuracy": 78.0,
+      "mae": 25.2,
+      "tips_total": 82,
       "tips_correct": 64
     },
     {
       "name": "Aggregate",
-      "accuracy": 79.0,
-      "mae": 25.5,
-      "tips_total": 81,
-      "tips_correct": 64
-    },
-    {
-      "name": "Cheap Stats",
-      "accuracy": 79.0,
-      "mae": 26.3,
-      "tips_total": 81,
+      "accuracy": 78.0,
+      "mae": 25.8,
+      "tips_total": 82,
       "tips_correct": 64
     },
     {
       "name": "ZaphBot",
-      "accuracy": 79.0,
-      "mae": 26.4,
-      "tips_total": 81,
+      "accuracy": 78.0,
+      "mae": 26.7,
+      "tips_total": 82,
+      "tips_correct": 64
+    },
+    {
+      "name": "Cheap Stats",
+      "accuracy": 78.0,
+      "mae": 26.7,
+      "tips_total": 82,
       "tips_correct": 64
     },
     {
       "name": "AFLalytics",
-      "accuracy": 77.8,
-      "mae": 25.6,
-      "tips_total": 81,
+      "accuracy": 76.8,
+      "mae": 26.0,
+      "tips_total": 82,
       "tips_correct": 63
     },
     {
       "name": "Matter of Stats",
-      "accuracy": 77.8,
-      "mae": 26.0,
-      "tips_total": 81,
+      "accuracy": 76.8,
+      "mae": 26.2,
+      "tips_total": 82,
       "tips_correct": 63
     },
     {
       "name": "Don't Blame the Data",
-      "accuracy": 77.8,
-      "mae": 26.0,
-      "tips_total": 81,
+      "accuracy": 76.8,
+      "mae": 26.3,
+      "tips_total": 82,
       "tips_correct": 63
     },
     {
-      "name": "Massey Ratings",
-      "accuracy": 76.8,
-      "mae": 27.8,
-      "tips_total": 56,
-      "tips_correct": 43
-    },
-    {
       "name": "What Snoo Thinks",
-      "accuracy": 76.5,
-      "mae": 25.6,
-      "tips_total": 81,
+      "accuracy": 75.6,
+      "mae": 25.9,
+      "tips_total": 82,
       "tips_correct": 62
     },
     {
       "name": "footycharts",
-      "accuracy": 76.5,
-      "mae": 26.0,
-      "tips_total": 81,
+      "accuracy": 75.6,
+      "mae": 26.3,
+      "tips_total": 82,
+      "tips_correct": 62
+    },
+    {
+      "name": "AFL Lab",
+      "accuracy": 75.6,
+      "mae": 26.7,
+      "tips_total": 82,
       "tips_correct": 62
     }
   ]
