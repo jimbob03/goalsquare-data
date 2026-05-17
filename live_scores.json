@@ -1,16 +1,16 @@
 {
   "round": 10,
   "season": 2026,
-  "last_checked": "2026-05-17T08:01:00.574543",
+  "last_checked": "2026-05-17T09:59:06.108990",
   "summary": {
     "correct": 5,
     "total_scored": 8,
     "total_games": 9,
     "accuracy": 62.5,
     "mae": 31.2,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 8,
-    "games_upcoming": 1
+    "games_upcoming": 0
   },
   "games": [
     {
@@ -203,12 +203,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.88,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 52,
+      "actual_away_score": 62,
+      "actual_winner": "Greater Western Sydney",
+      "actual_margin": -10,
+      "correct": true,
       "margin_error": null
     }
   ]
