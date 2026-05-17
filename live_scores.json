@@ -1,16 +1,16 @@
 {
   "round": 10,
   "season": 2026,
-  "last_checked": "2026-05-16T14:10:15.159713",
+  "last_checked": "2026-05-17T05:43:31.656477",
   "summary": {
-    "correct": 3,
-    "total_scored": 6,
+    "correct": 4,
+    "total_scored": 7,
     "total_games": 9,
-    "accuracy": 50.0,
-    "mae": 33.8,
-    "games_live": 0,
-    "games_completed": 6,
-    "games_upcoming": 3
+    "accuracy": 57.1,
+    "mae": 31.4,
+    "games_live": 1,
+    "games_completed": 7,
+    "games_upcoming": 1
   },
   "games": [
     {
@@ -159,13 +159,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.85,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 61,
+      "actual_away_score": 104,
+      "actual_winner": "Fremantle",
+      "actual_margin": -43,
+      "correct": true,
+      "margin_error": 17
     },
     {
       "game_id": 38582,
@@ -181,12 +181,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.96,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 32,
+      "actual_away_score": 12,
+      "actual_winner": "St Kilda",
+      "actual_margin": 20,
+      "correct": true,
       "margin_error": null
     },
     {
