@@ -1528,5 +1528,22 @@
     "correct": false,
     "margin_error": 50,
     "scored_at": "2026-05-17T14:46:28.924196"
+  },
+  {
+    "game_id": 38584,
+    "round": 11,
+    "season": 2026,
+    "home_team": "Hawthorn",
+    "away_team": "Adelaide",
+    "predicted_winner": "Hawthorn",
+    "predicted_margin": 22,
+    "predicted_tier": 2,
+    "actual_winner": "Hawthorn",
+    "actual_margin": 9,
+    "actual_home_score": 75,
+    "actual_away_score": 66,
+    "correct": true,
+    "margin_error": 13,
+    "scored_at": "2026-05-21T16:30:14.661139"
   }
 ]
