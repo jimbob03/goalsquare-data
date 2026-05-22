@@ -1545,5 +1545,39 @@
     "correct": true,
     "margin_error": 13,
     "scored_at": "2026-05-21T16:30:14.661139"
+  },
+  {
+    "game_id": 38585,
+    "round": 11,
+    "season": 2026,
+    "home_team": "Richmond",
+    "away_team": "Essendon",
+    "predicted_winner": "Essendon",
+    "predicted_margin": 14,
+    "predicted_tier": 2,
+    "actual_winner": "Richmond",
+    "actual_margin": 18,
+    "actual_home_score": 74,
+    "actual_away_score": 56,
+    "correct": false,
+    "margin_error": 32,
+    "scored_at": "2026-05-22T16:10:32.669391"
+  },
+  {
+    "game_id": 38586,
+    "round": 11,
+    "season": 2026,
+    "home_team": "Fremantle",
+    "away_team": "St Kilda",
+    "predicted_winner": "Fremantle",
+    "predicted_margin": 25,
+    "predicted_tier": 2,
+    "actual_winner": "Fremantle",
+    "actual_margin": 30,
+    "actual_home_score": 104,
+    "actual_away_score": 74,
+    "correct": true,
+    "margin_error": 5,
+    "scored_at": "2026-05-22T16:10:32.669409"
   }
 ]
