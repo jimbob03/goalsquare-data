@@ -1,16 +1,16 @@
 {
   "round": 11,
   "season": 2026,
-  "last_checked": "2026-05-23T07:57:03.969341",
+  "last_checked": "2026-05-23T09:51:48.132535",
   "summary": {
-    "correct": 2,
-    "total_scored": 4,
+    "correct": 4,
+    "total_scored": 6,
     "total_games": 9,
-    "accuracy": 50.0,
-    "mae": 19.8,
-    "games_live": 2,
-    "games_completed": 4,
-    "games_upcoming": 3
+    "accuracy": 66.7,
+    "mae": 19.3,
+    "games_live": 1,
+    "games_completed": 6,
+    "games_upcoming": 2
   },
   "games": [
     {
@@ -115,13 +115,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.8,
-      "status": "live",
-      "actual_home_score": 77,
-      "actual_away_score": 39,
+      "status": "completed",
+      "actual_home_score": 107,
+      "actual_away_score": 80,
       "actual_winner": "Geelong",
-      "actual_margin": 38,
+      "actual_margin": 27,
       "correct": true,
-      "margin_error": null
+      "margin_error": 1
     },
     {
       "game_id": 38589,
@@ -137,13 +137,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 45,
-      "actual_away_score": 35,
+      "status": "completed",
+      "actual_home_score": 92,
+      "actual_away_score": 82,
       "actual_winner": "Collingwood",
       "actual_margin": 10,
       "correct": true,
-      "margin_error": null
+      "margin_error": 36
     },
     {
       "game_id": 38590,
@@ -159,12 +159,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.73,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 6,
+      "actual_away_score": 18,
+      "actual_winner": "Carlton",
+      "actual_margin": -12,
+      "correct": false,
       "margin_error": null
     },
     {
