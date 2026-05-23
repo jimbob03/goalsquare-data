@@ -1,16 +1,16 @@
 {
   "round": 11,
   "season": 2026,
-  "last_checked": "2026-05-22T15:23:57.519743",
+  "last_checked": "2026-05-23T05:35:23.324382",
   "summary": {
     "correct": 2,
     "total_scored": 3,
     "total_games": 9,
     "accuracy": 66.7,
     "mae": 16.7,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 3,
-    "games_upcoming": 6
+    "games_upcoming": 5
   },
   "games": [
     {
@@ -93,12 +93,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.78,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 77,
+      "actual_away_score": 97,
+      "actual_winner": "Gold Coast",
+      "actual_margin": -20,
+      "correct": true,
       "margin_error": null
     },
     {
