@@ -1,12 +1,31 @@
 {
   "round": 11,
-  "generated_at": "2026-05-22T12:06:49.400559",
-  "alert_count": 0,
-  "alerts": [],
+  "generated_at": "2026-05-23T10:59:57.537408",
+  "alert_count": 1,
+  "alerts": [
+    {
+      "type": "FORTRESS_UPSET",
+      "category": "UPSET",
+      "tier": "STRONG",
+      "game": "GWS vs BRI",
+      "venue": "Sydney Showground",
+      "our_tip": "BRI by 17",
+      "upset_call": "GWS LIVE at home",
+      "reason": "GWS ODELO +16.9 HIGH vs BRI ODELO +0.0 at Sydney Showground",
+      "history": "9W-3L",
+      "confidence_note": "Fortress +16.9 ODELO historically wins at high rate",
+      "game_id": 38591,
+      "predicted_margin": 17,
+      "predicted_winner": "Brisbane Lions"
+    }
+  ],
   "content_pack": {
-    "headline": "Round 11: consensus round",
-    "tweet": null,
-    "email_section": null,
-    "video_hook": null
+    "headline": "Round 11 Upset Watch: GWS vs BRI \u2014 GWS LIVE at home",
+    "tweet": "Round 11 Pattern Alert\n\nGWS vs BRI: GWS LIVE at home\n\nWhy: GWS ODELO +16.9 HIGH vs BRI ODELO +0.0 at Sydney Showground\n\nConsensus: BRI by 17\nOur read: STRONG confidence",
+    "email_section": "### 1. GWS vs BRI \u2014 GWS LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** GWS ODELO +16.9 HIGH vs BRI ODELO +0.0 at Sydney Showground",
+    "video_hook": "Round 11 has one game I can't stop thinking about. GWS vs BRI at Sydney Showground. GWS LIVE at home.",
+    "all_alerts_short": [
+      "GWS vs BRI: GWS LIVE at home (FORTRESS_UPSET, STRONG)"
+    ]
   }
 }
