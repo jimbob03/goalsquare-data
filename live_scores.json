@@ -1,16 +1,16 @@
 {
   "round": 11,
   "season": 2026,
-  "last_checked": "2026-05-23T14:01:24.334065",
+  "last_checked": "2026-05-24T05:56:52.678564",
   "summary": {
     "correct": 4,
-    "total_scored": 7,
+    "total_scored": 8,
     "total_games": 9,
-    "accuracy": 57.1,
-    "mae": 23.7,
-    "games_live": 0,
-    "games_completed": 7,
-    "games_upcoming": 2
+    "accuracy": 50.0,
+    "mae": 32.6,
+    "games_live": 1,
+    "games_completed": 8,
+    "games_upcoming": 0
   },
   "games": [
     {
@@ -181,13 +181,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.72,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 166,
+      "actual_away_score": 88,
+      "actual_winner": "Greater Western Sydney",
+      "actual_margin": 78,
+      "correct": false,
+      "margin_error": 95
     },
     {
       "game_id": 38592,
@@ -203,12 +203,12 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.62,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 19,
+      "actual_away_score": 9,
+      "actual_winner": "Western Bulldogs",
+      "actual_margin": 10,
+      "correct": false,
       "margin_error": null
     }
   ]
