@@ -1,6 +1,6 @@
 {
   "round": 12,
-  "generated_at": "2026-05-25T08:17:12.410354",
+  "generated_at": "2026-05-25T12:34:35.661773",
   "alert_count": 1,
   "alerts": [
     {
@@ -9,19 +9,19 @@
       "tier": "MODERATE",
       "game": "BRI vs FRE",
       "venue": "Gabba",
-      "our_tip": "FRE by 2",
+      "our_tip": "FRE by 3",
       "upset_call": "BRI LIVE at home",
       "reason": "BRI ODELO +5.1 HIGH vs FRE ODELO +0.0 at Gabba",
       "history": "11W-6L",
       "confidence_note": "BRI +7.2 HIGH at Gabba",
       "game_id": 38596,
-      "predicted_margin": 2,
+      "predicted_margin": 3,
       "predicted_winner": "Fremantle"
     }
   ],
   "content_pack": {
     "headline": "Round 12 Upset Watch: BRI vs FRE \u2014 BRI LIVE at home",
-    "tweet": "Round 12 Pattern Alert\n\nBRI vs FRE: BRI LIVE at home\n\nWhy: BRI ODELO +5.1 HIGH vs FRE ODELO +0.0 at Gabba\n\nConsensus: FRE by 2\nOur read: MODERATE confidence",
+    "tweet": "Round 12 Pattern Alert\n\nBRI vs FRE: BRI LIVE at home\n\nWhy: BRI ODELO +5.1 HIGH vs FRE ODELO +0.0 at Gabba\n\nConsensus: FRE by 3\nOur read: MODERATE confidence",
     "email_section": "### 1. BRI vs FRE \u2014 BRI LIVE at home\n**Pattern:** FORTRESS_UPSET (MODERATE)\n**Why:** BRI ODELO +5.1 HIGH vs FRE ODELO +0.0 at Gabba",
     "video_hook": "Round 12 has one game I can't stop thinking about. BRI vs FRE at Gabba. BRI LIVE at home.",
     "all_alerts_short": [
