@@ -1681,5 +1681,22 @@
     "correct": false,
     "margin_error": 10,
     "scored_at": "2026-05-24T14:52:35.393118"
+  },
+  {
+    "game_id": 38593,
+    "round": 12,
+    "season": 2026,
+    "home_team": "St Kilda",
+    "away_team": "Hawthorn",
+    "predicted_winner": "Hawthorn",
+    "predicted_margin": 4,
+    "predicted_tier": 3,
+    "actual_winner": "Hawthorn",
+    "actual_margin": 52,
+    "actual_home_score": 67,
+    "actual_away_score": 119,
+    "correct": true,
+    "margin_error": 48,
+    "scored_at": "2026-05-28T17:28:34.617275"
   }
 ]
