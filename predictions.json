@@ -246,8 +246,8 @@
   ],
   "season_record": {
     "tips_correct": 78,
-    "tips_total": 100,
-    "accuracy": 78.0,
-    "mae": 23.7
+    "tips_total": 101,
+    "accuracy": 77.2,
+    "mae": 23.8
   }
 }
