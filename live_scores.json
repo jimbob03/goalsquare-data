@@ -1,16 +1,16 @@
 {
   "round": 12,
   "season": 2026,
-  "last_checked": "2026-05-30T05:43:10.476405",
+  "last_checked": "2026-05-30T08:08:44.048967",
   "summary": {
-    "correct": 1,
-    "total_scored": 2,
+    "correct": 2,
+    "total_scored": 3,
     "total_games": 7,
-    "accuracy": 50.0,
-    "mae": 43.5,
+    "accuracy": 66.7,
+    "mae": 44.3,
     "games_live": 1,
-    "games_completed": 2,
-    "games_upcoming": 4
+    "games_completed": 3,
+    "games_upcoming": 3
   },
   "games": [
     {
@@ -71,13 +71,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 156,
+      "status": "completed",
+      "actual_home_score": 170,
       "actual_away_score": 56,
       "actual_winner": "Sydney",
-      "actual_margin": 100,
+      "actual_margin": 114,
       "correct": true,
-      "margin_error": null
+      "margin_error": 46
     },
     {
       "game_id": 38596,
@@ -93,12 +93,12 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.56,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 42,
+      "actual_away_score": 87,
+      "actual_winner": "Fremantle",
+      "actual_margin": -45,
+      "correct": true,
       "margin_error": null
     },
     {
