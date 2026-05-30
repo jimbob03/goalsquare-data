@@ -1,16 +1,16 @@
 {
   "round": 12,
   "season": 2026,
-  "last_checked": "2026-05-30T08:08:44.048967",
+  "last_checked": "2026-05-30T10:15:40.351954",
   "summary": {
-    "correct": 2,
-    "total_scored": 3,
+    "correct": 3,
+    "total_scored": 4,
     "total_games": 7,
-    "accuracy": 66.7,
-    "mae": 44.3,
+    "accuracy": 75.0,
+    "mae": 38.5,
     "games_live": 1,
-    "games_completed": 3,
-    "games_upcoming": 3
+    "games_completed": 4,
+    "games_upcoming": 2
   },
   "games": [
     {
@@ -93,13 +93,13 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.56,
-      "status": "live",
-      "actual_home_score": 42,
-      "actual_away_score": 87,
+      "status": "completed",
+      "actual_home_score": 78,
+      "actual_away_score": 103,
       "actual_winner": "Fremantle",
-      "actual_margin": -45,
+      "actual_margin": -25,
       "correct": true,
-      "margin_error": null
+      "margin_error": 21
     },
     {
       "game_id": 38597,
@@ -115,12 +115,12 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.56,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 34,
+      "actual_away_score": 21,
+      "actual_winner": "Western Bulldogs",
+      "actual_margin": 13,
+      "correct": true,
       "margin_error": null
     },
     {
