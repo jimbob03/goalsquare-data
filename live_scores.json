@@ -1,15 +1,15 @@
 {
   "round": 12,
   "season": 2026,
-  "last_checked": "2026-05-30T11:50:50.608701",
+  "last_checked": "2026-05-30T13:14:18.608509",
   "summary": {
-    "correct": 3,
-    "total_scored": 4,
+    "correct": 4,
+    "total_scored": 5,
     "total_games": 7,
-    "accuracy": 75.0,
-    "mae": 38.5,
-    "games_live": 1,
-    "games_completed": 4,
+    "accuracy": 80.0,
+    "mae": 30.8,
+    "games_live": 0,
+    "games_completed": 5,
     "games_upcoming": 2
   },
   "games": [
@@ -115,13 +115,13 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.56,
-      "status": "live",
-      "actual_home_score": 90,
-      "actual_away_score": 72,
+      "status": "completed",
+      "actual_home_score": 97,
+      "actual_away_score": 93,
       "actual_winner": "Western Bulldogs",
-      "actual_margin": 18,
+      "actual_margin": 4,
       "correct": true,
-      "margin_error": null
+      "margin_error": 0
     },
     {
       "game_id": 38598,
