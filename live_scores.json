@@ -1,16 +1,16 @@
 {
   "round": 12,
   "season": 2026,
-  "last_checked": "2026-05-31T06:12:22.913415",
+  "last_checked": "2026-05-31T09:23:42.650760",
   "summary": {
     "correct": 4,
-    "total_scored": 5,
+    "total_scored": 6,
     "total_games": 7,
-    "accuracy": 80.0,
-    "mae": 30.8,
+    "accuracy": 66.7,
+    "mae": 35.2,
     "games_live": 1,
-    "games_completed": 5,
-    "games_upcoming": 1
+    "games_completed": 6,
+    "games_upcoming": 0
   },
   "games": [
     {
@@ -137,13 +137,13 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.6,
-      "status": "live",
-      "actual_home_score": 30,
-      "actual_away_score": 50,
+      "status": "completed",
+      "actual_home_score": 70,
+      "actual_away_score": 119,
       "actual_winner": "Greater Western Sydney",
-      "actual_margin": -20,
+      "actual_margin": -49,
       "correct": false,
-      "margin_error": null
+      "margin_error": 57
     },
     {
       "game_id": 38599,
@@ -159,12 +159,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.76,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 7,
+      "actual_away_score": 0,
+      "actual_winner": "West Coast",
+      "actual_margin": 7,
+      "correct": true,
       "margin_error": null
     }
   ]
