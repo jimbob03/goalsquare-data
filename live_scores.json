@@ -1,15 +1,15 @@
 {
   "round": 12,
   "season": 2026,
-  "last_checked": "2026-05-31T11:13:52.172409",
+  "last_checked": "2026-05-31T12:47:37.039947",
   "summary": {
-    "correct": 4,
-    "total_scored": 6,
+    "correct": 5,
+    "total_scored": 7,
     "total_games": 7,
-    "accuracy": 66.7,
-    "mae": 35.2,
-    "games_live": 1,
-    "games_completed": 6,
+    "accuracy": 71.4,
+    "mae": 32.0,
+    "games_live": 0,
+    "games_completed": 7,
     "games_upcoming": 0
   },
   "games": [
@@ -159,13 +159,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.76,
-      "status": "live",
-      "actual_home_score": 69,
-      "actual_away_score": 23,
+      "status": "completed",
+      "actual_home_score": 85,
+      "actual_away_score": 55,
       "actual_winner": "West Coast",
-      "actual_margin": 46,
+      "actual_margin": 30,
       "correct": true,
-      "margin_error": null
+      "margin_error": 13
     }
   ]
 }
