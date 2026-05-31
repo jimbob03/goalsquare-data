@@ -1766,5 +1766,39 @@
     "correct": true,
     "margin_error": 0,
     "scored_at": "2026-05-30T14:56:07.209092"
+  },
+  {
+    "game_id": 38598,
+    "round": 12,
+    "season": 2026,
+    "home_team": "Melbourne",
+    "away_team": "Greater Western Sydney",
+    "predicted_winner": "Melbourne",
+    "predicted_margin": 8,
+    "predicted_tier": 3,
+    "actual_winner": "Greater Western Sydney",
+    "actual_margin": 49,
+    "actual_home_score": 70,
+    "actual_away_score": 119,
+    "correct": false,
+    "margin_error": 57,
+    "scored_at": "2026-05-31T15:06:25.935037"
+  },
+  {
+    "game_id": 38599,
+    "round": 12,
+    "season": 2026,
+    "home_team": "West Coast",
+    "away_team": "Essendon",
+    "predicted_winner": "West Coast",
+    "predicted_margin": 17,
+    "predicted_tier": 2,
+    "actual_winner": "West Coast",
+    "actual_margin": 30,
+    "actual_home_score": 85,
+    "actual_away_score": 55,
+    "correct": true,
+    "margin_error": 13,
+    "scored_at": "2026-05-31T15:06:25.935056"
   }
 ]
