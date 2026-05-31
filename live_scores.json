@@ -1,16 +1,16 @@
 {
   "round": 12,
   "season": 2026,
-  "last_checked": "2026-05-30T14:48:08.207085",
+  "last_checked": "2026-05-31T06:12:22.913415",
   "summary": {
     "correct": 4,
     "total_scored": 5,
     "total_games": 7,
     "accuracy": 80.0,
     "mae": 30.8,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 5,
-    "games_upcoming": 2
+    "games_upcoming": 1
   },
   "games": [
     {
@@ -137,12 +137,12 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.6,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 30,
+      "actual_away_score": 50,
+      "actual_winner": "Greater Western Sydney",
+      "actual_margin": -20,
+      "correct": false,
       "margin_error": null
     },
     {
