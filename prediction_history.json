@@ -1800,5 +1800,22 @@
     "correct": true,
     "margin_error": 13,
     "scored_at": "2026-05-31T15:06:25.935056"
+  },
+  {
+    "game_id": 38600,
+    "round": 13,
+    "season": 2026,
+    "home_team": "Adelaide",
+    "away_team": "Geelong",
+    "predicted_winner": "Geelong",
+    "predicted_margin": 15,
+    "predicted_tier": 2,
+    "actual_winner": "Adelaide",
+    "actual_margin": 1,
+    "actual_home_score": 75,
+    "actual_away_score": 74,
+    "correct": false,
+    "margin_error": 16,
+    "scored_at": "2026-06-04T16:37:59.318072"
   }
 ]
