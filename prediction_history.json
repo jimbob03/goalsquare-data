@@ -1817,5 +1817,22 @@
     "correct": false,
     "margin_error": 16,
     "scored_at": "2026-06-04T16:37:59.318072"
+  },
+  {
+    "game_id": 38601,
+    "round": 13,
+    "season": 2026,
+    "home_team": "Hawthorn",
+    "away_team": "Western Bulldogs",
+    "predicted_winner": "Hawthorn",
+    "predicted_margin": 20,
+    "predicted_tier": 2,
+    "actual_winner": "Western Bulldogs",
+    "actual_margin": 6,
+    "actual_home_score": 71,
+    "actual_away_score": 77,
+    "correct": false,
+    "margin_error": 26,
+    "scored_at": "2026-06-05T16:19:32.080877"
   }
 ]
