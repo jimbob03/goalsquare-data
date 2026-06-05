@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-04T11:57:37.818317",
-  "total_posts": 13,
+  "generated_at": "2026-06-05T12:10:30.406526",
+  "total_posts": 16,
   "posts": [
     {
       "type": "round_summary",
-      "content": "🏈 ROUND 13 PREDICTIONS\n\n📊 Season: 82/106 (77.4%)\n\n💪 ADE vs GEE — GEE by 15\n💪 HAW vs WBD — HAW by 20\n🔒 NTH vs FRE — FRE by 37\n💪 GCS vs BRI — GCS by 14\n🪙 WCE vs PTA — PTA by 3\n🔒 SYD vs STK — SYD by 38\n🔒 ESS vs CAR — CAR by 38\n🪙 COL vs MEL — MEL by 1\n\n💰 Value plays:\n  +EV: H2H HAW -- 10.7% edge\n  +EV: H2H FRE -- 18.3% edge\n  +EV: H2H GCS -- 10.4% edge\n  +EV: H2H SYD -- 15.7% edge\n  +EV: H2H CAR -- 13.2% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
+      "content": "🏈 ROUND 13 PREDICTIONS\n\n📊 Season: 82/107 (76.6%)\n\n💪 ADE vs GEE — GEE by 15\n💪 HAW vs WBD — HAW by 20\n🔒 NTH vs FRE — FRE by 37\n💪 GCS vs BRI — GCS by 15\n🪙 WCE vs PTA — PTA by 3\n🔒 SYD vs STK — SYD by 39\n🔒 ESS vs CAR — CAR by 39\n🪙 COL vs MEL — MEL by 1\n\n💰 Value plays:\n  +EV: H2H HAW -- 10.7% edge\n  +EV: H2H FRE -- 18.3% edge\n  +EV: H2H GCS -- 10.3% edge\n  +EV: H2H SYD -- 15.7% edge\n  +EV: H2H CAR -- 15.0% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
       "schedule": "wednesday_evening"
     },
     {
       "type": "ev_summary",
-      "content": "💰 ROUND 13 VALUE PLAYS\n\nWhere our model sees edge:\n\n📌 HAW vs WBD: +EV: H2H HAW -- 10.7% edge\n📌 NTH vs FRE: +EV: H2H FRE -- 18.3% edge\n📌 GCS vs BRI: +EV: H2H GCS -- 10.4% edge\n📌 SYD vs STK: +EV: H2H SYD -- 15.7% edge\n📌 ESS vs CAR: +EV: H2H CAR -- 13.2% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare",
+      "content": "💰 ROUND 13 VALUE PLAYS\n\nWhere our model sees edge:\n\n📌 HAW vs WBD: +EV: H2H HAW -- 10.7% edge\n📌 NTH vs FRE: +EV: H2H FRE -- 18.3% edge\n📌 GCS vs BRI: +EV: H2H GCS -- 10.3% edge\n📌 SYD vs STK: +EV: H2H SYD -- 15.7% edge\n📌 ESS vs CAR: +EV: H2H CAR -- 15.0% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare",
       "schedule": "thursday_morning"
     },
     {
@@ -33,7 +33,7 @@
     {
       "type": "game_preview",
       "game": "GCS vs BRI",
-      "content": "🏈 GCS vs BRI\n\n💪 Gold Coast by 14 | 72% win prob\n📍 Carrara | Sat 6 Jun 5:15pm AEST\n🏆 Tier 2 — Strong\n\n💰 +EV: H2H GCS -- 10.4% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #GoldCoast #BrisbaneLions",
+      "content": "🏈 GCS vs BRI\n\n💪 Gold Coast by 15 | 74% win prob\n📍 Carrara | Sat 6 Jun 5:15pm AEST\n🏆 Tier 2 — Strong\n\n💰 +EV: H2H GCS -- 10.3% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #GoldCoast #BrisbaneLions",
       "schedule": "before_Sat"
     },
     {
@@ -45,13 +45,13 @@
     {
       "type": "game_preview",
       "game": "SYD vs STK",
-      "content": "🏈 SYD vs STK\n\n🔒 Sydney by 38 | 97% win prob\n📍 S.C.G. | Sun 7 Jun 3:15pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H SYD -- 15.7% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Sydney #StKilda",
+      "content": "🏈 SYD vs STK\n\n🔒 Sydney by 39 | 97% win prob\n📍 S.C.G. | Sun 7 Jun 3:15pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H SYD -- 15.7% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Sydney #StKilda",
       "schedule": "before_Sun"
     },
     {
       "type": "game_preview",
       "game": "ESS vs CAR",
-      "content": "🏈 ESS vs CAR\n\n🔒 Carlton by 38 | 97% win prob\n📍 M.C.G. | Sun 7 Jun 7:20pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H CAR -- 13.2% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Essendon #Carlton",
+      "content": "🏈 ESS vs CAR\n\n🔒 Carlton by 39 | 97% win prob\n📍 M.C.G. | Sun 7 Jun 7:20pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H CAR -- 15.0% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Essendon #Carlton",
       "schedule": "before_Sun"
     },
     {
@@ -79,8 +79,35 @@
       "schedule": "day_before_fri"
     },
     {
+      "type": "blog_preview",
+      "game": "NTH vs FRE",
+      "game_day": "Sat",
+      "blog_slug": "north-melbourne-vs-fremantle-round-13-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r13-nth-vs-fre.png",
+      "content": "🔒 NTH vs FRE — OUR LOCK\n\nFRE by 37 at Hands Oval\n\nFull analysis → https://goalsquare.com.au/post/north-melbourne-vs-fremantle-round-13-2026\n\n#AFL #AFLTips #GoalSquare #NorthMelbourne #Fremantle",
+      "schedule": "day_before_sat"
+    },
+    {
+      "type": "blog_preview",
+      "game": "GCS vs BRI",
+      "game_day": "Sat",
+      "blog_slug": "gold-coast-vs-brisbane-round-13-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r13-gcs-vs-bri.png",
+      "content": "💪 GCS vs BRI — STRONG TIP\n\nGCS by 15 at Carrara\n\nFull analysis → https://goalsquare.com.au/post/gold-coast-vs-brisbane-round-13-2026\n\n#AFL #AFLTips #GoalSquare #GoldCoast #BrisbaneLions",
+      "schedule": "day_before_sat"
+    },
+    {
+      "type": "blog_preview",
+      "game": "WCE vs PTA",
+      "game_day": "Sat",
+      "blog_slug": "west-coast-vs-port-adelaide-round-13-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r13-wce-vs-pta.png",
+      "content": "🪙 WCE vs PTA — CLOSE ONE\n\nPTA by 3 at Perth Stadium\n\nFull analysis → https://goalsquare.com.au/post/west-coast-vs-port-adelaide-round-13-2026\n\n#AFL #AFLTips #GoalSquare #WestCoast #PortAdelaide",
+      "schedule": "day_before_sat"
+    },
+    {
       "type": "scorecard",
-      "content": "📊 ROUND 12 RESULTS\n\nWe went 5 from 7\n\n✅ STK vs HAW — tipped HAW by 4, got HAW by 52\n❌ CAR vs GEE — tipped GEE, CAR won by 4\n✅ SYD vs RIC — tipped SYD by 68, got SYD by 114\n✅ BRI vs FRE — tipped FRE by 4, got FRE by 25\n✅ WBD vs COL — tipped WBD by 4, got WBD by 4\n❌ MEL vs GWS — tipped MEL, GWS won by 49\n✅ WCE vs ESS — tipped WCE by 17, got WCE by 30\n\nSeason: 82/106 (77.4%)\nRound 12 avg margin error: 28.6pts\n\nRound 13 tips coming Thursday.\n\ngoalsquare.com.au\n#AFL #GoalSquare",
+      "content": "📊 ROUND 12 RESULTS\n\nWe went 5 from 7\n\n✅ STK vs HAW — tipped HAW by 4, got HAW by 52\n❌ CAR vs GEE — tipped GEE, CAR won by 4\n✅ SYD vs RIC — tipped SYD by 68, got SYD by 114\n✅ BRI vs FRE — tipped FRE by 4, got FRE by 25\n✅ WBD vs COL — tipped WBD by 4, got WBD by 4\n❌ MEL vs GWS — tipped MEL, GWS won by 49\n✅ WCE vs ESS — tipped WCE by 17, got WCE by 30\n\nSeason: 82/107 (76.6%)\nRound 12 avg margin error: 28.6pts\n\nRound 13 tips coming Thursday.\n\ngoalsquare.com.au\n#AFL #GoalSquare",
       "schedule": "after_last_game"
     }
   ]
