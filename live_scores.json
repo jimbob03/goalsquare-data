@@ -1,16 +1,16 @@
 {
   "round": 13,
   "season": 2026,
-  "last_checked": "2026-06-05T16:17:09.579487",
+  "last_checked": "2026-06-06T05:49:56.225606",
   "summary": {
     "correct": 0,
     "total_scored": 2,
     "total_games": 8,
     "accuracy": 0.0,
     "mae": 21.0,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 2,
-    "games_upcoming": 6
+    "games_upcoming": 5
   },
   "games": [
     {
@@ -71,12 +71,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 28,
+      "actual_away_score": 83,
+      "actual_winner": "Fremantle",
+      "actual_margin": -55,
+      "correct": true,
       "margin_error": null
     },
     {
