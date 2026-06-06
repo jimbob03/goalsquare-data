@@ -1,16 +1,16 @@
 {
   "round": 13,
   "season": 2026,
-  "last_checked": "2026-06-06T05:49:56.225606",
+  "last_checked": "2026-06-06T08:27:27.355038",
   "summary": {
-    "correct": 0,
-    "total_scored": 2,
+    "correct": 1,
+    "total_scored": 3,
     "total_games": 8,
-    "accuracy": 0.0,
-    "mae": 21.0,
+    "accuracy": 33.3,
+    "mae": 43.0,
     "games_live": 1,
-    "games_completed": 2,
-    "games_upcoming": 5
+    "games_completed": 3,
+    "games_upcoming": 4
   },
   "games": [
     {
@@ -71,13 +71,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 28,
-      "actual_away_score": 83,
+      "status": "completed",
+      "actual_home_score": 31,
+      "actual_away_score": 155,
       "actual_winner": "Fremantle",
-      "actual_margin": -55,
+      "actual_margin": -124,
       "correct": true,
-      "margin_error": null
+      "margin_error": 87
     },
     {
       "game_id": 38603,
@@ -93,12 +93,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.74,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 46,
+      "actual_away_score": 62,
+      "actual_winner": "Brisbane Lions",
+      "actual_margin": -16,
+      "correct": false,
       "margin_error": null
     },
     {
