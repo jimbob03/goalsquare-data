@@ -1,16 +1,16 @@
 {
   "round": 13,
   "season": 2026,
-  "last_checked": "2026-06-06T08:27:27.355038",
+  "last_checked": "2026-06-06T10:29:25.193751",
   "summary": {
     "correct": 1,
-    "total_scored": 3,
+    "total_scored": 4,
     "total_games": 8,
-    "accuracy": 33.3,
-    "mae": 43.0,
+    "accuracy": 25.0,
+    "mae": 43.8,
     "games_live": 1,
-    "games_completed": 3,
-    "games_upcoming": 4
+    "games_completed": 4,
+    "games_upcoming": 3
   },
   "games": [
     {
@@ -93,13 +93,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.74,
-      "status": "live",
-      "actual_home_score": 46,
-      "actual_away_score": 62,
+      "status": "completed",
+      "actual_home_score": 75,
+      "actual_away_score": 106,
       "actual_winner": "Brisbane Lions",
-      "actual_margin": -16,
+      "actual_margin": -31,
       "correct": false,
-      "margin_error": null
+      "margin_error": 46
     },
     {
       "game_id": 38604,
@@ -115,12 +115,12 @@
       "tier": 4,
       "tier_name": "Coin Flip",
       "win_probability": 0.53,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 12,
+      "actual_away_score": 9,
+      "actual_winner": "West Coast",
+      "actual_margin": 3,
+      "correct": false,
       "margin_error": null
     },
     {
