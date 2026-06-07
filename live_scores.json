@@ -1,16 +1,16 @@
 {
   "round": 13,
   "season": 2026,
-  "last_checked": "2026-06-06T14:56:10.082793",
+  "last_checked": "2026-06-07T06:18:07.649227",
   "summary": {
     "correct": 2,
     "total_scored": 5,
     "total_games": 8,
     "accuracy": 40.0,
     "mae": 35.6,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 5,
-    "games_upcoming": 3
+    "games_upcoming": 2
   },
   "games": [
     {
@@ -137,12 +137,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 38,
+      "actual_away_score": 70,
+      "actual_winner": "St Kilda",
+      "actual_margin": -32,
+      "correct": false,
       "margin_error": null
     },
     {
