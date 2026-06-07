@@ -1,7 +1,7 @@
 {
   "round": 13,
   "season": 2026,
-  "last_checked": "2026-06-07T09:44:20.796312",
+  "last_checked": "2026-06-07T11:27:19.224786",
   "summary": {
     "correct": 3,
     "total_scored": 6,
@@ -160,11 +160,11 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 9,
-      "actual_away_score": 7,
-      "actual_winner": "Essendon",
-      "actual_margin": 2,
-      "correct": false,
+      "actual_home_score": 46,
+      "actual_away_score": 54,
+      "actual_winner": "Carlton",
+      "actual_margin": -8,
+      "correct": true,
       "margin_error": null
     },
     {
