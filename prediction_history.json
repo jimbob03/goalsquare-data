@@ -1919,5 +1919,22 @@
     "correct": true,
     "margin_error": 34,
     "scored_at": "2026-06-07T15:14:36.525481"
+  },
+  {
+    "game_id": 38607,
+    "round": 13,
+    "season": 2026,
+    "home_team": "Collingwood",
+    "away_team": "Melbourne",
+    "predicted_winner": "Melbourne",
+    "predicted_margin": 1,
+    "predicted_tier": 4,
+    "actual_winner": "Melbourne",
+    "actual_margin": 8,
+    "actual_home_score": 75,
+    "actual_away_score": 83,
+    "correct": true,
+    "margin_error": 7,
+    "scored_at": "2026-06-08T16:58:43.685926"
   }
 ]
