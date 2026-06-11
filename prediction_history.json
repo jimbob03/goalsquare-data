@@ -1936,5 +1936,22 @@
     "correct": true,
     "margin_error": 7,
     "scored_at": "2026-06-08T16:58:43.685926"
+  },
+  {
+    "game_id": 38608,
+    "round": 14,
+    "season": 2026,
+    "home_team": "Western Bulldogs",
+    "away_team": "Adelaide",
+    "predicted_winner": "Adelaide",
+    "predicted_margin": 4,
+    "predicted_tier": 3,
+    "actual_winner": "Adelaide",
+    "actual_margin": 57,
+    "actual_home_score": 64,
+    "actual_away_score": 121,
+    "correct": true,
+    "margin_error": 53,
+    "scored_at": "2026-06-11T17:27:20.774260"
   }
 ]
