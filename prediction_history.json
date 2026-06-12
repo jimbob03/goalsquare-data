@@ -1953,5 +1953,22 @@
     "correct": true,
     "margin_error": 53,
     "scored_at": "2026-06-11T17:27:20.774260"
+  },
+  {
+    "game_id": 38609,
+    "round": 14,
+    "season": 2026,
+    "home_team": "Geelong",
+    "away_team": "Gold Coast",
+    "predicted_winner": "Geelong",
+    "predicted_margin": 36,
+    "predicted_tier": 1,
+    "actual_winner": "Geelong",
+    "actual_margin": 45,
+    "actual_home_score": 105,
+    "actual_away_score": 60,
+    "correct": true,
+    "margin_error": 9,
+    "scored_at": "2026-06-12T16:33:32.549394"
   }
 ]
