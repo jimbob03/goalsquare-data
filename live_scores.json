@@ -1,16 +1,16 @@
 {
   "round": 14,
   "season": 2026,
-  "last_checked": "2026-06-12T06:28:26.990512",
+  "last_checked": "2026-06-12T10:49:15.854614",
   "summary": {
     "correct": 1,
     "total_scored": 1,
     "total_games": 7,
     "accuracy": 100.0,
     "mae": 53.0,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 1,
-    "games_upcoming": 6
+    "games_upcoming": 5
   },
   "games": [
     {
@@ -49,12 +49,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 51,
+      "actual_away_score": 23,
+      "actual_winner": "Geelong",
+      "actual_margin": 28,
+      "correct": true,
       "margin_error": null
     },
     {
