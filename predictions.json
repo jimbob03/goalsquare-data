@@ -2,8 +2,8 @@
   "model_version": "5.2",
   "round": 14,
   "season": 2026,
-  "generated_at": "2026-06-12T12:21:39.068072",
-  "last_updated": "2026-06-12T12:21:39.068078",
+  "generated_at": "2026-06-13T11:16:44.699433",
+  "last_updated": "2026-06-13T11:16:44.699438",
   "data_sources": {
     "squiggle": true,
     "squiggle_weighted": true,
@@ -104,9 +104,9 @@
       "venue": "M.C.G.",
       "match_time": "Sat 13 Jun 1:15pm AEST",
       "ev_recommendation": "+EV: H2H MEL @ $1.21 -- 14.8% edge",
-      "key_factors": "Squiggle base: HOME by 29.2pts (1% agreement) | Rule 50 Tier 1: power gap 16.8 \u2192 +8pts toward home | Rule 49: form gap +22.8 \u2192 +9pts toward home | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away SURVIVAL \u2192 +1pts | Budget: +20 home / +1 away = net +19 (cap 12) \u2192 applied +12 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong | Rule 58 home xChain 81.7 >= 81.4 \u2192 tier upgraded to Lock PATTERN MATCH: score -21 (Strong Flagged) \u2014 9 supportive, 0 contrarian, 22 cautionary matches from 31 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
-      "summary": "Melbourne predicted to win by 41 points. Squiggle consensus 29pts, power rank gap 17pts.",
-      "tldr": "Home by 41pts. Squiggle base 29. Power gap 17pts.",
+      "key_factors": "Squiggle base: HOME by 29.5pts (1% agreement) | Rule 50 Tier 1: power gap 16.8 \u2192 +8pts toward home | Rule 49: form gap +24.8 \u2192 +10pts toward home | Rule 53 BLEEDING: away -4.5pts (toward home) | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away SURVIVAL \u2192 +1pts | Budget: +25 home / +1 away = net +24 (cap 12) \u2192 applied +12 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong | Rule 58 home xChain 82.5 >= 81.4 \u2192 tier upgraded to Lock",
+      "summary": "Melbourne predicted to win by 42 points. Squiggle consensus 30pts, power rank gap 17pts.",
+      "tldr": "Home by 42pts. Squiggle base 30. Power gap 17pts.",
       "injury_impact": "",
       "scenarios": [],
       "pattern_observations": [],
@@ -116,8 +116,9 @@
       "recent_margins_home": [],
       "recent_margins_away": [],
       "blowout_risk": false,
-      "locked": false,
-      "bookie_total": 157.5
+      "locked": true,
+      "bookie_total": 157.5,
+      "locked_at": "2026-06-13T03:15:00+00:00"
     },
     {
       "game_id": 38611,
@@ -135,9 +136,9 @@
       "venue": "Perth Stadium",
       "match_time": "Sat 13 Jun 4:15pm AEST",
       "ev_recommendation": "+EV: H2H WCE @ $2.96 -- 34.2% edge | +EV: LINE WCE +11.5 @ $1.95 -- 23.5pt edge (~80% cover)",
-      "key_factors": "Squiggle base: HOME by 8.8pts (1% agreement) | Rule 50 Tier 3: power gap 6.7 \u2192 +3pts toward home | Rule 49: form gap -56.2 \u2192 +15pts toward away | Rule 53 BLEEDING: home -10.0pts | ODELO away +9.4 (HIGH) \u2192 +3pts toward away | Budget: +3 home / +28 away = net -25 (cap 22) \u2192 applied -22 | Rule 42 dampener applied (loser stdev 46.2): \u00d70.90 PATTERN MATCH: score -47 (Strong Flagged) \u2014 0 supportive, 1 contrarian, 31 cautionary matches from 32 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
-      "summary": "West Coast predicted to win by 12 points. Squiggle consensus 9pts, power rank gap 7pts.",
-      "tldr": "Away by 12pts. Squiggle base 9. Power gap 7pts.",
+      "key_factors": "Squiggle base: HOME by 10.0pts (1% agreement) | Rule 50 Tier 3: power gap 6.7 \u2192 +3pts toward home | Rule 49: form gap -49.5 \u2192 +15pts toward away | ODELO away +9.8 (HIGH) \u2192 +3pts toward away | Budget: +3 home / +18 away = net -15 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 50.3): \u00d70.90",
+      "summary": "West Coast predicted to win by 2 points. Squiggle consensus 10pts, power rank gap 7pts.",
+      "tldr": "Away by 2pts. Squiggle base 10. Power gap 7pts.",
       "injury_impact": "",
       "scenarios": [],
       "pattern_observations": [],
@@ -147,8 +148,9 @@
       "recent_margins_home": [],
       "recent_margins_away": [],
       "blowout_risk": false,
-      "locked": false,
-      "bookie_total": 174.5
+      "locked": true,
+      "bookie_total": 174.5,
+      "locked_at": "2026-06-13T06:15:00+00:00"
     },
     {
       "game_id": 38612,
@@ -166,7 +168,7 @@
       "venue": "Adelaide Oval",
       "match_time": "Sat 13 Jun 7:35pm AEST",
       "ev_recommendation": "+EV: H2H SYD @ $1.49 -- 27.5% edge",
-      "key_factors": "Squiggle base: AWAY by 18.3pts (1% agreement) | Rule 50 Tier 1: power gap 16.8 \u2192 +8pts toward away | Rule 49: form gap -37.5 \u2192 +15pts toward away | ODELO home +5.9 (HIGH) \u2192 +3pts toward home | Schedule home INFLATED \u2192 -2pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +3 home / +28 away = net -25 (cap 12) \u2192 applied -12 PATTERN MATCH: score -102 (Strong Flagged) \u2014 4 supportive, 0 contrarian, 70 cautionary matches from 74 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
+      "key_factors": "Squiggle base: AWAY by 18.2pts (1% agreement) | Rule 50 Tier 1: power gap 16.8 \u2192 +8pts toward away | Rule 49: form gap -37.5 \u2192 +15pts toward away | ODELO home +5.9 (HIGH) \u2192 +3pts toward home | Schedule home INFLATED \u2192 -2pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +3 home / +28 away = net -25 (cap 12) \u2192 applied -12",
       "summary": "Sydney predicted to win by 30 points. Squiggle consensus 18pts, power rank gap 17pts.",
       "tldr": "Away by 30pts. Squiggle base 18. Power gap 17pts.",
       "injury_impact": "",
@@ -178,8 +180,9 @@
       "recent_margins_home": [],
       "recent_margins_away": [],
       "blowout_risk": false,
-      "locked": false,
-      "bookie_total": 160.5
+      "locked": true,
+      "bookie_total": 160.5,
+      "locked_at": "2026-06-13T09:35:00+00:00"
     },
     {
       "game_id": 38613,
@@ -189,7 +192,7 @@
       "away_code": "BRI",
       "predicted_winner": "Brisbane Lions",
       "predicted_margin": 51,
-      "home_score": 71,
+      "home_score": 72,
       "away_score": 122,
       "win_probability": 0.97,
       "tier": 1,
@@ -197,9 +200,9 @@
       "venue": "Bellerive Oval",
       "match_time": "Sun 14 Jun 1:10pm AEST",
       "ev_recommendation": "",
-      "key_factors": "Squiggle base: AWAY by 44.3pts (1% agreement) | Rule 50 Tier 1: power gap 27.8 \u2192 +8pts toward away | Rule 53 BLEEDING: home -5.0pts | Schedule home INFLATED \u2192 -2pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +0 home / +18 away = net -18 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 47.1): \u00d70.90 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong PATTERN MATCH: score -86 (Strong Flagged) \u2014 8 supportive, 0 contrarian, 62 cautionary matches from 70 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
-      "summary": "Brisbane Lions predicted to win by 51 points. Squiggle consensus 44pts, power rank gap 28pts.",
-      "tldr": "Away by 51pts. Squiggle base 44. Power gap 28pts.",
+      "key_factors": "Squiggle base: AWAY by 44.6pts (1% agreement) | Rule 50 Tier 1: power gap 27.8 \u2192 +8pts toward away | Rule 53 BLEEDING: home -5.0pts | Schedule home INFLATED \u2192 -2pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +0 home / +18 away = net -18 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 47.1): \u00d70.90 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong PATTERN MATCH: score -92 (Strong Flagged) \u2014 6 supportive, 0 contrarian, 63 cautionary matches from 69 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
+      "summary": "Brisbane Lions predicted to win by 51 points. Squiggle consensus 45pts, power rank gap 28pts.",
+      "tldr": "Away by 51pts. Squiggle base 45. Power gap 28pts.",
       "injury_impact": "",
       "scenarios": [],
       "pattern_observations": [],
@@ -210,7 +213,7 @@
       "recent_margins_away": [],
       "blowout_risk": false,
       "locked": false,
-      "bookie_total": 182.5
+      "bookie_total": 184.5
     },
     {
       "game_id": 38614,
@@ -227,8 +230,8 @@
       "tier_name": "Lean",
       "venue": "Docklands",
       "match_time": "Sun 14 Jun 3:15pm AEST",
-      "ev_recommendation": "+EV: H2H GWS @ $2.10 -- 16.1% edge | +EV: LINE GWS +3.5 @ $1.90 -- 13.5pt edge (~70% cover)",
-      "key_factors": "Squiggle base: HOME by 0.9pts (1% agreement) | Rule 49: form gap -43.0 \u2192 +15pts toward away | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +0 home / +18 away = net -18 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 30.2): \u00d70.90 | Rule 58 home xChain 82.1 >= 81.4 \u2192 tier upgraded to Lock | Rule 63 AWAY METRICS DAMPENER (3 signals) \u2192 Tier 3 PATTERN MATCH: score -93 (Strong Flagged) \u2014 0 supportive, 1 contrarian, 59 cautionary matches from 60 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
+      "ev_recommendation": "+EV: H2H GWS @ $2.10 -- 16.2% edge | +EV: LINE GWS +3.5 @ $1.90 -- 13.5pt edge (~70% cover)",
+      "key_factors": "Squiggle base: HOME by 0.9pts (1% agreement) | Rule 49: form gap -43.0 \u2192 +15pts toward away | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +0 home / +18 away = net -18 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 30.2): \u00d70.90 | Rule 58 home xChain 82.1 >= 81.4 \u2192 tier upgraded to Lock | Rule 63 AWAY METRICS DAMPENER (3 signals) \u2192 Tier 3 PATTERN MATCH: score -92 (Strong Flagged) \u2014 0 supportive, 0 contrarian, 60 cautionary matches from 60 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
       "summary": "Greater Western Sydney predicted to win by 10 points. Squiggle consensus 1pts, power rank gap 4pts.",
       "tldr": "Away by 10pts. Squiggle base 1. Power gap 4pts.",
       "injury_impact": "",
