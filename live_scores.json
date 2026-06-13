@@ -1,16 +1,16 @@
 {
   "round": 14,
   "season": 2026,
-  "last_checked": "2026-06-13T09:33:14.387475",
+  "last_checked": "2026-06-13T11:31:03.283943",
   "summary": {
     "correct": 3,
     "total_scored": 4,
     "total_games": 7,
     "accuracy": 75.0,
     "mae": 19.8,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 4,
-    "games_upcoming": 3
+    "games_upcoming": 2
   },
   "games": [
     {
@@ -115,12 +115,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.95,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 70,
+      "actual_away_score": 62,
+      "actual_winner": "Port Adelaide",
+      "actual_margin": 8,
+      "correct": false,
       "margin_error": null
     },
     {
@@ -132,7 +132,7 @@
       "venue": "Bellerive Oval",
       "predicted_winner": "Brisbane Lions",
       "predicted_margin": 51,
-      "predicted_home_score": 71,
+      "predicted_home_score": 72,
       "predicted_away_score": 122,
       "tier": 1,
       "tier_name": "Lock",
