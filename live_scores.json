@@ -1,16 +1,16 @@
 {
   "round": 14,
   "season": 2026,
-  "last_checked": "2026-06-12T13:59:30.692785",
+  "last_checked": "2026-06-13T06:11:15.885106",
   "summary": {
-    "correct": 2,
-    "total_scored": 2,
+    "correct": 3,
+    "total_scored": 3,
     "total_games": 7,
     "accuracy": 100.0,
-    "mae": 31.0,
+    "mae": 22.0,
     "games_live": 0,
-    "games_completed": 2,
-    "games_upcoming": 5
+    "games_completed": 3,
+    "games_upcoming": 4
   },
   "games": [
     {
@@ -71,13 +71,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 95,
+      "actual_away_score": 50,
+      "actual_winner": "Melbourne",
+      "actual_margin": 45,
+      "correct": true,
+      "margin_error": 4
     },
     {
       "game_id": 38611,
