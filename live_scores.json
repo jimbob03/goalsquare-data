@@ -1,16 +1,16 @@
 {
   "round": 14,
   "season": 2026,
-  "last_checked": "2026-06-13T06:11:15.885106",
+  "last_checked": "2026-06-13T09:33:14.387475",
   "summary": {
     "correct": 3,
-    "total_scored": 3,
+    "total_scored": 4,
     "total_games": 7,
-    "accuracy": 100.0,
-    "mae": 22.0,
+    "accuracy": 75.0,
+    "mae": 19.8,
     "games_live": 0,
-    "games_completed": 3,
-    "games_upcoming": 4
+    "games_completed": 4,
+    "games_upcoming": 3
   },
   "games": [
     {
@@ -93,13 +93,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.68,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 74,
+      "actual_away_score": 73,
+      "actual_winner": "North Melbourne",
+      "actual_margin": 1,
+      "correct": false,
+      "margin_error": 13
     },
     {
       "game_id": 38612,
