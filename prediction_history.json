@@ -2021,5 +2021,39 @@
     "correct": true,
     "margin_error": 27,
     "scored_at": "2026-06-13T15:22:19.213309"
+  },
+  {
+    "game_id": 38613,
+    "round": 14,
+    "season": 2026,
+    "home_team": "Richmond",
+    "away_team": "Brisbane Lions",
+    "predicted_winner": "Brisbane Lions",
+    "predicted_margin": 51,
+    "predicted_tier": 1,
+    "actual_winner": "Brisbane Lions",
+    "actual_margin": 35,
+    "actual_home_score": 80,
+    "actual_away_score": 115,
+    "correct": true,
+    "margin_error": 16,
+    "scored_at": "2026-06-14T15:29:02.590710"
+  },
+  {
+    "game_id": 38614,
+    "round": 14,
+    "season": 2026,
+    "home_team": "St Kilda",
+    "away_team": "Greater Western Sydney",
+    "predicted_winner": "Greater Western Sydney",
+    "predicted_margin": 10,
+    "predicted_tier": 3,
+    "actual_winner": "St Kilda",
+    "actual_margin": 8,
+    "actual_home_score": 96,
+    "actual_away_score": 88,
+    "correct": false,
+    "margin_error": 18,
+    "scored_at": "2026-06-14T15:29:02.590723"
   }
 ]
