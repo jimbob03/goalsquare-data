@@ -1,6 +1,6 @@
 {
   "round": 15,
-  "generated_at": "2026-06-17T12:53:21.739059",
+  "generated_at": "2026-06-18T09:05:56.460634",
   "alert_count": 1,
   "alerts": [
     {
@@ -9,19 +9,19 @@
       "tier": "STRONG",
       "game": "GCS vs HAW",
       "venue": "Carrara",
-      "our_tip": "HAW by 17",
+      "our_tip": "HAW by 18",
       "upset_call": "GCS LIVE at home",
       "reason": "GCS ODELO +15.7 HIGH vs HAW ODELO +0.0 at Carrara",
       "history": "11W-3L",
       "confidence_note": "Fortress +15.7 ODELO historically wins at high rate",
       "game_id": 38616,
-      "predicted_margin": 17,
+      "predicted_margin": 18,
       "predicted_winner": "Hawthorn"
     }
   ],
   "content_pack": {
     "headline": "Round 15 Upset Watch: GCS vs HAW \u2014 GCS LIVE at home",
-    "tweet": "Round 15 Pattern Alert\n\nGCS vs HAW: GCS LIVE at home\n\nWhy: GCS ODELO +15.7 HIGH vs HAW ODELO +0.0 at Carrara\n\nConsensus: HAW by 17\nOur read: STRONG confidence",
+    "tweet": "Round 15 Pattern Alert\n\nGCS vs HAW: GCS LIVE at home\n\nWhy: GCS ODELO +15.7 HIGH vs HAW ODELO +0.0 at Carrara\n\nConsensus: HAW by 18\nOur read: STRONG confidence",
     "email_section": "### 1. GCS vs HAW \u2014 GCS LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** GCS ODELO +15.7 HIGH vs HAW ODELO +0.0 at Carrara",
     "video_hook": "Round 15 has one game I can't stop thinking about. GCS vs HAW at Carrara. GCS LIVE at home.",
     "all_alerts_short": [
