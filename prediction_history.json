@@ -2072,5 +2072,22 @@
     "correct": true,
     "margin_error": 13,
     "scored_at": "2026-06-18T16:47:14.281147"
+  },
+  {
+    "game_id": 38616,
+    "round": 15,
+    "season": 2026,
+    "home_team": "Gold Coast",
+    "away_team": "Hawthorn",
+    "predicted_winner": "Hawthorn",
+    "predicted_margin": 18,
+    "predicted_tier": 3,
+    "actual_winner": "Hawthorn",
+    "actual_margin": 16,
+    "actual_home_score": 97,
+    "actual_away_score": 113,
+    "correct": true,
+    "margin_error": 2,
+    "scored_at": "2026-06-19T16:23:01.709416"
   }
 ]
