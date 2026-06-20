@@ -1,15 +1,15 @@
 {
   "round": 15,
   "season": 2026,
-  "last_checked": "2026-06-20T11:34:22.143600",
+  "last_checked": "2026-06-20T13:11:22.580979",
   "summary": {
-    "correct": 3,
-    "total_scored": 4,
+    "correct": 4,
+    "total_scored": 5,
     "total_games": 7,
-    "accuracy": 75.0,
-    "mae": 18.0,
-    "games_live": 1,
-    "games_completed": 4,
+    "accuracy": 80.0,
+    "mae": 15.4,
+    "games_live": 0,
+    "games_completed": 5,
     "games_upcoming": 2
   },
   "games": [
@@ -115,13 +115,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.83,
-      "status": "live",
-      "actual_home_score": 68,
-      "actual_away_score": 45,
+      "status": "completed",
+      "actual_home_score": 78,
+      "actual_away_score": 51,
       "actual_winner": "Collingwood",
-      "actual_margin": 23,
+      "actual_margin": 27,
       "correct": true,
-      "margin_error": null
+      "margin_error": 5
     },
     {
       "game_id": 38620,
