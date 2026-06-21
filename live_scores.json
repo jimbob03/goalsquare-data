@@ -1,16 +1,16 @@
 {
   "round": 15,
   "season": 2026,
-  "last_checked": "2026-06-20T15:13:51.896390",
+  "last_checked": "2026-06-21T06:45:46.131995",
   "summary": {
-    "correct": 4,
-    "total_scored": 5,
+    "correct": 5,
+    "total_scored": 6,
     "total_games": 7,
-    "accuracy": 80.0,
-    "mae": 15.4,
-    "games_live": 0,
-    "games_completed": 5,
-    "games_upcoming": 2
+    "accuracy": 83.3,
+    "mae": 13.2,
+    "games_live": 1,
+    "games_completed": 6,
+    "games_upcoming": 0
   },
   "games": [
     {
@@ -137,13 +137,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.91,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 48,
+      "actual_away_score": 73,
+      "actual_winner": "North Melbourne",
+      "actual_margin": -25,
+      "correct": true,
+      "margin_error": 2
     },
     {
       "game_id": 38621,
@@ -159,12 +159,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.65,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 31,
+      "actual_away_score": 47,
+      "actual_winner": "Western Bulldogs",
+      "actual_margin": -16,
+      "correct": false,
       "margin_error": null
     }
   ]
