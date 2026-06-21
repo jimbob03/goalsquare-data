@@ -2140,5 +2140,39 @@
     "correct": true,
     "margin_error": 5,
     "scored_at": "2026-06-20T15:25:21.853803"
+  },
+  {
+    "game_id": 38620,
+    "round": 15,
+    "season": 2026,
+    "home_team": "Richmond",
+    "away_team": "North Melbourne",
+    "predicted_winner": "North Melbourne",
+    "predicted_margin": 27,
+    "predicted_tier": 1,
+    "actual_winner": "North Melbourne",
+    "actual_margin": 25,
+    "actual_home_score": 48,
+    "actual_away_score": 73,
+    "correct": true,
+    "margin_error": 2,
+    "scored_at": "2026-06-21T15:30:29.029819"
+  },
+  {
+    "game_id": 38621,
+    "round": 15,
+    "season": 2026,
+    "home_team": "St Kilda",
+    "away_team": "Western Bulldogs",
+    "predicted_winner": "St Kilda",
+    "predicted_margin": 10,
+    "predicted_tier": 2,
+    "actual_winner": "Western Bulldogs",
+    "actual_margin": 22,
+    "actual_home_score": 61,
+    "actual_away_score": 83,
+    "correct": false,
+    "margin_error": 32,
+    "scored_at": "2026-06-21T15:30:29.029834"
   }
 ]
