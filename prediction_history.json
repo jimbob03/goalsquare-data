@@ -2174,5 +2174,22 @@
     "correct": false,
     "margin_error": 32,
     "scored_at": "2026-06-21T15:30:29.029834"
+  },
+  {
+    "game_id": 38622,
+    "round": 16,
+    "season": 2026,
+    "home_team": "Brisbane Lions",
+    "away_team": "Sydney",
+    "predicted_winner": "Sydney",
+    "predicted_margin": 9,
+    "predicted_tier": 3,
+    "actual_winner": "Brisbane Lions",
+    "actual_margin": 43,
+    "actual_home_score": 126,
+    "actual_away_score": 83,
+    "correct": false,
+    "margin_error": 52,
+    "scored_at": "2026-06-25T16:10:32.674880"
   }
 ]
