@@ -1,16 +1,16 @@
 {
   "round": 16,
   "season": 2026,
-  "last_checked": "2026-06-25T06:00:38.974267",
+  "last_checked": "2026-06-25T09:42:36.671625",
   "summary": {
     "correct": 0,
     "total_scored": 0,
     "total_games": 7,
     "accuracy": 0,
     "mae": 0,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 0,
-    "games_upcoming": 7
+    "games_upcoming": 6
   },
   "games": [
     {
@@ -27,12 +27,12 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.64,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 0,
+      "actual_away_score": 1,
+      "actual_winner": "Sydney",
+      "actual_margin": -1,
+      "correct": true,
       "margin_error": null
     },
     {
