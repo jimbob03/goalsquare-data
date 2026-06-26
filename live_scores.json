@@ -1,15 +1,15 @@
 {
   "round": 16,
   "season": 2026,
-  "last_checked": "2026-06-26T12:07:12.729312",
+  "last_checked": "2026-06-26T14:45:20.170710",
   "summary": {
-    "correct": 0,
-    "total_scored": 1,
+    "correct": 1,
+    "total_scored": 2,
     "total_games": 7,
-    "accuracy": 0.0,
-    "mae": 52.0,
-    "games_live": 1,
-    "games_completed": 1,
+    "accuracy": 50.0,
+    "mae": 31.0,
+    "games_live": 0,
+    "games_completed": 2,
     "games_upcoming": 5
   },
   "games": [
@@ -49,13 +49,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.84,
-      "status": "live",
-      "actual_home_score": 95,
-      "actual_away_score": 68,
+      "status": "completed",
+      "actual_home_score": 96,
+      "actual_away_score": 82,
       "actual_winner": "Hawthorn",
-      "actual_margin": 27,
+      "actual_margin": 14,
       "correct": true,
-      "margin_error": null
+      "margin_error": 10
     },
     {
       "game_id": 38623,
