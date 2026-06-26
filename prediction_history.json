@@ -2191,5 +2191,22 @@
     "correct": false,
     "margin_error": 52,
     "scored_at": "2026-06-25T16:10:32.674880"
+  },
+  {
+    "game_id": 38625,
+    "round": 16,
+    "season": 2026,
+    "home_team": "Hawthorn",
+    "away_team": "Greater Western Sydney",
+    "predicted_winner": "Hawthorn",
+    "predicted_margin": 24,
+    "predicted_tier": 2,
+    "actual_winner": "Hawthorn",
+    "actual_margin": 14,
+    "actual_home_score": 96,
+    "actual_away_score": 82,
+    "correct": true,
+    "margin_error": 10,
+    "scored_at": "2026-06-26T16:01:32.983012"
   }
 ]
