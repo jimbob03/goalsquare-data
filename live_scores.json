@@ -1,16 +1,16 @@
 {
   "round": 16,
   "season": 2026,
-  "last_checked": "2026-06-27T08:29:09.517720",
+  "last_checked": "2026-06-27T10:33:14.555890",
   "summary": {
-    "correct": 2,
-    "total_scored": 3,
+    "correct": 3,
+    "total_scored": 4,
     "total_games": 7,
-    "accuracy": 66.7,
-    "mae": 23.0,
+    "accuracy": 75.0,
+    "mae": 20.2,
     "games_live": 1,
-    "games_completed": 3,
-    "games_upcoming": 3
+    "games_completed": 4,
+    "games_upcoming": 2
   },
   "games": [
     {
@@ -93,13 +93,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 90,
-      "actual_away_score": 54,
+      "status": "completed",
+      "actual_home_score": 106,
+      "actual_away_score": 72,
       "actual_winner": "Collingwood",
-      "actual_margin": 36,
+      "actual_margin": 34,
       "correct": true,
-      "margin_error": null
+      "margin_error": 12
     },
     {
       "game_id": 38627,
@@ -115,12 +115,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 41,
+      "actual_away_score": 38,
+      "actual_winner": "Port Adelaide",
+      "actual_margin": 3,
+      "correct": false,
       "margin_error": null
     },
     {
