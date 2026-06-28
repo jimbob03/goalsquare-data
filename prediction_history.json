@@ -2259,5 +2259,39 @@
     "correct": false,
     "margin_error": 57,
     "scored_at": "2026-06-27T15:05:12.086959"
+  },
+  {
+    "game_id": 38626,
+    "round": 16,
+    "season": 2026,
+    "home_team": "North Melbourne",
+    "away_team": "Essendon",
+    "predicted_winner": "North Melbourne",
+    "predicted_margin": 24,
+    "predicted_tier": 2,
+    "actual_winner": "North Melbourne",
+    "actual_margin": 14,
+    "actual_home_score": 79,
+    "actual_away_score": 65,
+    "correct": true,
+    "margin_error": 10,
+    "scored_at": "2026-06-28T15:06:47.963944"
+  },
+  {
+    "game_id": 38628,
+    "round": 16,
+    "season": 2026,
+    "home_team": "Fremantle",
+    "away_team": "Gold Coast",
+    "predicted_winner": "Fremantle",
+    "predicted_margin": 40,
+    "predicted_tier": 1,
+    "actual_winner": "Fremantle",
+    "actual_margin": 51,
+    "actual_home_score": 80,
+    "actual_away_score": 29,
+    "correct": true,
+    "margin_error": 11,
+    "scored_at": "2026-06-28T15:06:47.963958"
   }
 ]
