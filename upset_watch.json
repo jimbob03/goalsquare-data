@@ -1,6 +1,6 @@
 {
   "round": 17,
-  "generated_at": "2026-07-01T12:10:35.906079",
+  "generated_at": "2026-07-02T11:37:08.282195",
   "alert_count": 1,
   "alerts": [
     {
@@ -9,19 +9,19 @@
       "tier": "STRONG",
       "game": "GCS vs COL",
       "venue": "Carrara",
-      "our_tip": "COL by 7",
+      "our_tip": "COL by 8",
       "upset_call": "GCS LIVE at home",
       "reason": "GCS ODELO +15.0 HIGH vs COL ODELO -20.3 at Carrara",
       "history": "11W-4L",
       "confidence_note": "Fortress +15.0 ODELO historically wins at high rate",
       "game_id": 38631,
-      "predicted_margin": 7,
+      "predicted_margin": 8,
       "predicted_winner": "Collingwood"
     }
   ],
   "content_pack": {
     "headline": "Round 17 Upset Watch: GCS vs COL \u2014 GCS LIVE at home",
-    "tweet": "Round 17 Pattern Alert\n\nGCS vs COL: GCS LIVE at home\n\nWhy: GCS ODELO +15.0 HIGH vs COL ODELO -20.3 at Carrara\n\nConsensus: COL by 7\nOur read: STRONG confidence",
+    "tweet": "Round 17 Pattern Alert\n\nGCS vs COL: GCS LIVE at home\n\nWhy: GCS ODELO +15.0 HIGH vs COL ODELO -20.3 at Carrara\n\nConsensus: COL by 8\nOur read: STRONG confidence",
     "email_section": "### 1. GCS vs COL \u2014 GCS LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** GCS ODELO +15.0 HIGH vs COL ODELO -20.3 at Carrara",
     "video_hook": "Round 17 has one game I can't stop thinking about. GCS vs COL at Carrara. GCS LIVE at home.",
     "all_alerts_short": [
