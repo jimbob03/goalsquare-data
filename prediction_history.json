@@ -2293,5 +2293,22 @@
     "correct": true,
     "margin_error": 11,
     "scored_at": "2026-06-28T15:06:47.963958"
+  },
+  {
+    "game_id": 38630,
+    "round": 17,
+    "season": 2026,
+    "home_team": "Geelong",
+    "away_team": "Brisbane Lions",
+    "predicted_winner": "Geelong",
+    "predicted_margin": 8,
+    "predicted_tier": 3,
+    "actual_winner": "Brisbane Lions",
+    "actual_margin": 22,
+    "actual_home_score": 101,
+    "actual_away_score": 123,
+    "correct": false,
+    "margin_error": 30,
+    "scored_at": "2026-07-02T15:56:09.297835"
   }
 ]
