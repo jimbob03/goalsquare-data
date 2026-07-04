@@ -2,8 +2,8 @@
   "model_version": "5.2",
   "round": 17,
   "season": 2026,
-  "generated_at": "2026-07-03T11:35:17.232181",
-  "last_updated": "2026-07-03T11:35:17.232186",
+  "generated_at": "2026-07-04T10:55:39.517413",
+  "last_updated": "2026-07-04T10:55:39.517418",
   "data_sources": {
     "squiggle": true,
     "squiggle_weighted": true,
@@ -136,9 +136,9 @@
       "venue": "York Park",
       "match_time": "Sat 4 Jul 1:15pm AEST",
       "ev_recommendation": "+EV: H2H HAW @ $1.58 -- 24.6% edge | +EV: LINE HAW -11.5 @ $1.91 -- 14.5pt edge (~70% cover)",
-      "key_factors": "Squiggle base: HOME by 15.5pts (1% agreement) | Rule 50 Tier 2: power gap 8.2 \u2192 +5pts toward home | Rule 49: form gap +22.2 \u2192 +9pts toward home | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +17 home / +3 away = net +14 (cap 12) \u2192 applied +12 | Rule 42 dampener applied (loser stdev 30.8): \u00d70.90 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong | Rule 58 home xChain 87.5 >= 81.4 \u2192 tier upgraded to Lock PATTERN MATCH: score -47 (Strong Flagged) \u2014 9 supportive, 0 contrarian, 34 cautionary matches from 43 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
-      "summary": "Hawthorn predicted to win by 25 points. Squiggle consensus 16pts, power rank gap 8pts.",
-      "tldr": "Home by 25pts. Squiggle base 16. Power gap 8pts.",
+      "key_factors": "Squiggle base: HOME by 15.4pts (1% agreement) | Rule 50 Tier 2: power gap 8.2 \u2192 +5pts toward home | Rule 49: form gap -20.5 \u2192 +8pts toward away | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +8 home / +11 away = net -3 (cap 12) \u2192 applied -3 | Rule 42 dampener applied (loser stdev 34.4): \u00d70.90 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Lean | Rule 58 home xChain 86.7 >= 81.4 \u2192 tier upgraded to Strong",
+      "summary": "Hawthorn predicted to win by 11 points. Squiggle consensus 15pts, power rank gap 8pts.",
+      "tldr": "Home by 11pts. Squiggle base 15. Power gap 8pts.",
       "injury_impact": "",
       "scenarios": [],
       "pattern_observations": [],
@@ -148,8 +148,9 @@
       "recent_margins_home": [],
       "recent_margins_away": [],
       "blowout_risk": false,
-      "locked": false,
-      "bookie_total": 165.5
+      "locked": true,
+      "bookie_total": 165.5,
+      "locked_at": "2026-07-04T03:15:00+00:00"
     },
     {
       "game_id": 38632,
@@ -167,9 +168,9 @@
       "venue": "Manuka Oval",
       "match_time": "Sat 4 Jul 1:35pm AEST",
       "ev_recommendation": "+EV: H2H FRE @ $1.33 -- 18.5% edge",
-      "key_factors": "Squiggle base: AWAY by 19.7pts (1% agreement) | Rule 50 Tier 2: power gap 14.2 \u2192 +5pts toward away | Rule 49: form gap -51.2 \u2192 +15pts toward away | Rule 51 HOT FORM T2: away +5pts | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +3 home / +28 away = net -25 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 39.8): \u00d70.90 PATTERN MATCH: score -63 (Strong Flagged) \u2014 3 supportive, 0 contrarian, 41 cautionary matches from 44 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
-      "summary": "Fremantle predicted to win by 29 points. Squiggle consensus 20pts, power rank gap 14pts.",
-      "tldr": "Away by 29pts. Squiggle base 20. Power gap 14pts.",
+      "key_factors": "Squiggle base: AWAY by 19.6pts (1% agreement) | Rule 50 Tier 2: power gap 14.2 \u2192 +5pts toward away | Rule 49: form gap -46.8 \u2192 +15pts toward away | Rule 51 HOT FORM T2: away +5pts | ODELO home +5.6 (MEDIUM) \u2192 +1pts toward home | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +4 home / +28 away = net -24 (cap 12) \u2192 applied -12 | Rule 58 home xChain 81.6 >= 81.4 \u2192 tier upgraded to Lock",
+      "summary": "Fremantle predicted to win by 32 points. Squiggle consensus 20pts, power rank gap 14pts.",
+      "tldr": "Away by 32pts. Squiggle base 20. Power gap 14pts.",
       "injury_impact": "",
       "scenarios": [],
       "pattern_observations": [],
@@ -179,8 +180,9 @@
       "recent_margins_home": [],
       "recent_margins_away": [],
       "blowout_risk": false,
-      "locked": false,
-      "bookie_total": 176.5
+      "locked": true,
+      "bookie_total": 176.5,
+      "locked_at": "2026-07-04T03:35:00+00:00"
     },
     {
       "game_id": 38631,
@@ -198,7 +200,7 @@
       "venue": "Carrara",
       "match_time": "Sat 4 Jul 4:15pm AEST",
       "ev_recommendation": "+EV: H2H COL @ $2.35 -- 21.2% edge | +EV: LINE COL +6.5 @ $1.90 -- 14.5pt edge (~70% cover)",
-      "key_factors": "Squiggle base: HOME by 2.6pts (1% agreement) | Rule 49: form gap -48.0 \u2192 +15pts toward away | Rule 53 BLEEDING: home -4.5pts | Budget: +0 home / +20 away = net -20 (cap 12) \u2192 applied -12 PATTERN MATCH: score -60 (Strong Flagged) \u2014 1 supportive, 0 contrarian, 38 cautionary matches from 39 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
+      "key_factors": "Squiggle base: HOME by 3.1pts (1% agreement) | Rule 49: form gap -44.2 \u2192 +15pts toward away | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +0 home / +18 away = net -18 (cap 12) \u2192 applied -12",
       "summary": "Collingwood predicted to win by 9 points. Squiggle consensus 3pts, power rank gap 1pts.",
       "tldr": "Away by 9pts. Squiggle base 3. Power gap 1pts.",
       "injury_impact": "",
@@ -210,8 +212,9 @@
       "recent_margins_home": [],
       "recent_margins_away": [],
       "blowout_risk": false,
-      "locked": false,
-      "bookie_total": 173.5
+      "locked": true,
+      "bookie_total": 173.5,
+      "locked_at": "2026-07-04T06:15:00+00:00"
     },
     {
       "game_id": 38634,
@@ -229,7 +232,7 @@
       "venue": "M.C.G.",
       "match_time": "Sat 4 Jul 7:35pm AEST",
       "ev_recommendation": "+EV: H2H CAR @ $1.19 -- 13.6% edge",
-      "key_factors": "Squiggle base: AWAY by 34.4pts (1% agreement) | Rule 50 Tier 1: power gap 22.6 \u2192 +8pts toward away | Rule 49: form gap -73.2 \u2192 +20pts toward away | Rule 51 HOT FORM T2: away +5pts | Schedule home INFLATED \u2192 -2pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +0 home / +38 away = net -38 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 42.7): \u00d70.90 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong PATTERN MATCH: score -49 (Strong Flagged) \u2014 5 supportive, 0 contrarian, 31 cautionary matches from 36 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
+      "key_factors": "Squiggle base: AWAY by 34.3pts (1% agreement) | Rule 50 Tier 1: power gap 22.6 \u2192 +8pts toward away | Rule 49: form gap -73.2 \u2192 +20pts toward away | Rule 51 HOT FORM T2: away +5pts | Schedule home INFLATED \u2192 -2pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +0 home / +38 away = net -38 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 42.7): \u00d70.90 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong",
       "summary": "Carlton predicted to win by 42 points. Squiggle consensus 34pts, power rank gap 23pts.",
       "tldr": "Away by 42pts. Squiggle base 34. Power gap 23pts.",
       "injury_impact": "",
@@ -241,8 +244,9 @@
       "recent_margins_home": [],
       "recent_margins_away": [],
       "blowout_risk": false,
-      "locked": false,
-      "bookie_total": 166.5
+      "locked": true,
+      "bookie_total": 166.5,
+      "locked_at": "2026-07-04T09:35:00+00:00"
     },
     {
       "game_id": 38629,
@@ -251,7 +255,7 @@
       "home_code": "ESS",
       "away_code": "STK",
       "predicted_winner": "St Kilda",
-      "predicted_margin": 33,
+      "predicted_margin": 32,
       "home_score": 74,
       "away_score": 106,
       "win_probability": 0.96,
@@ -260,7 +264,7 @@
       "venue": "Docklands",
       "match_time": "Sun 5 Jul 3:15pm AEST",
       "ev_recommendation": "+EV: H2H STK @ $1.26 -- 17.1% edge",
-      "key_factors": "Squiggle base: AWAY by 23.2pts (1% agreement) | Rule 50 Tier 1: power gap 15.3 \u2192 +8pts toward away | Budget: +0 home / +8 away = net -8 (cap 12) \u2192 applied -8 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong PATTERN MATCH: score -61 (Strong Flagged) \u2014 2 supportive, 0 contrarian, 36 cautionary matches from 38 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
+      "key_factors": "Squiggle base: AWAY by 23.3pts (1% agreement) | Rule 50 Tier 1: power gap 15.3 \u2192 +8pts toward away | Budget: +0 home / +8 away = net -8 (cap 12) \u2192 applied -8 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong PATTERN MATCH: score -67 (Strong Flagged) \u2014 2 supportive, 0 contrarian, 40 cautionary matches from 42 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
       "summary": "St Kilda predicted to win by 31 points. Squiggle consensus 23pts, power rank gap 15pts.",
       "tldr": "Away by 31pts. Squiggle base 23. Power gap 15pts.",
       "injury_impact": "",
@@ -273,7 +277,7 @@
       "recent_margins_away": [],
       "blowout_risk": false,
       "locked": false,
-      "bookie_total": 175.5
+      "bookie_total": 174.5
     },
     {
       "game_id": 38636,
@@ -290,8 +294,8 @@
       "tier_name": "Lock",
       "venue": "Adelaide Oval",
       "match_time": "Sun 5 Jul 4:40pm AEST",
-      "ev_recommendation": "+EV: H2H PTA @ $1.48 -- 23.3% edge",
-      "key_factors": "Squiggle base: HOME by 18.0pts (1% agreement) | Rule 50 Tier 3: power gap 6.9 \u2192 +3pts toward home | Rule 49: form gap +21.5 \u2192 +9pts toward home | ODELO home +7.6 (HIGH) \u2192 +3pts toward home | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +18 home / +3 away = net +15 (cap 12) \u2192 applied +12 | Rule 42 dampener applied (loser stdev 54.8): \u00d70.90 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong PATTERN MATCH: score -38 (Strong Flagged) \u2014 5 supportive, 0 contrarian, 25 cautionary matches from 30 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
+      "ev_recommendation": "+EV: H2H PTA @ $1.46 -- 23.0% edge",
+      "key_factors": "Squiggle base: HOME by 17.9pts (1% agreement) | Rule 50 Tier 3: power gap 6.9 \u2192 +3pts toward home | Rule 49: form gap +21.5 \u2192 +9pts toward home | ODELO home +7.6 (HIGH) \u2192 +3pts toward home | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +18 home / +3 away = net +15 (cap 12) \u2192 applied +12 | Rule 42 dampener applied (loser stdev 54.8): \u00d70.90 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong PATTERN MATCH: score -40 (Strong Flagged) \u2014 5 supportive, 0 contrarian, 26 cautionary matches from 31 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
       "summary": "Port Adelaide predicted to win by 27 points. Squiggle consensus 18pts, power rank gap 7pts.",
       "tldr": "Home by 27pts. Squiggle base 18. Power gap 7pts.",
       "injury_impact": "",
