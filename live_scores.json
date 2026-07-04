@@ -1,15 +1,15 @@
 {
   "round": 17,
   "season": 2026,
-  "last_checked": "2026-07-04T11:50:08.848319",
+  "last_checked": "2026-07-04T13:09:16.457931",
   "summary": {
-    "correct": 3,
-    "total_scored": 6,
+    "correct": 4,
+    "total_scored": 7,
     "total_games": 9,
-    "accuracy": 50.0,
-    "mae": 27.0,
-    "games_live": 1,
-    "games_completed": 6,
+    "accuracy": 57.1,
+    "mae": 28.9,
+    "games_live": 0,
+    "games_completed": 7,
     "games_upcoming": 2
   },
   "games": [
@@ -159,13 +159,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 52,
-      "actual_away_score": 67,
+      "status": "completed",
+      "actual_home_score": 72,
+      "actual_away_score": 74,
       "actual_winner": "Carlton",
-      "actual_margin": -15,
+      "actual_margin": -2,
       "correct": true,
-      "margin_error": null
+      "margin_error": 40
     },
     {
       "game_id": 38629,
