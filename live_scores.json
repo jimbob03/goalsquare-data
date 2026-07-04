@@ -1,16 +1,16 @@
 {
   "round": 17,
   "season": 2026,
-  "last_checked": "2026-07-03T15:32:14.062858",
+  "last_checked": "2026-07-04T08:13:25.293903",
   "summary": {
     "correct": 2,
-    "total_scored": 3,
+    "total_scored": 5,
     "total_games": 9,
-    "accuracy": 66.7,
-    "mae": 16.7,
-    "games_live": 0,
-    "games_completed": 3,
-    "games_upcoming": 6
+    "accuracy": 40.0,
+    "mae": 32.0,
+    "games_live": 1,
+    "games_completed": 5,
+    "games_upcoming": 3
   },
   "games": [
     {
@@ -93,13 +93,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.88,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 90,
+      "actual_away_score": 125,
+      "actual_winner": "Melbourne",
+      "actual_margin": -35,
+      "correct": false,
+      "margin_error": 61
     },
     {
       "game_id": 38632,
@@ -115,13 +115,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.94,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 109,
+      "actual_away_score": 88,
+      "actual_winner": "Greater Western Sydney",
+      "actual_margin": 21,
+      "correct": false,
+      "margin_error": 49
     },
     {
       "game_id": 38631,
@@ -137,12 +137,12 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.64,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 72,
+      "actual_away_score": 71,
+      "actual_winner": "Gold Coast",
+      "actual_margin": 1,
+      "correct": false,
       "margin_error": null
     },
     {
