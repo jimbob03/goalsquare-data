@@ -1,7 +1,7 @@
 {
   "round": 17,
   "season": 2026,
-  "last_checked": "2026-07-04T10:25:48.043250",
+  "last_checked": "2026-07-04T11:50:08.848319",
   "summary": {
     "correct": 3,
     "total_scored": 6,
@@ -160,10 +160,10 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 34,
-      "actual_away_score": 35,
+      "actual_home_score": 52,
+      "actual_away_score": 67,
       "actual_winner": "Carlton",
-      "actual_margin": -1,
+      "actual_margin": -15,
       "correct": true,
       "margin_error": null
     },
@@ -175,7 +175,7 @@
       "away_code": "STK",
       "venue": "Docklands",
       "predicted_winner": "St Kilda",
-      "predicted_margin": 33,
+      "predicted_margin": 32,
       "predicted_home_score": 74,
       "predicted_away_score": 106,
       "tier": 1,
