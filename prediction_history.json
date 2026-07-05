@@ -2412,5 +2412,39 @@
     "correct": true,
     "margin_error": 40,
     "scored_at": "2026-07-04T14:53:06.565803"
+  },
+  {
+    "game_id": 38629,
+    "round": 17,
+    "season": 2026,
+    "home_team": "Essendon",
+    "away_team": "St Kilda",
+    "predicted_winner": "St Kilda",
+    "predicted_margin": 32,
+    "predicted_tier": 1,
+    "actual_winner": "St Kilda",
+    "actual_margin": 67,
+    "actual_home_score": 50,
+    "actual_away_score": 117,
+    "correct": true,
+    "margin_error": 35,
+    "scored_at": "2026-07-05T15:02:40.710989"
+  },
+  {
+    "game_id": 38636,
+    "round": 17,
+    "season": 2026,
+    "home_team": "Port Adelaide",
+    "away_team": "North Melbourne",
+    "predicted_winner": "Port Adelaide",
+    "predicted_margin": 27,
+    "predicted_tier": 1,
+    "actual_winner": "Port Adelaide",
+    "actual_margin": 21,
+    "actual_home_score": 73,
+    "actual_away_score": 52,
+    "correct": true,
+    "margin_error": 6,
+    "scored_at": "2026-07-05T15:02:40.711002"
   }
 ]
