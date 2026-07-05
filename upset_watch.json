@@ -1,12 +1,31 @@
 {
-  "round": 17,
-  "generated_at": "2026-07-04T10:55:39.572758",
-  "alert_count": 0,
-  "alerts": [],
+  "round": 18,
+  "generated_at": "2026-07-05T11:06:36.579553",
+  "alert_count": 1,
+  "alerts": [
+    {
+      "type": "FORTRESS_UPSET",
+      "category": "UPSET",
+      "tier": "STRONG",
+      "game": "GWS vs GEE",
+      "venue": "Sydney Showground",
+      "our_tip": "GEE by 8",
+      "upset_call": "GWS LIVE at home",
+      "reason": "GWS ODELO +15.8 HIGH vs GEE ODELO -54.2 at Sydney Showground",
+      "history": "10W-4L",
+      "confidence_note": "Fortress +15.8 ODELO historically wins at high rate",
+      "game_id": 38641,
+      "predicted_margin": 8,
+      "predicted_winner": "Geelong"
+    }
+  ],
   "content_pack": {
-    "headline": "Round 17: consensus round",
-    "tweet": null,
-    "email_section": null,
-    "video_hook": null
+    "headline": "Round 18 Upset Watch: GWS vs GEE \u2014 GWS LIVE at home",
+    "tweet": "Round 18 Pattern Alert\n\nGWS vs GEE: GWS LIVE at home\n\nWhy: GWS ODELO +15.8 HIGH vs GEE ODELO -54.2 at Sydney Showground\n\nConsensus: GEE by 8\nOur read: STRONG confidence",
+    "email_section": "### 1. GWS vs GEE \u2014 GWS LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** GWS ODELO +15.8 HIGH vs GEE ODELO -54.2 at Sydney Showground",
+    "video_hook": "Round 18 has one game I can't stop thinking about. GWS vs GEE at Sydney Showground. GWS LIVE at home.",
+    "all_alerts_short": [
+      "GWS vs GEE: GWS LIVE at home (FORTRESS_UPSET, STRONG)"
+    ]
   }
 }
