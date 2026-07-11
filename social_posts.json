@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-10T11:54:41.326274",
-  "total_posts": 18,
+  "generated_at": "2026-07-11T10:17:23.260667",
+  "total_posts": 21,
   "posts": [
     {
       "type": "round_summary",
-      "content": "🏈 ROUND 18 PREDICTIONS\n\n📊 Season: 109/145 (75.2%)\n\n💪 FRE vs SYD — FRE by 22\n💪 COL vs NTH — COL by 23\n💪 STK vs PTA — STK by 11\n🤔 GWS vs GEE — GEE by 5\n🪙 CAR vs HAW — HAW by 2\n🔒 ADE vs GCS — ADE by 31\n🔒 WBD vs WCE — WBD by 48\n🔒 MEL vs RIC — MEL by 47\n🔒 BRI vs ESS — BRI by 66\n\n💰 Value plays:\n  +EV: H2H FRE -- 17.1% edge | +EV: LINE FRE -11.5 -- 10.5pt edge (~70% cover)\n  +EV: H2H COL -- 17.5% edge\n  +EV: H2H ADE -- 22.4% edge\n  +EV: H2H WBD -- 11.1% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
+      "content": "🏈 ROUND 18 PREDICTIONS\n\n📊 Season: 110/146 (75.3%)\n\n💪 FRE vs SYD — FRE by 22\n💪 COL vs NTH — COL by 23\n💪 STK vs PTA — STK by 11\n🤔 GWS vs GEE — GEE by 5\n🪙 CAR vs HAW — HAW by 2\n🔒 ADE vs GCS — ADE by 31\n🔒 WBD vs WCE — WBD by 47\n🔒 MEL vs RIC — MEL by 47\n🔒 BRI vs ESS — BRI by 67\n\n💰 Value plays:\n  +EV: H2H FRE -- 17.1% edge | +EV: LINE FRE -11.5 -- 10.5pt edge (~70% cover)\n  +EV: H2H COL -- 17.5% edge\n  +EV: H2H ADE -- 22.4% edge\n  +EV: H2H WBD -- 10.8% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
       "schedule": "wednesday_evening"
     },
     {
       "type": "ev_summary",
-      "content": "💰 ROUND 18 VALUE PLAYS\n\nWhere our model sees edge:\n\n📌 FRE vs SYD: +EV: H2H FRE -- 17.1% edge\n📌 FRE vs SYD: +EV: LINE FRE -11.5 -- 10.5pt edge (~70% cover)\n📌 COL vs NTH: +EV: H2H COL -- 17.5% edge\n📌 ADE vs GCS: +EV: H2H ADE -- 22.4% edge\n📌 WBD vs WCE: +EV: H2H WBD -- 11.1% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare",
+      "content": "💰 ROUND 18 VALUE PLAYS\n\nWhere our model sees edge:\n\n📌 FRE vs SYD: +EV: H2H FRE -- 17.1% edge\n📌 FRE vs SYD: +EV: LINE FRE -11.5 -- 10.5pt edge (~70% cover)\n📌 COL vs NTH: +EV: H2H COL -- 17.5% edge\n📌 ADE vs GCS: +EV: H2H ADE -- 22.4% edge\n📌 WBD vs WCE: +EV: H2H WBD -- 10.8% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare",
       "schedule": "thursday_morning"
     },
     {
@@ -51,7 +51,7 @@
     {
       "type": "game_preview",
       "game": "WBD vs WCE",
-      "content": "🏈 WBD vs WCE\n\n🔒 Western Bulldogs by 48 | 97% win prob\n📍 Docklands | Sun 12 Jul 1:10pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H WBD -- 11.1% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #WesternBulldogs #WestCoast",
+      "content": "🏈 WBD vs WCE\n\n🔒 Western Bulldogs by 47 | 97% win prob\n📍 Docklands | Sun 12 Jul 1:10pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H WBD -- 10.8% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #WesternBulldogs #WestCoast",
       "schedule": "before_Sun"
     },
     {
@@ -63,7 +63,7 @@
     {
       "type": "game_preview",
       "game": "BRI vs ESS",
-      "content": "🏈 BRI vs ESS\n\n🔒 Brisbane Lions by 66 | 97% win prob\n📍 Gabba | Sun 12 Jul 4:40pm AEST\n🏆 Tier 1 — Lock\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #BrisbaneLions #Essendon",
+      "content": "🏈 BRI vs ESS\n\n🔒 Brisbane Lions by 67 | 97% win prob\n📍 Gabba | Sun 12 Jul 4:40pm AEST\n🏆 Tier 1 — Lock\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #BrisbaneLions #Essendon",
       "schedule": "before_Sun"
     },
     {
@@ -121,8 +121,35 @@
       "schedule": "day_before_sat"
     },
     {
+      "type": "blog_preview",
+      "game": "WBD vs WCE",
+      "game_day": "Sun",
+      "blog_slug": "western-bulldogs-vs-west-coast-round-18-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r18-wbd-vs-wce.png",
+      "content": "🔒 WBD vs WCE — OUR LOCK\n\nWBD by 47 at Docklands\n\nFull analysis → https://goalsquare.com.au/post/western-bulldogs-vs-west-coast-round-18-2026\n\n#AFL #AFLTips #GoalSquare #WesternBulldogs #WestCoast",
+      "schedule": "day_before_sun"
+    },
+    {
+      "type": "blog_preview",
+      "game": "MEL vs RIC",
+      "game_day": "Sun",
+      "blog_slug": "melbourne-vs-richmond-round-18-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r18-mel-vs-ric.png",
+      "content": "🔒 MEL vs RIC — OUR LOCK\n\nMEL by 47 at M.C.G.\n\nFull analysis → https://goalsquare.com.au/post/melbourne-vs-richmond-round-18-2026\n\n#AFL #AFLTips #GoalSquare #Melbourne #Richmond",
+      "schedule": "day_before_sun"
+    },
+    {
+      "type": "blog_preview",
+      "game": "BRI vs ESS",
+      "game_day": "Sun",
+      "blog_slug": "brisbane-vs-essendon-round-18-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r18-bri-vs-ess.png",
+      "content": "🔒 BRI vs ESS — OUR LOCK\n\nBRI by 67 at Gabba\n\nFull analysis → https://goalsquare.com.au/post/brisbane-vs-essendon-round-18-2026\n\n#AFL #AFLTips #GoalSquare #BrisbaneLions #Essendon",
+      "schedule": "day_before_sun"
+    },
+    {
       "type": "scorecard",
-      "content": "📊 ROUND 17 RESULTS\n\nWe went 6 from 9\n\n❌ GEE vs BRI — tipped GEE, BRI won by 22\n✅ SYD vs WBD — tipped SYD by 29, got SYD by 35\n✅ WCE vs ADE — tipped ADE by 39, got ADE by 25\n❌ HAW vs MEL — tipped HAW, MEL won by 35\n❌ GWS vs FRE — tipped FRE, GWS won by 21\n✅ GCS vs COL — tipped COL by 8, got COL by 6\n✅ RIC vs CAR — tipped CAR by 42, got CAR by 2\n✅ ESS vs STK — tipped STK by 32, got STK by 67\n✅ PTA vs NTH — tipped PTA by 27, got PTA by 21\n\nSeason: 109/145 (75.2%)\nRound 17 avg margin error: 14.8pts\n\nRound 18 tips coming Thursday.\n\ngoalsquare.com.au\n#AFL #GoalSquare",
+      "content": "📊 ROUND 17 RESULTS\n\nWe went 6 from 9\n\n❌ GEE vs BRI — tipped GEE, BRI won by 22\n✅ SYD vs WBD — tipped SYD by 29, got SYD by 35\n✅ WCE vs ADE — tipped ADE by 39, got ADE by 25\n❌ HAW vs MEL — tipped HAW, MEL won by 35\n❌ GWS vs FRE — tipped FRE, GWS won by 21\n✅ GCS vs COL — tipped COL by 8, got COL by 6\n✅ RIC vs CAR — tipped CAR by 42, got CAR by 2\n✅ ESS vs STK — tipped STK by 32, got STK by 67\n✅ PTA vs NTH — tipped PTA by 27, got PTA by 21\n\nSeason: 110/146 (75.3%)\nRound 17 avg margin error: 14.8pts\n\nRound 18 tips coming Thursday.\n\ngoalsquare.com.au\n#AFL #GoalSquare",
       "schedule": "after_last_game"
     }
   ]
