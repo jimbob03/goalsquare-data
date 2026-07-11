@@ -1,16 +1,16 @@
 {
   "round": 18,
   "season": 2026,
-  "last_checked": "2026-07-11T04:58:53.398465",
+  "last_checked": "2026-07-11T07:12:46.965603",
   "summary": {
-    "correct": 2,
-    "total_scored": 2,
+    "correct": 3,
+    "total_scored": 3,
     "total_games": 9,
     "accuracy": 100.0,
-    "mae": 17.5,
+    "mae": 12.7,
     "games_live": 1,
-    "games_completed": 2,
-    "games_upcoming": 6
+    "games_completed": 3,
+    "games_upcoming": 5
   },
   "games": [
     {
@@ -71,13 +71,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.67,
-      "status": "live",
-      "actual_home_score": 61,
-      "actual_away_score": 45,
+      "status": "completed",
+      "actual_home_score": 87,
+      "actual_away_score": 73,
       "actual_winner": "St Kilda",
-      "actual_margin": 16,
+      "actual_margin": 14,
       "correct": true,
-      "margin_error": null
+      "margin_error": 3
     },
     {
       "game_id": 38641,
@@ -93,12 +93,12 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.56,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 24,
+      "actual_away_score": 39,
+      "actual_winner": "Geelong",
+      "actual_margin": -15,
+      "correct": true,
       "margin_error": null
     },
     {
