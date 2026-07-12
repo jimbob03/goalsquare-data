@@ -1,16 +1,16 @@
 {
   "round": 18,
   "season": 2026,
-  "last_checked": "2026-07-12T05:21:51.543306",
+  "last_checked": "2026-07-12T07:39:55.351219",
   "summary": {
-    "correct": 5,
-    "total_scored": 6,
+    "correct": 6,
+    "total_scored": 7,
     "total_games": 9,
-    "accuracy": 83.3,
-    "mae": 27.7,
+    "accuracy": 85.7,
+    "mae": 28.1,
     "games_live": 2,
-    "games_completed": 6,
-    "games_upcoming": 1
+    "games_completed": 7,
+    "games_upcoming": 0
   },
   "games": [
     {
@@ -159,13 +159,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 62,
-      "actual_away_score": 65,
-      "actual_winner": "West Coast",
-      "actual_margin": -3,
-      "correct": false,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 86,
+      "actual_away_score": 70,
+      "actual_winner": "Western Bulldogs",
+      "actual_margin": 16,
+      "correct": true,
+      "margin_error": 31
     },
     {
       "game_id": 38642,
@@ -182,11 +182,11 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 6,
-      "actual_away_score": 7,
-      "actual_winner": "Richmond",
-      "actual_margin": -1,
-      "correct": false,
+      "actual_home_score": 98,
+      "actual_away_score": 46,
+      "actual_winner": "Melbourne",
+      "actual_margin": 52,
+      "correct": true,
       "margin_error": null
     },
     {
@@ -203,12 +203,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 51,
+      "actual_away_score": 5,
+      "actual_winner": "Brisbane Lions",
+      "actual_margin": 46,
+      "correct": true,
       "margin_error": null
     }
   ]
