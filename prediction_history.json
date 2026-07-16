@@ -2599,5 +2599,22 @@
     "correct": true,
     "margin_error": 23,
     "scored_at": "2026-07-12T14:43:36.430920"
+  },
+  {
+    "game_id": 38649,
+    "round": 19,
+    "season": 2026,
+    "home_team": "Geelong",
+    "away_team": "St Kilda",
+    "predicted_winner": "Geelong",
+    "predicted_margin": 20,
+    "predicted_tier": 2,
+    "actual_winner": "Geelong",
+    "actual_margin": 27,
+    "actual_home_score": 102,
+    "actual_away_score": 75,
+    "correct": true,
+    "margin_error": 7,
+    "scored_at": "2026-07-16T15:21:12.928257"
   }
 ]
