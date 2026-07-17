@@ -2616,5 +2616,22 @@
     "correct": true,
     "margin_error": 7,
     "scored_at": "2026-07-16T15:21:12.928257"
+  },
+  {
+    "game_id": 38653,
+    "round": 19,
+    "season": 2026,
+    "home_team": "Sydney",
+    "away_team": "Adelaide",
+    "predicted_winner": "Adelaide",
+    "predicted_margin": 1,
+    "predicted_tier": 4,
+    "actual_winner": "Adelaide",
+    "actual_margin": 16,
+    "actual_home_score": 71,
+    "actual_away_score": 87,
+    "correct": true,
+    "margin_error": 15,
+    "scored_at": "2026-07-17T15:02:43.351484"
   }
 ]
