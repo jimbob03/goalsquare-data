@@ -1,7 +1,7 @@
 {
   "round": 19,
   "season": 2026,
-  "generated_at": "2026-07-16T10:46:02.434696Z",
+  "generated_at": "2026-07-17T10:24:28.538463Z",
   "index": {
     "38549": "richmond-vs-melbourne-round-7-2026",
     "38551": "essendon-vs-collingwood-round-7-2026",
@@ -99,6 +99,10 @@
     "38642": "melbourne-vs-richmond-round-18-2026",
     "38644": "western-bulldogs-vs-west-coast-round-18-2026",
     "38649": "geelong-vs-st-kilda-round-19-2026",
-    "38653": "sydney-vs-adelaide-round-19-2026"
+    "38653": "sydney-vs-adelaide-round-19-2026",
+    "38651": "north-melbourne-vs-melbourne-round-19-2026",
+    "38654": "port-adelaide-vs-fremantle-round-19-2026",
+    "38655": "west-coast-vs-brisbane-round-19-2026",
+    "38647": "collingwood-vs-carlton-round-19-2026"
   }
 }
