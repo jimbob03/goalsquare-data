@@ -1,105 +1,105 @@
 {
   "season": 2026,
-  "last_updated": "2026-07-16T11:02:40.995025",
+  "last_updated": "2026-07-17T10:49:14.093937",
   "total_models": 31,
   "models": [
     {
       "name": "Drop Kick Data",
-      "accuracy": 76.5,
-      "mae": 25.2,
-      "tips_total": 153,
-      "tips_correct": 117
+      "accuracy": 76.6,
+      "mae": 25.1,
+      "tips_total": 154,
+      "tips_correct": 118
     },
     {
       "name": "Holy Grail Ratings",
-      "accuracy": 75.8,
-      "mae": 25.4,
-      "tips_total": 153,
-      "tips_correct": 116
+      "accuracy": 76.0,
+      "mae": 25.3,
+      "tips_total": 154,
+      "tips_correct": 117
     },
     {
       "name": "Wheelo Ratings",
-      "accuracy": 75.2,
-      "mae": 24.9,
-      "tips_total": 153,
-      "tips_correct": 115
+      "accuracy": 75.3,
+      "mae": 24.8,
+      "tips_total": 154,
+      "tips_correct": 116
     },
     {
       "name": "ZaphBot",
-      "accuracy": 74.5,
-      "mae": 26.0,
-      "tips_total": 153,
-      "tips_correct": 114
+      "accuracy": 74.7,
+      "mae": 25.8,
+      "tips_total": 154,
+      "tips_correct": 115
     },
     {
       "name": "s10",
-      "accuracy": 73.9,
-      "mae": 25.5,
-      "tips_total": 153,
-      "tips_correct": 113
+      "accuracy": 74.0,
+      "mae": 25.3,
+      "tips_total": 154,
+      "tips_correct": 114
     },
     {
       "name": "AFLalytics",
-      "accuracy": 73.9,
-      "mae": 25.6,
-      "tips_total": 153,
-      "tips_correct": 113
+      "accuracy": 74.0,
+      "mae": 25.4,
+      "tips_total": 154,
+      "tips_correct": 114
     },
     {
       "name": "Punters",
-      "accuracy": 73.2,
-      "mae": 25.3,
-      "tips_total": 153,
-      "tips_correct": 112
+      "accuracy": 73.4,
+      "mae": 25.2,
+      "tips_total": 154,
+      "tips_correct": 113
     },
     {
       "name": "Aggregate",
-      "accuracy": 73.2,
-      "mae": 25.4,
-      "tips_total": 153,
-      "tips_correct": 112
+      "accuracy": 73.4,
+      "mae": 25.3,
+      "tips_total": 154,
+      "tips_correct": 113
     },
     {
       "name": "Glicko Ratings",
-      "accuracy": 73.2,
-      "mae": 26.1,
-      "tips_total": 153,
-      "tips_correct": 112
+      "accuracy": 73.4,
+      "mae": 25.9,
+      "tips_total": 154,
+      "tips_correct": 113
     },
     {
       "name": "Don't Blame the Data",
-      "accuracy": 72.5,
-      "mae": 25.9,
-      "tips_total": 153,
-      "tips_correct": 111
+      "accuracy": 72.7,
+      "mae": 25.7,
+      "tips_total": 154,
+      "tips_correct": 112
     },
     {
       "name": "What Snoo Thinks",
-      "accuracy": 72.5,
-      "mae": 25.9,
-      "tips_total": 153,
-      "tips_correct": 111
+      "accuracy": 72.7,
+      "mae": 25.7,
+      "tips_total": 154,
+      "tips_correct": 112
     },
     {
       "name": "AFL Lab",
-      "accuracy": 71.9,
-      "mae": 26.2,
-      "tips_total": 153,
-      "tips_correct": 110
+      "accuracy": 72.1,
+      "mae": 26.1,
+      "tips_total": 154,
+      "tips_correct": 111
     },
     {
       "name": "The Wooden Finger",
-      "accuracy": 71.9,
-      "mae": 26.8,
-      "tips_total": 153,
-      "tips_correct": 110
+      "accuracy": 72.1,
+      "mae": 26.7,
+      "tips_total": 154,
+      "tips_correct": 111
     },
     {
       "name": "Cheap Stats",
-      "accuracy": 71.7,
-      "mae": 26.5,
-      "tips_total": 152,
-      "tips_correct": 109
+      "accuracy": 71.9,
+      "mae": 26.4,
+      "tips_total": 153,
+      "tips_correct": 110
     },
     {
       "name": "The Cruncher",
