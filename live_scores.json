@@ -1,16 +1,16 @@
 {
   "round": 19,
   "season": 2026,
-  "last_checked": "2026-07-18T04:43:44.299274",
+  "last_checked": "2026-07-18T06:32:53.631453",
   "summary": {
-    "correct": 2,
-    "total_scored": 2,
+    "correct": 3,
+    "total_scored": 3,
     "total_games": 9,
     "accuracy": 100.0,
-    "mae": 11.0,
+    "mae": 8.7,
     "games_live": 1,
-    "games_completed": 2,
-    "games_upcoming": 6
+    "games_completed": 3,
+    "games_upcoming": 5
   },
   "games": [
     {
@@ -71,13 +71,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 54,
-      "actual_away_score": 42,
-      "actual_winner": "Port Adelaide",
-      "actual_margin": 12,
-      "correct": false,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 75,
+      "actual_away_score": 103,
+      "actual_winner": "Fremantle",
+      "actual_margin": -28,
+      "correct": true,
+      "margin_error": 4
     },
     {
       "game_id": 38651,
@@ -93,12 +93,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.94,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 19,
+      "actual_away_score": 12,
+      "actual_winner": "North Melbourne",
+      "actual_margin": 7,
+      "correct": false,
       "margin_error": null
     },
     {
