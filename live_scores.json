@@ -1,15 +1,15 @@
 {
   "round": 19,
   "season": 2026,
-  "last_checked": "2026-07-18T11:51:20.594512",
+  "last_checked": "2026-07-18T12:59:28.363891",
   "summary": {
-    "correct": 4,
-    "total_scored": 4,
+    "correct": 6,
+    "total_scored": 6,
     "total_games": 9,
     "accuracy": 100.0,
-    "mae": 9.5,
-    "games_live": 2,
-    "games_completed": 4,
+    "mae": 11.0,
+    "games_live": 0,
+    "games_completed": 6,
     "games_upcoming": 3
   },
   "games": [
@@ -115,13 +115,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.74,
-      "status": "live",
-      "actual_home_score": 70,
-      "actual_away_score": 57,
+      "status": "completed",
+      "actual_home_score": 90,
+      "actual_away_score": 69,
       "actual_winner": "Collingwood",
-      "actual_margin": 13,
+      "actual_margin": 21,
       "correct": true,
-      "margin_error": null
+      "margin_error": 5
     },
     {
       "game_id": 38655,
@@ -137,13 +137,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 42,
-      "actual_away_score": 39,
-      "actual_winner": "West Coast",
-      "actual_margin": 3,
-      "correct": false,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 69,
+      "actual_away_score": 93,
+      "actual_winner": "Brisbane Lions",
+      "actual_margin": -24,
+      "correct": true,
+      "margin_error": 23
     },
     {
       "game_id": 38652,
