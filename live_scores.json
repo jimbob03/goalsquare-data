@@ -1,16 +1,16 @@
 {
   "round": 19,
   "season": 2026,
-  "last_checked": "2026-07-19T05:16:19.869877",
+  "last_checked": "2026-07-19T07:38:32.682722",
   "summary": {
-    "correct": 6,
-    "total_scored": 6,
+    "correct": 7,
+    "total_scored": 7,
     "total_games": 9,
     "accuracy": 100.0,
-    "mae": 11.0,
+    "mae": 11.1,
     "games_live": 2,
-    "games_completed": 6,
-    "games_upcoming": 1
+    "games_completed": 7,
+    "games_upcoming": 0
   },
   "games": [
     {
@@ -159,13 +159,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 29,
-      "actual_away_score": 107,
+      "status": "completed",
+      "actual_home_score": 52,
+      "actual_away_score": 122,
       "actual_winner": "Hawthorn",
-      "actual_margin": -78,
+      "actual_margin": -70,
       "correct": true,
-      "margin_error": null
+      "margin_error": 12
     },
     {
       "game_id": 38650,
@@ -182,11 +182,11 @@
       "tier_name": "Lean",
       "win_probability": 0.62,
       "status": "live",
-      "actual_home_score": 0,
-      "actual_away_score": 0,
-      "actual_winner": "Tied",
-      "actual_margin": 0,
-      "correct": null,
+      "actual_home_score": 60,
+      "actual_away_score": 77,
+      "actual_winner": "Western Bulldogs",
+      "actual_margin": -17,
+      "correct": true,
       "margin_error": null
     },
     {
@@ -203,12 +203,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 24,
+      "actual_away_score": 20,
+      "actual_winner": "Essendon",
+      "actual_margin": 4,
+      "correct": false,
       "margin_error": null
     }
   ]
