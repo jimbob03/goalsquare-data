@@ -1,15 +1,15 @@
 {
   "round": 19,
   "season": 2026,
-  "last_checked": "2026-07-19T07:38:32.682722",
+  "last_checked": "2026-07-19T09:30:38.685491",
   "summary": {
-    "correct": 7,
-    "total_scored": 7,
+    "correct": 8,
+    "total_scored": 9,
     "total_games": 9,
-    "accuracy": 100.0,
-    "mae": 11.1,
-    "games_live": 2,
-    "games_completed": 7,
+    "accuracy": 88.9,
+    "mae": 13.3,
+    "games_live": 0,
+    "games_completed": 9,
     "games_upcoming": 0
   },
   "games": [
@@ -181,13 +181,13 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.62,
-      "status": "live",
-      "actual_home_score": 60,
+      "status": "completed",
+      "actual_home_score": 68,
       "actual_away_score": 77,
       "actual_winner": "Western Bulldogs",
-      "actual_margin": -17,
+      "actual_margin": -9,
       "correct": true,
-      "margin_error": null
+      "margin_error": 1
     },
     {
       "game_id": 38648,
@@ -203,13 +203,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 24,
-      "actual_away_score": 20,
+      "status": "completed",
+      "actual_home_score": 67,
+      "actual_away_score": 64,
       "actual_winner": "Essendon",
-      "actual_margin": 4,
+      "actual_margin": 3,
       "correct": false,
-      "margin_error": null
+      "margin_error": 41
     }
   ]
 }
