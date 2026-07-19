@@ -1,31 +1,12 @@
 {
-  "round": 19,
-  "generated_at": "2026-07-18T10:20:30.299334",
-  "alert_count": 1,
-  "alerts": [
-    {
-      "type": "FORTRESS_UPSET",
-      "category": "UPSET",
-      "tier": "STRONG",
-      "game": "GCS vs WBD",
-      "venue": "Carrara",
-      "our_tip": "WBD by 8",
-      "upset_call": "GCS LIVE at home",
-      "reason": "GCS ODELO +16.8 HIGH vs WBD ODELO +0.0 at Carrara",
-      "history": "11W-5L",
-      "confidence_note": "Fortress +16.8 ODELO historically wins at high rate",
-      "game_id": 38650,
-      "predicted_margin": 8,
-      "predicted_winner": "Western Bulldogs"
-    }
-  ],
+  "round": 20,
+  "generated_at": "2026-07-19T10:37:05.098230",
+  "alert_count": 0,
+  "alerts": [],
   "content_pack": {
-    "headline": "Round 19 Upset Watch: GCS vs WBD \u2014 GCS LIVE at home",
-    "tweet": "Round 19 Pattern Alert\n\nGCS vs WBD: GCS LIVE at home\n\nWhy: GCS ODELO +16.8 HIGH vs WBD ODELO +0.0 at Carrara\n\nConsensus: WBD by 8\nOur read: STRONG confidence",
-    "email_section": "### 1. GCS vs WBD \u2014 GCS LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** GCS ODELO +16.8 HIGH vs WBD ODELO +0.0 at Carrara",
-    "video_hook": "Round 19 has one game I can't stop thinking about. GCS vs WBD at Carrara. GCS LIVE at home.",
-    "all_alerts_short": [
-      "GCS vs WBD: GCS LIVE at home (FORTRESS_UPSET, STRONG)"
-    ]
+    "headline": "Round 20: consensus round",
+    "tweet": null,
+    "email_section": null,
+    "video_hook": null
   }
 }
