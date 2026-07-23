@@ -1,16 +1,16 @@
 {
   "round": 20,
   "season": 2026,
-  "last_checked": "2026-07-23T07:55:13.687028",
+  "last_checked": "2026-07-23T10:13:58.483730",
   "summary": {
     "correct": 0,
     "total_scored": 0,
     "total_games": 9,
     "accuracy": 0,
     "mae": 0,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 0,
-    "games_upcoming": 9
+    "games_upcoming": 8
   },
   "games": [
     {
@@ -27,12 +27,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.72,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 33,
+      "actual_away_score": 21,
+      "actual_winner": "Adelaide",
+      "actual_margin": 12,
+      "correct": true,
       "margin_error": null
     },
     {
