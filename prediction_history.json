@@ -2752,5 +2752,22 @@
     "correct": false,
     "margin_error": 41,
     "scored_at": "2026-07-19T14:41:42.874110"
+  },
+  {
+    "game_id": 38663,
+    "round": 20,
+    "season": 2026,
+    "home_team": "Adelaide",
+    "away_team": "Collingwood",
+    "predicted_winner": "Adelaide",
+    "predicted_margin": 14,
+    "predicted_tier": 2,
+    "actual_winner": "Collingwood",
+    "actual_margin": 34,
+    "actual_home_score": 74,
+    "actual_away_score": 108,
+    "correct": false,
+    "margin_error": 48,
+    "scored_at": "2026-07-23T15:44:53.907717"
   }
 ]
