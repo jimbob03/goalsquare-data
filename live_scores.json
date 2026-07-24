@@ -1,15 +1,15 @@
 {
   "round": 20,
   "season": 2026,
-  "last_checked": "2026-07-24T11:54:41.220682",
+  "last_checked": "2026-07-24T13:23:17.388953",
   "summary": {
-    "correct": 0,
-    "total_scored": 1,
+    "correct": 1,
+    "total_scored": 3,
     "total_games": 9,
-    "accuracy": 0.0,
-    "mae": 48.0,
-    "games_live": 2,
-    "games_completed": 1,
+    "accuracy": 33.3,
+    "mae": 27.7,
+    "games_live": 0,
+    "games_completed": 3,
     "games_upcoming": 6
   },
   "games": [
@@ -49,13 +49,13 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.6,
-      "status": "live",
-      "actual_home_score": 70,
-      "actual_away_score": 81,
+      "status": "completed",
+      "actual_home_score": 97,
+      "actual_away_score": 117,
       "actual_winner": "Geelong",
-      "actual_margin": -11,
+      "actual_margin": -20,
       "correct": false,
-      "margin_error": null
+      "margin_error": 26
     },
     {
       "game_id": 38664,
@@ -71,13 +71,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 72,
-      "actual_away_score": 32,
+      "status": "completed",
+      "actual_home_score": 112,
+      "actual_away_score": 42,
       "actual_winner": "Fremantle",
-      "actual_margin": 40,
+      "actual_margin": 70,
       "correct": true,
-      "margin_error": null
+      "margin_error": 9
     },
     {
       "game_id": 38657,
