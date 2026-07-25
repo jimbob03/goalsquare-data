@@ -1,16 +1,16 @@
 {
   "round": 20,
   "season": 2026,
-  "last_checked": "2026-07-25T09:16:17.656785",
+  "last_checked": "2026-07-25T10:50:52.256735",
   "summary": {
     "correct": 3,
-    "total_scored": 5,
+    "total_scored": 6,
     "total_games": 9,
-    "accuracy": 60.0,
-    "mae": 25.2,
+    "accuracy": 50.0,
+    "mae": 30.3,
     "games_live": 1,
-    "games_completed": 5,
-    "games_upcoming": 3
+    "games_completed": 6,
+    "games_upcoming": 2
   },
   "games": [
     {
@@ -137,13 +137,13 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.56,
-      "status": "live",
-      "actual_home_score": 82,
-      "actual_away_score": 137,
+      "status": "completed",
+      "actual_home_score": 88,
+      "actual_away_score": 139,
       "actual_winner": "Sydney",
-      "actual_margin": -55,
+      "actual_margin": -51,
       "correct": false,
-      "margin_error": null
+      "margin_error": 56
     },
     {
       "game_id": 38662,
@@ -159,12 +159,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 46,
+      "actual_away_score": 15,
+      "actual_winner": "Western Bulldogs",
+      "actual_margin": 31,
+      "correct": true,
       "margin_error": null
     },
     {
@@ -175,9 +175,9 @@
       "away_code": "PTA",
       "venue": "Gabba",
       "predicted_winner": "Brisbane Lions",
-      "predicted_margin": 46,
+      "predicted_margin": 47,
       "predicted_home_score": 120,
-      "predicted_away_score": 74,
+      "predicted_away_score": 72,
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
