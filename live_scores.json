@@ -1,16 +1,16 @@
 {
   "round": 20,
   "season": 2026,
-  "last_checked": "2026-07-25T14:48:38.397706",
+  "last_checked": "2026-07-26T05:25:38.587629",
   "summary": {
     "correct": 4,
     "total_scored": 7,
     "total_games": 9,
     "accuracy": 57.1,
     "mae": 27.0,
-    "games_live": 0,
+    "games_live": 2,
     "games_completed": 7,
-    "games_upcoming": 2
+    "games_upcoming": 0
   },
   "games": [
     {
@@ -181,12 +181,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 99,
+      "actual_away_score": 52,
+      "actual_winner": "Brisbane Lions",
+      "actual_margin": 47,
+      "correct": true,
       "margin_error": null
     },
     {
@@ -203,12 +203,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.86,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 2,
+      "actual_away_score": 12,
+      "actual_winner": "St Kilda",
+      "actual_margin": -10,
+      "correct": true,
       "margin_error": null
     }
   ]
