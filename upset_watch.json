@@ -1,6 +1,6 @@
 {
   "round": 21,
-  "generated_at": "2026-07-27T12:26:39.751546",
+  "generated_at": "2026-07-29T11:27:46.854337",
   "alert_count": 2,
   "alerts": [
     {
@@ -9,13 +9,13 @@
       "tier": "STRONG",
       "game": "GCS vs MEL",
       "venue": "Carrara",
-      "our_tip": "MEL by 16",
+      "our_tip": "MEL by 17",
       "upset_call": "GCS LIVE at home",
       "reason": "GCS ODELO +15.0 HIGH vs MEL ODELO -13.1 at Carrara",
       "history": "11W-6L",
       "confidence_note": "Fortress +15.0 ODELO historically wins at high rate",
       "game_id": 38668,
-      "predicted_margin": 16,
+      "predicted_margin": 17,
       "predicted_winner": "Melbourne"
     },
     {
@@ -24,20 +24,20 @@
       "tier": "MODERATE",
       "game": "PTA vs GWS",
       "venue": "Adelaide Oval",
-      "our_tip": "GWS by 8",
+      "our_tip": "GWS by 5",
       "upset_call": "PTA LIVE at home",
-      "reason": "PTA ODELO +9.8 HIGH vs GWS ODELO -28.9 at Adelaide Oval",
+      "reason": "PTA ODELO +9.7 HIGH vs GWS ODELO -28.9 at Adelaide Oval",
       "history": "11W-13L",
-      "confidence_note": "Fortress +9.8 ODELO historically wins at high rate",
+      "confidence_note": "Fortress +9.7 ODELO historically wins at high rate",
       "game_id": 38672,
-      "predicted_margin": 8,
+      "predicted_margin": 5,
       "predicted_winner": "Greater Western Sydney"
     }
   ],
   "content_pack": {
     "headline": "Round 21 Upset Watch: GCS vs MEL \u2014 GCS LIVE at home",
-    "tweet": "Round 21 Pattern Alert\n\nGCS vs MEL: GCS LIVE at home\n\nWhy: GCS ODELO +15.0 HIGH vs MEL ODELO -13.1 at Carrara\n\nConsensus: MEL by 16\nOur read: STRONG confidence",
-    "email_section": "### 1. GCS vs MEL \u2014 GCS LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** GCS ODELO +15.0 HIGH vs MEL ODELO -13.1 at Carrara\n### 2. PTA vs GWS \u2014 PTA LIVE at home\n**Pattern:** FORTRESS_UPSET (MODERATE)\n**Why:** PTA ODELO +9.8 HIGH vs GWS ODELO -28.9 at Adelaide Oval",
+    "tweet": "Round 21 Pattern Alert\n\nGCS vs MEL: GCS LIVE at home\n\nWhy: GCS ODELO +15.0 HIGH vs MEL ODELO -13.1 at Carrara\n\nConsensus: MEL by 17\nOur read: STRONG confidence",
+    "email_section": "### 1. GCS vs MEL \u2014 GCS LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** GCS ODELO +15.0 HIGH vs MEL ODELO -13.1 at Carrara\n### 2. PTA vs GWS \u2014 PTA LIVE at home\n**Pattern:** FORTRESS_UPSET (MODERATE)\n**Why:** PTA ODELO +9.7 HIGH vs GWS ODELO -28.9 at Adelaide Oval",
     "video_hook": "Round 21 has one game I can't stop thinking about. GCS vs MEL at Carrara. GCS LIVE at home.",
     "all_alerts_short": [
       "GCS vs MEL: GCS LIVE at home (FORTRESS_UPSET, STRONG)",

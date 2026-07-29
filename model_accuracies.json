@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "last_updated": "2026-07-27T12:26:29.822217",
+  "last_updated": "2026-07-29T11:27:36.803851",
   "total_models": 31,
   "models": [
     {
@@ -76,7 +76,7 @@
     {
       "name": "Informed Stats",
       "accuracy": 73.1,
-      "mae": 25.4,
+      "mae": 25.3,
       "tips_total": 171,
       "tips_correct": 125
     },
