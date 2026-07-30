@@ -1,6 +1,6 @@
 {
   "round": 21,
-  "generated_at": "2026-07-30T09:20:07.100461",
+  "generated_at": "2026-07-30T11:09:30.071396",
   "alert_count": 2,
   "alerts": [
     {
@@ -24,13 +24,13 @@
       "tier": "MODERATE",
       "game": "PTA vs GWS",
       "venue": "Adelaide Oval",
-      "our_tip": "GWS by 5",
+      "our_tip": "GWS by 4",
       "upset_call": "PTA LIVE at home",
       "reason": "PTA ODELO +9.7 HIGH vs GWS ODELO -28.9 at Adelaide Oval",
       "history": "11W-13L",
       "confidence_note": "Fortress +9.7 ODELO historically wins at high rate",
       "game_id": 38672,
-      "predicted_margin": 5,
+      "predicted_margin": 4,
       "predicted_winner": "Greater Western Sydney"
     }
   ],
