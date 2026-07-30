@@ -2905,5 +2905,22 @@
     "correct": true,
     "margin_error": 7,
     "scored_at": "2026-07-26T14:52:10.587220"
+  },
+  {
+    "game_id": 38666,
+    "round": 21,
+    "season": 2026,
+    "home_team": "Collingwood",
+    "away_team": "Geelong",
+    "predicted_winner": "Geelong",
+    "predicted_margin": 3,
+    "predicted_tier": 4,
+    "actual_winner": "Geelong",
+    "actual_margin": 25,
+    "actual_home_score": 72,
+    "actual_away_score": 97,
+    "correct": true,
+    "margin_error": 22,
+    "scored_at": "2026-07-30T15:43:15.957780"
   }
 ]
