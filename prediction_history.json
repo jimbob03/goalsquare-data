@@ -2922,5 +2922,22 @@
     "correct": true,
     "margin_error": 22,
     "scored_at": "2026-07-30T15:43:15.957780"
+  },
+  {
+    "game_id": 38673,
+    "round": 21,
+    "season": 2026,
+    "home_team": "Fremantle",
+    "away_team": "Western Bulldogs",
+    "predicted_winner": "Fremantle",
+    "predicted_margin": 44,
+    "predicted_tier": 1,
+    "actual_winner": "Fremantle",
+    "actual_margin": 37,
+    "actual_home_score": 78,
+    "actual_away_score": 41,
+    "correct": true,
+    "margin_error": 7,
+    "scored_at": "2026-07-31T15:48:50.161793"
   }
 ]
