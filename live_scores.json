@@ -1,15 +1,15 @@
 {
   "round": 21,
   "season": 2026,
-  "last_checked": "2026-08-01T11:04:53.531950",
+  "last_checked": "2026-08-01T12:11:57.534653",
   "summary": {
-    "correct": 4,
-    "total_scored": 4,
+    "correct": 5,
+    "total_scored": 5,
     "total_games": 9,
     "accuracy": 100.0,
-    "mae": 17.5,
-    "games_live": 2,
-    "games_completed": 4,
+    "mae": 15.6,
+    "games_live": 1,
+    "games_completed": 5,
     "games_upcoming": 3
   },
   "games": [
@@ -115,13 +115,13 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.56,
-      "status": "live",
-      "actual_home_score": 62,
+      "status": "completed",
+      "actual_home_score": 63,
       "actual_away_score": 75,
       "actual_winner": "Greater Western Sydney",
-      "actual_margin": -13,
+      "actual_margin": -12,
       "correct": true,
-      "margin_error": null
+      "margin_error": 8
     },
     {
       "game_id": 38665,
@@ -138,10 +138,10 @@
       "tier_name": "Strong",
       "win_probability": 0.86,
       "status": "live",
-      "actual_home_score": 79,
-      "actual_away_score": 61,
+      "actual_home_score": 135,
+      "actual_away_score": 77,
       "actual_winner": "Carlton",
-      "actual_margin": 18,
+      "actual_margin": 58,
       "correct": false,
       "margin_error": null
     },
