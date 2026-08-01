@@ -1,16 +1,16 @@
 {
   "round": 21,
   "season": 2026,
-  "last_checked": "2026-07-31T15:27:43.226563",
+  "last_checked": "2026-08-01T05:21:24.213624",
   "summary": {
     "correct": 2,
     "total_scored": 2,
     "total_games": 9,
     "accuracy": 100.0,
     "mae": 14.5,
-    "games_live": 0,
+    "games_live": 2,
     "games_completed": 2,
-    "games_upcoming": 7
+    "games_upcoming": 5
   },
   "games": [
     {
@@ -71,12 +71,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.7,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 74,
+      "actual_away_score": 70,
+      "actual_winner": "St Kilda",
+      "actual_margin": 4,
+      "correct": false,
       "margin_error": null
     },
     {
@@ -93,12 +93,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 67,
+      "actual_away_score": 56,
+      "actual_winner": "Hawthorn",
+      "actual_margin": 11,
+      "correct": true,
       "margin_error": null
     },
     {
