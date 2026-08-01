@@ -1,16 +1,16 @@
 {
   "round": 21,
   "season": 2026,
-  "last_checked": "2026-08-01T09:34:44.841397",
+  "last_checked": "2026-08-01T11:04:53.531950",
   "summary": {
     "correct": 4,
     "total_scored": 4,
     "total_games": 9,
     "accuracy": 100.0,
     "mae": 17.5,
-    "games_live": 1,
+    "games_live": 2,
     "games_completed": 4,
-    "games_upcoming": 4
+    "games_upcoming": 3
   },
   "games": [
     {
@@ -116,11 +116,11 @@
       "tier_name": "Lean",
       "win_probability": 0.56,
       "status": "live",
-      "actual_home_score": 40,
-      "actual_away_score": 28,
-      "actual_winner": "Port Adelaide",
-      "actual_margin": 12,
-      "correct": false,
+      "actual_home_score": 62,
+      "actual_away_score": 75,
+      "actual_winner": "Greater Western Sydney",
+      "actual_margin": -13,
+      "correct": true,
       "margin_error": null
     },
     {
@@ -137,12 +137,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.86,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 79,
+      "actual_away_score": 61,
+      "actual_winner": "Carlton",
+      "actual_margin": 18,
+      "correct": false,
       "margin_error": null
     },
     {
@@ -176,8 +176,8 @@
       "venue": "Carrara",
       "predicted_winner": "Melbourne",
       "predicted_margin": 16,
-      "predicted_home_score": 84,
-      "predicted_away_score": 100,
+      "predicted_home_score": 85,
+      "predicted_away_score": 101,
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.64,
@@ -197,8 +197,8 @@
       "away_code": "ADE",
       "venue": "Docklands",
       "predicted_winner": "Adelaide",
-      "predicted_margin": 42,
-      "predicted_home_score": 72,
+      "predicted_margin": 43,
+      "predicted_home_score": 71,
       "predicted_away_score": 114,
       "tier": 1,
       "tier_name": "Lock",
