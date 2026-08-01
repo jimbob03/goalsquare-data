@@ -1,15 +1,15 @@
 {
   "round": 21,
   "season": 2026,
-  "last_checked": "2026-08-01T12:11:57.534653",
+  "last_checked": "2026-08-01T13:54:07.409640",
   "summary": {
     "correct": 5,
-    "total_scored": 5,
+    "total_scored": 6,
     "total_games": 9,
-    "accuracy": 100.0,
-    "mae": 15.6,
-    "games_live": 1,
-    "games_completed": 5,
+    "accuracy": 83.3,
+    "mae": 29.7,
+    "games_live": 0,
+    "games_completed": 6,
     "games_upcoming": 3
   },
   "games": [
@@ -137,13 +137,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.86,
-      "status": "live",
-      "actual_home_score": 135,
-      "actual_away_score": 77,
+      "status": "completed",
+      "actual_home_score": 154,
+      "actual_away_score": 78,
       "actual_winner": "Carlton",
-      "actual_margin": 58,
+      "actual_margin": 76,
       "correct": false,
-      "margin_error": null
+      "margin_error": 100
     },
     {
       "game_id": 38670,
