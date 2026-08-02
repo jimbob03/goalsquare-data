@@ -1,16 +1,16 @@
 {
   "round": 21,
   "season": 2026,
-  "last_checked": "2026-08-01T13:54:07.409640",
+  "last_checked": "2026-08-02T05:21:15.277345",
   "summary": {
     "correct": 5,
     "total_scored": 6,
     "total_games": 9,
     "accuracy": 83.3,
     "mae": 29.7,
-    "games_live": 0,
+    "games_live": 2,
     "games_completed": 6,
-    "games_upcoming": 3
+    "games_upcoming": 1
   },
   "games": [
     {
@@ -159,12 +159,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.68,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 72,
+      "actual_away_score": 48,
+      "actual_winner": "Richmond",
+      "actual_margin": 24,
+      "correct": false,
       "margin_error": null
     },
     {
@@ -181,11 +181,11 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.64,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
+      "status": "live",
+      "actual_home_score": 6,
+      "actual_away_score": 6,
+      "actual_winner": "Tied",
+      "actual_margin": 0,
       "correct": null,
       "margin_error": null
     },
