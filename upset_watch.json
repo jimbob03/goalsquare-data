@@ -1,6 +1,6 @@
 {
   "round": 22,
-  "generated_at": "2026-08-05T11:22:51.185038",
+  "generated_at": "2026-08-06T09:07:14.716946",
   "alert_count": 1,
   "alerts": [
     {
@@ -9,19 +9,19 @@
       "tier": "STRONG",
       "game": "BRI vs HAW",
       "venue": "Gabba",
-      "our_tip": "HAW by 4",
+      "our_tip": "HAW by 5",
       "upset_call": "BRI LIVE at home",
       "reason": "BRI ODELO +11.0 HIGH vs HAW ODELO -24.5 at Gabba",
       "history": "14W-7L",
       "confidence_note": "BRI +7.2 HIGH at Gabba",
       "game_id": 38674,
-      "predicted_margin": 4,
+      "predicted_margin": 5,
       "predicted_winner": "Hawthorn"
     }
   ],
   "content_pack": {
     "headline": "Round 22 Upset Watch: BRI vs HAW \u2014 BRI LIVE at home",
-    "tweet": "Round 22 Pattern Alert\n\nBRI vs HAW: BRI LIVE at home\n\nWhy: BRI ODELO +11.0 HIGH vs HAW ODELO -24.5 at Gabba\n\nConsensus: HAW by 4\nOur read: STRONG confidence",
+    "tweet": "Round 22 Pattern Alert\n\nBRI vs HAW: BRI LIVE at home\n\nWhy: BRI ODELO +11.0 HIGH vs HAW ODELO -24.5 at Gabba\n\nConsensus: HAW by 5\nOur read: STRONG confidence",
     "email_section": "### 1. BRI vs HAW \u2014 BRI LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** BRI ODELO +11.0 HIGH vs HAW ODELO -24.5 at Gabba",
     "video_hook": "Round 22 has one game I can't stop thinking about. BRI vs HAW at Gabba. BRI LIVE at home.",
     "all_alerts_short": [
