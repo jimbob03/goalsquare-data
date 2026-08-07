@@ -3058,5 +3058,39 @@
     "correct": true,
     "margin_error": 29,
     "scored_at": "2026-08-02T14:50:06.503974"
+  },
+  {
+    "game_id": 38680,
+    "round": 22,
+    "season": 2026,
+    "home_team": "Western Bulldogs",
+    "away_team": "North Melbourne",
+    "predicted_winner": "Western Bulldogs",
+    "predicted_margin": 29,
+    "predicted_tier": 1,
+    "actual_winner": "North Melbourne",
+    "actual_margin": 23,
+    "actual_home_score": 77,
+    "actual_away_score": 100,
+    "correct": false,
+    "margin_error": 52,
+    "scored_at": "2026-08-07T14:40:52.762469"
+  },
+  {
+    "game_id": 38674,
+    "round": 22,
+    "season": 2026,
+    "home_team": "Brisbane Lions",
+    "away_team": "Hawthorn",
+    "predicted_winner": "Hawthorn",
+    "predicted_margin": 5,
+    "predicted_tier": 3,
+    "actual_winner": "Brisbane Lions",
+    "actual_margin": 67,
+    "actual_home_score": 125,
+    "actual_away_score": 58,
+    "correct": false,
+    "margin_error": 72,
+    "scored_at": "2026-08-07T14:40:52.762484"
   }
 ]
