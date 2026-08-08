@@ -1,7 +1,7 @@
 {
   "round": 22,
   "season": 2026,
-  "last_checked": "2026-08-08T10:49:16.457895",
+  "last_checked": "2026-08-08T11:21:44.934207",
   "summary": {
     "correct": 2,
     "total_scored": 5,
@@ -138,11 +138,11 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 29,
-      "actual_away_score": 28,
-      "actual_winner": "Adelaide",
-      "actual_margin": 1,
-      "correct": true,
+      "actual_home_score": 37,
+      "actual_away_score": 44,
+      "actual_winner": "Richmond",
+      "actual_margin": -7,
+      "correct": false,
       "margin_error": null
     },
     {
