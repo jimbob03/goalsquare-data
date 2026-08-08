@@ -1,15 +1,15 @@
 {
   "round": 22,
   "season": 2026,
-  "last_checked": "2026-08-08T08:46:51.787341",
+  "last_checked": "2026-08-08T09:30:40.282219",
   "summary": {
-    "correct": 0,
-    "total_scored": 3,
+    "correct": 2,
+    "total_scored": 5,
     "total_games": 9,
-    "accuracy": 0.0,
-    "mae": 50.0,
-    "games_live": 2,
-    "games_completed": 3,
+    "accuracy": 40.0,
+    "mae": 41.2,
+    "games_live": 0,
+    "games_completed": 5,
     "games_upcoming": 4
   },
   "games": [
@@ -93,13 +93,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 143,
-      "actual_away_score": 64,
+      "status": "completed",
+      "actual_home_score": 167,
+      "actual_away_score": 70,
       "actual_winner": "Sydney",
-      "actual_margin": 79,
+      "actual_margin": 97,
       "correct": true,
-      "margin_error": null
+      "margin_error": 51
     },
     {
       "game_id": 38675,
@@ -115,13 +115,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 89,
-      "actual_away_score": 49,
+      "status": "completed",
+      "actual_home_score": 117,
+      "actual_away_score": 50,
       "actual_winner": "Geelong",
-      "actual_margin": 40,
+      "actual_margin": 67,
       "correct": true,
-      "margin_error": null
+      "margin_error": 5
     },
     {
       "game_id": 38681,
