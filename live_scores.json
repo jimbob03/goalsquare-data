@@ -1,15 +1,15 @@
 {
   "round": 22,
   "season": 2026,
-  "last_checked": "2026-08-08T11:51:36.002551",
+  "last_checked": "2026-08-08T12:33:41.953773",
   "summary": {
-    "correct": 2,
-    "total_scored": 5,
+    "correct": 3,
+    "total_scored": 6,
     "total_games": 9,
-    "accuracy": 40.0,
-    "mae": 41.2,
-    "games_live": 1,
-    "games_completed": 5,
+    "accuracy": 50.0,
+    "mae": 42.5,
+    "games_live": 0,
+    "games_completed": 6,
     "games_upcoming": 3
   },
   "games": [
@@ -137,13 +137,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 56,
-      "actual_away_score": 51,
+      "status": "completed",
+      "actual_home_score": 63,
+      "actual_away_score": 54,
       "actual_winner": "Adelaide",
-      "actual_margin": 5,
+      "actual_margin": 9,
       "correct": true,
-      "margin_error": null
+      "margin_error": 49
     },
     {
       "game_id": 38676,
