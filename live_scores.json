@@ -1,7 +1,7 @@
 {
   "round": 22,
   "season": 2026,
-  "last_checked": "2026-08-08T03:18:40.278312",
+  "last_checked": "2026-08-08T04:33:30.512842",
   "summary": {
     "correct": 0,
     "total_scored": 2,
@@ -72,10 +72,10 @@
       "tier_name": "Strong",
       "win_probability": 0.83,
       "status": "live",
-      "actual_home_score": 0,
-      "actual_away_score": 6,
+      "actual_home_score": 65,
+      "actual_away_score": 68,
       "actual_winner": "Fremantle",
-      "actual_margin": -6,
+      "actual_margin": -3,
       "correct": true,
       "margin_error": null
     },
