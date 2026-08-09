@@ -1,7 +1,7 @@
 {
   "round": 22,
   "season": 2026,
-  "last_checked": "2026-08-09T03:27:07.262184",
+  "last_checked": "2026-08-09T04:45:51.183966",
   "summary": {
     "correct": 3,
     "total_scored": 6,
@@ -160,10 +160,10 @@
       "tier_name": "Strong",
       "win_probability": 0.83,
       "status": "live",
-      "actual_home_score": 8,
-      "actual_away_score": 9,
+      "actual_home_score": 31,
+      "actual_away_score": 41,
       "actual_winner": "Gold Coast",
-      "actual_margin": -1,
+      "actual_margin": -10,
       "correct": false,
       "margin_error": null
     },
