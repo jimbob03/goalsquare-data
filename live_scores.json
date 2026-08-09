@@ -1,16 +1,16 @@
 {
   "round": 22,
   "season": 2026,
-  "last_checked": "2026-08-09T05:42:10.279627",
+  "last_checked": "2026-08-09T06:28:48.040049",
   "summary": {
     "correct": 3,
-    "total_scored": 6,
+    "total_scored": 7,
     "total_games": 9,
-    "accuracy": 50.0,
-    "mae": 42.5,
+    "accuracy": 42.9,
+    "mae": 39.9,
     "games_live": 1,
-    "games_completed": 6,
-    "games_upcoming": 2
+    "games_completed": 7,
+    "games_upcoming": 1
   },
   "games": [
     {
@@ -159,13 +159,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.83,
-      "status": "live",
-      "actual_home_score": 70,
-      "actual_away_score": 76,
+      "status": "completed",
+      "actual_home_score": 77,
+      "actual_away_score": 79,
       "actual_winner": "Gold Coast",
-      "actual_margin": -6,
+      "actual_margin": -2,
       "correct": false,
-      "margin_error": null
+      "margin_error": 24
     },
     {
       "game_id": 38682,
@@ -181,12 +181,12 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 18,
+      "actual_away_score": 25,
+      "actual_winner": "Collingwood",
+      "actual_margin": -7,
+      "correct": true,
       "margin_error": null
     },
     {
