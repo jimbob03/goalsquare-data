@@ -1,16 +1,16 @@
 {
   "round": 22,
   "season": 2026,
-  "last_checked": "2026-08-09T09:09:36.550346",
+  "last_checked": "2026-08-09T09:54:14.489118",
   "summary": {
     "correct": 4,
     "total_scored": 8,
     "total_games": 9,
     "accuracy": 50.0,
     "mae": 36.6,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 8,
-    "games_upcoming": 1
+    "games_upcoming": 0
   },
   "games": [
     {
@@ -203,12 +203,12 @@
       "tier": 4,
       "tier_name": "Coin Flip",
       "win_probability": 0.52,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 8,
+      "actual_away_score": 21,
+      "actual_winner": "Carlton",
+      "actual_margin": -13,
+      "correct": false,
       "margin_error": null
     }
   ]
