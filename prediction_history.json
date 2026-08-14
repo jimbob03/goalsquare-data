@@ -3211,5 +3211,22 @@
     "correct": false,
     "margin_error": 45,
     "scored_at": "2026-08-09T14:20:27.345535"
+  },
+  {
+    "game_id": 38691,
+    "round": 23,
+    "season": 2026,
+    "home_team": "Fremantle",
+    "away_team": "Adelaide",
+    "predicted_winner": "Fremantle",
+    "predicted_margin": 31,
+    "predicted_tier": 1,
+    "actual_winner": "Fremantle",
+    "actual_margin": 24,
+    "actual_home_score": 112,
+    "actual_away_score": 88,
+    "correct": true,
+    "margin_error": 7,
+    "scored_at": "2026-08-14T14:40:35.525288"
   }
 ]
