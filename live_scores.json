@@ -1,15 +1,15 @@
 {
   "round": 23,
   "season": 2026,
-  "last_checked": "2026-08-15T08:19:35.154107",
+  "last_checked": "2026-08-15T08:53:02.579894",
   "summary": {
-    "correct": 2,
-    "total_scored": 2,
+    "correct": 4,
+    "total_scored": 4,
     "total_games": 9,
     "accuracy": 100.0,
-    "mae": 10.5,
-    "games_live": 2,
-    "games_completed": 2,
+    "mae": 11.0,
+    "games_live": 0,
+    "games_completed": 4,
     "games_upcoming": 5
   },
   "games": [
@@ -71,13 +71,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 103,
-      "actual_away_score": 118,
+      "status": "completed",
+      "actual_home_score": 110,
+      "actual_away_score": 125,
       "actual_winner": "Geelong",
       "actual_margin": -15,
       "correct": true,
-      "margin_error": null
+      "margin_error": 20
     },
     {
       "game_id": 38683,
@@ -93,13 +93,13 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "live",
-      "actual_home_score": 70,
-      "actual_away_score": 41,
+      "status": "completed",
+      "actual_home_score": 95,
+      "actual_away_score": 53,
       "actual_winner": "Brisbane Lions",
-      "actual_margin": 29,
+      "actual_margin": 42,
       "correct": true,
-      "margin_error": null
+      "margin_error": 3
     },
     {
       "game_id": 38686,
