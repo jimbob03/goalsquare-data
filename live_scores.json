@@ -1,7 +1,7 @@
 {
   "round": 23,
   "season": 2026,
-  "last_checked": "2026-08-15T06:43:37.986962",
+  "last_checked": "2026-08-15T07:16:31.681802",
   "summary": {
     "correct": 2,
     "total_scored": 2,
@@ -72,11 +72,11 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 45,
-      "actual_away_score": 38,
-      "actual_winner": "North Melbourne",
-      "actual_margin": 7,
-      "correct": false,
+      "actual_home_score": 57,
+      "actual_away_score": 64,
+      "actual_winner": "Geelong",
+      "actual_margin": -7,
+      "correct": true,
       "margin_error": null
     },
     {
@@ -94,11 +94,11 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 14,
-      "actual_away_score": 15,
-      "actual_winner": "Gold Coast",
-      "actual_margin": -1,
-      "correct": false,
+      "actual_home_score": 30,
+      "actual_away_score": 19,
+      "actual_winner": "Brisbane Lions",
+      "actual_margin": 11,
+      "correct": true,
       "margin_error": null
     },
     {
