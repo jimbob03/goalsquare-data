@@ -1,15 +1,15 @@
 {
   "round": 23,
   "season": 2026,
-  "last_checked": "2026-08-15T11:55:16.057326",
+  "last_checked": "2026-08-15T12:24:08.997292",
   "summary": {
     "correct": 4,
-    "total_scored": 4,
+    "total_scored": 5,
     "total_games": 9,
-    "accuracy": 100.0,
-    "mae": 11.0,
-    "games_live": 2,
-    "games_completed": 4,
+    "accuracy": 80.0,
+    "mae": 12.6,
+    "games_live": 1,
+    "games_completed": 5,
     "games_upcoming": 3
   },
   "games": [
@@ -115,13 +115,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.78,
-      "status": "live",
-      "actual_home_score": 78,
-      "actual_away_score": 70,
-      "actual_winner": "Hawthorn",
-      "actual_margin": 8,
-      "correct": true,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 92,
+      "actual_away_score": 92,
+      "actual_winner": "Draw",
+      "actual_margin": 0,
+      "correct": false,
+      "margin_error": 19
     },
     {
       "game_id": 38690,
@@ -138,10 +138,10 @@
       "tier_name": "Strong",
       "win_probability": 0.86,
       "status": "live",
-      "actual_home_score": 28,
-      "actual_away_score": 82,
+      "actual_home_score": 49,
+      "actual_away_score": 107,
       "actual_winner": "Melbourne",
-      "actual_margin": -54,
+      "actual_margin": -58,
       "correct": true,
       "margin_error": null
     },
