@@ -1,7 +1,7 @@
 {
   "round": 23,
   "season": 2026,
-  "last_checked": "2026-08-15T04:45:09.394628",
+  "last_checked": "2026-08-15T05:03:54.109357",
   "summary": {
     "correct": 1,
     "total_scored": 1,
@@ -50,10 +50,10 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 33,
-      "actual_away_score": 81,
+      "actual_home_score": 39,
+      "actual_away_score": 94,
       "actual_winner": "St Kilda",
-      "actual_margin": -48,
+      "actual_margin": -55,
       "correct": true,
       "margin_error": null
     },
