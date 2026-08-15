@@ -1,15 +1,15 @@
 {
   "round": 23,
   "season": 2026,
-  "last_checked": "2026-08-15T12:24:08.997292",
+  "last_checked": "2026-08-15T13:06:16.581198",
   "summary": {
-    "correct": 4,
-    "total_scored": 5,
+    "correct": 5,
+    "total_scored": 6,
     "total_games": 9,
-    "accuracy": 80.0,
-    "mae": 12.6,
-    "games_live": 1,
-    "games_completed": 5,
+    "accuracy": 83.3,
+    "mae": 19.2,
+    "games_live": 0,
+    "games_completed": 6,
     "games_upcoming": 3
   },
   "games": [
@@ -137,13 +137,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.86,
-      "status": "live",
-      "actual_home_score": 49,
-      "actual_away_score": 107,
+      "status": "completed",
+      "actual_home_score": 56,
+      "actual_away_score": 132,
       "actual_winner": "Melbourne",
-      "actual_margin": -58,
+      "actual_margin": -76,
       "correct": true,
-      "margin_error": null
+      "margin_error": 52
     },
     {
       "game_id": 38685,
