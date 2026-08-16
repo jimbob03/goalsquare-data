@@ -1,7 +1,7 @@
 {
   "round": 23,
   "season": 2026,
-  "last_checked": "2026-08-16T04:19:54.085700",
+  "last_checked": "2026-08-16T04:58:22.195004",
   "summary": {
     "correct": 5,
     "total_scored": 6,
@@ -160,10 +160,10 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 32,
-      "actual_away_score": 31,
+      "actual_home_score": 70,
+      "actual_away_score": 36,
       "actual_winner": "Greater Western Sydney",
-      "actual_margin": 1,
+      "actual_margin": 34,
       "correct": true,
       "margin_error": null
     },
