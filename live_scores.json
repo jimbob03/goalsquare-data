@@ -1,7 +1,7 @@
 {
   "round": 23,
   "season": 2026,
-  "last_checked": "2026-08-16T05:29:32.069862",
+  "last_checked": "2026-08-16T05:55:01.559626",
   "summary": {
     "correct": 5,
     "total_scored": 6,
@@ -160,10 +160,10 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 78,
-      "actual_away_score": 38,
+      "actual_home_score": 88,
+      "actual_away_score": 47,
       "actual_winner": "Greater Western Sydney",
-      "actual_margin": 40,
+      "actual_margin": 41,
       "correct": true,
       "margin_error": null
     },
@@ -182,10 +182,10 @@
       "tier_name": "Strong",
       "win_probability": 0.78,
       "status": "live",
-      "actual_home_score": 13,
-      "actual_away_score": 14,
+      "actual_home_score": 20,
+      "actual_away_score": 33,
       "actual_winner": "Carlton",
-      "actual_margin": -1,
+      "actual_margin": -13,
       "correct": true,
       "margin_error": null
     },
