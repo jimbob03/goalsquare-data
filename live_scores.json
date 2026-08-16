@@ -1,16 +1,16 @@
 {
   "round": 23,
   "season": 2026,
-  "last_checked": "2026-08-16T02:53:26.765825",
+  "last_checked": "2026-08-16T03:41:45.640592",
   "summary": {
     "correct": 5,
     "total_scored": 6,
     "total_games": 9,
     "accuracy": 83.3,
     "mae": 19.2,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 6,
-    "games_upcoming": 3
+    "games_upcoming": 2
   },
   "games": [
     {
@@ -159,11 +159,11 @@
       "tier": 1,
       "tier_name": "Lock",
       "win_probability": 0.97,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
+      "status": "live",
+      "actual_home_score": 0,
+      "actual_away_score": 0,
+      "actual_winner": "Tied",
+      "actual_margin": 0,
       "correct": null,
       "margin_error": null
     },
