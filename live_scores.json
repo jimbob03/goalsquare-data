@@ -1,15 +1,15 @@
 {
   "round": 23,
   "season": 2026,
-  "last_checked": "2026-08-16T07:43:32.185013",
+  "last_checked": "2026-08-16T08:44:58.150819",
   "summary": {
     "correct": 6,
-    "total_scored": 7,
+    "total_scored": 8,
     "total_games": 9,
-    "accuracy": 85.7,
-    "mae": 17.3,
-    "games_live": 2,
-    "games_completed": 7,
+    "accuracy": 75.0,
+    "mae": 17.4,
+    "games_live": 1,
+    "games_completed": 8,
     "games_upcoming": 0
   },
   "games": [
@@ -181,13 +181,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.78,
-      "status": "live",
+      "status": "completed",
       "actual_home_score": 82,
-      "actual_away_score": 76,
-      "actual_winner": "Western Bulldogs",
-      "actual_margin": 6,
+      "actual_away_score": 82,
+      "actual_winner": "Draw",
+      "actual_margin": 0,
       "correct": false,
-      "margin_error": null
+      "margin_error": 18
     },
     {
       "game_id": 38684,
@@ -204,10 +204,10 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 37,
-      "actual_away_score": 70,
+      "actual_home_score": 61,
+      "actual_away_score": 87,
       "actual_winner": "Sydney",
-      "actual_margin": -33,
+      "actual_margin": -26,
       "correct": true,
       "margin_error": null
     }
