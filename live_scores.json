@@ -1,7 +1,7 @@
 {
   "round": 23,
   "season": 2026,
-  "last_checked": "2026-08-16T08:44:58.150819",
+  "last_checked": "2026-08-16T09:05:31.647190",
   "summary": {
     "correct": 6,
     "total_scored": 8,
@@ -204,10 +204,10 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 61,
-      "actual_away_score": 87,
+      "actual_home_score": 63,
+      "actual_away_score": 106,
       "actual_winner": "Sydney",
-      "actual_margin": -26,
+      "actual_margin": -43,
       "correct": true,
       "margin_error": null
     }
