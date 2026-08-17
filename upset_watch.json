@@ -1,6 +1,6 @@
 {
   "round": 24,
-  "generated_at": "2026-08-16T09:30:04.649752",
+  "generated_at": "2026-08-17T09:44:24.026201",
   "alert_count": 1,
   "alerts": [
     {
@@ -9,19 +9,19 @@
       "tier": "STRONG",
       "game": "CAR vs FRE",
       "venue": "Docklands",
-      "our_tip": "FRE by 19",
+      "our_tip": "FRE by 20",
       "upset_call": "CAR LIVE at home",
       "reason": "CAR ODELO +18.1 HIGH vs FRE ODELO -25.0 at Docklands",
       "history": "7W-7L",
       "confidence_note": "Fortress +18.1 ODELO historically wins at high rate",
       "game_id": 38693,
-      "predicted_margin": 19,
+      "predicted_margin": 20,
       "predicted_winner": "Fremantle"
     }
   ],
   "content_pack": {
     "headline": "Round 24 Upset Watch: CAR vs FRE \u2014 CAR LIVE at home",
-    "tweet": "Round 24 Pattern Alert\n\nCAR vs FRE: CAR LIVE at home\n\nWhy: CAR ODELO +18.1 HIGH vs FRE ODELO -25.0 at Docklands\n\nConsensus: FRE by 19\nOur read: STRONG confidence",
+    "tweet": "Round 24 Pattern Alert\n\nCAR vs FRE: CAR LIVE at home\n\nWhy: CAR ODELO +18.1 HIGH vs FRE ODELO -25.0 at Docklands\n\nConsensus: FRE by 20\nOur read: STRONG confidence",
     "email_section": "### 1. CAR vs FRE \u2014 CAR LIVE at home\n**Pattern:** FORTRESS_UPSET (STRONG)\n**Why:** CAR ODELO +18.1 HIGH vs FRE ODELO -25.0 at Docklands",
     "video_hook": "Round 24 has one game I can't stop thinking about. CAR vs FRE at Docklands. CAR LIVE at home.",
     "all_alerts_short": [
