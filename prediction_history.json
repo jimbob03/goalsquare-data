@@ -3364,5 +3364,22 @@
     "correct": true,
     "margin_error": 18,
     "scored_at": "2026-08-16T14:01:44.220480"
+  },
+  {
+    "game_id": 38697,
+    "round": 24,
+    "season": 2026,
+    "home_team": "St Kilda",
+    "away_team": "Gold Coast",
+    "predicted_winner": "St Kilda",
+    "predicted_margin": 24,
+    "predicted_tier": 1,
+    "actual_winner": "Gold Coast",
+    "actual_margin": 23,
+    "actual_home_score": 80,
+    "actual_away_score": 103,
+    "correct": false,
+    "margin_error": 47,
+    "scored_at": "2026-08-20T14:21:11.993437"
   }
 ]
