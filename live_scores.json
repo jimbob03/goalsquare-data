@@ -1,7 +1,7 @@
 {
   "round": 24,
   "season": 2026,
-  "last_checked": "2026-08-21T10:04:39.351333",
+  "last_checked": "2026-08-21T10:44:58.288413",
   "summary": {
     "correct": 0,
     "total_scored": 1,
@@ -50,10 +50,10 @@
       "tier_name": "Lean",
       "win_probability": 0.64,
       "status": "live",
-      "actual_home_score": 15,
-      "actual_away_score": 27,
+      "actual_home_score": 34,
+      "actual_away_score": 63,
       "actual_winner": "Brisbane Lions",
-      "actual_margin": -12,
+      "actual_margin": -29,
       "correct": true,
       "margin_error": null
     },
