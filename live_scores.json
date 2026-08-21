@@ -1,15 +1,15 @@
 {
   "round": 24,
   "season": 2026,
-  "last_checked": "2026-08-21T12:00:20.119482",
+  "last_checked": "2026-08-21T13:08:27.556397",
   "summary": {
-    "correct": 0,
-    "total_scored": 1,
+    "correct": 1,
+    "total_scored": 2,
     "total_games": 9,
-    "accuracy": 0.0,
-    "mae": 47.0,
-    "games_live": 1,
-    "games_completed": 1,
+    "accuracy": 50.0,
+    "mae": 46.5,
+    "games_live": 0,
+    "games_completed": 2,
     "games_upcoming": 7
   },
   "games": [
@@ -49,13 +49,13 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.64,
-      "status": "live",
-      "actual_home_score": 54,
-      "actual_away_score": 128,
+      "status": "completed",
+      "actual_home_score": 96,
+      "actual_away_score": 159,
       "actual_winner": "Brisbane Lions",
-      "actual_margin": -74,
+      "actual_margin": -63,
       "correct": true,
-      "margin_error": null
+      "margin_error": 46
     },
     {
       "game_id": 38693,
