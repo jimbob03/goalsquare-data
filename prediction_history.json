@@ -3381,5 +3381,22 @@
     "correct": false,
     "margin_error": 47,
     "scored_at": "2026-08-20T14:21:11.993437"
+  },
+  {
+    "game_id": 38692,
+    "round": 24,
+    "season": 2026,
+    "home_team": "Collingwood",
+    "away_team": "Brisbane Lions",
+    "predicted_winner": "Brisbane Lions",
+    "predicted_margin": 17,
+    "predicted_tier": 3,
+    "actual_winner": "Brisbane Lions",
+    "actual_margin": 63,
+    "actual_home_score": 96,
+    "actual_away_score": 159,
+    "correct": true,
+    "margin_error": 46,
+    "scored_at": "2026-08-21T14:19:33.207648"
   }
 ]
