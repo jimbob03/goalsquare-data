@@ -1,7 +1,7 @@
 {
   "round": 24,
   "season": 2026,
-  "last_checked": "2026-08-22T06:27:51.170767",
+  "last_checked": "2026-08-22T07:09:14.920053",
   "summary": {
     "correct": 1,
     "total_scored": 3,
@@ -94,10 +94,10 @@
       "tier_name": "Strong",
       "win_probability": 0.86,
       "status": "live",
-      "actual_home_score": 2,
-      "actual_away_score": 19,
+      "actual_home_score": 28,
+      "actual_away_score": 40,
       "actual_winner": "Western Bulldogs",
-      "actual_margin": -17,
+      "actual_margin": -12,
       "correct": false,
       "margin_error": null
     },
