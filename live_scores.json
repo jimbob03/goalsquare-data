@@ -1,7 +1,7 @@
 {
   "round": 24,
   "season": 2026,
-  "last_checked": "2026-08-23T09:40:34.315845",
+  "last_checked": "2026-08-23T09:58:21.490362",
   "summary": {
     "correct": 5,
     "total_scored": 8,
@@ -204,10 +204,10 @@
       "tier_name": "Lock",
       "win_probability": 0.97,
       "status": "live",
-      "actual_home_score": 7,
-      "actual_away_score": 25,
+      "actual_home_score": 8,
+      "actual_away_score": 37,
       "actual_winner": "Hawthorn",
-      "actual_margin": -18,
+      "actual_margin": -29,
       "correct": true,
       "margin_error": null
     }
