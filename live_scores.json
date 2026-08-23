@@ -1,15 +1,15 @@
 {
   "round": 24,
   "season": 2026,
-  "last_checked": "2026-08-23T04:29:36.057541",
+  "last_checked": "2026-08-23T05:02:34.342442",
   "summary": {
-    "correct": 3,
-    "total_scored": 6,
+    "correct": 4,
+    "total_scored": 7,
     "total_games": 9,
-    "accuracy": 50.0,
-    "mae": 39.5,
-    "games_live": 1,
-    "games_completed": 6,
+    "accuracy": 57.1,
+    "mae": 34.3,
+    "games_live": 0,
+    "games_completed": 7,
     "games_upcoming": 2
   },
   "games": [
@@ -159,13 +159,13 @@
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.57,
-      "status": "live",
-      "actual_home_score": 76,
-      "actual_away_score": 62,
-      "actual_winner": "Essendon",
-      "actual_margin": 14,
-      "correct": false,
-      "margin_error": null
+      "status": "completed",
+      "actual_home_score": 95,
+      "actual_away_score": 104,
+      "actual_winner": "Port Adelaide",
+      "actual_margin": -9,
+      "correct": true,
+      "margin_error": 3
     },
     {
       "game_id": 38698,
