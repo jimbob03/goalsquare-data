@@ -2,8 +2,8 @@
   "model_version": "5.2",
   "round": 25,
   "season": 2026,
-  "generated_at": "2026-08-24T09:50:47.835939",
-  "last_updated": "2026-08-24T09:50:47.835942",
+  "generated_at": "2026-08-26T09:44:30.017183",
+  "last_updated": "2026-08-26T09:44:30.017188",
   "data_sources": {
     "squiggle": true,
     "squiggle_weighted": true,
@@ -40,7 +40,7 @@
       "venue": "M.C.G.",
       "match_time": "Fri 28 Aug 7:40pm AEST",
       "ev_recommendation": "",
-      "key_factors": "Squiggle base: AWAY by 3.3pts (1% agreement) | Rule 53 BLEEDING: away -7.5pts (toward home) | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +10 home / +3 away = net +8 (cap 12) \u2192 applied +8 | Rule 42 dampener applied (loser stdev 34.3): \u00d70.90 PATTERN MATCH: score -98 (Strong Flagged) \u2014 0 supportive, 0 contrarian, 49 cautionary matches from 49 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
+      "key_factors": "Squiggle base: AWAY by 2.6pts (1% agreement) | Rule 53 BLEEDING: away -7.5pts (toward home) | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +10 home / +3 away = net +8 (cap 12) \u2192 applied +8 | Rule 42 dampener applied (loser stdev 34.3): \u00d70.90 PATTERN MATCH: score -98 (Strong Flagged) \u2014 0 supportive, 0 contrarian, 49 cautionary matches from 49 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
       "summary": "Western Bulldogs predicted to win by 4 points. Squiggle consensus 3pts, power rank gap 2pts.",
       "tldr": "Home by 4pts. Squiggle base 3. Power gap 2pts.",
       "injury_impact": "",
@@ -71,7 +71,7 @@
       "venue": "M.C.G.",
       "match_time": "Sat 29 Aug 7:35pm AEST",
       "ev_recommendation": "",
-      "key_factors": "Squiggle base: HOME by 4.4pts (1% agreement) | Rule 49: form gap -22.2 \u2192 +9pts toward away | Rule 51 HOT FORM T2: away +5pts | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +3 home / +17 away = net -14 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 35.4): \u00d70.90 | Rule 58 home xChain 82.4 >= 81.4 \u2192 tier upgraded to Strong | Rule 63 AWAY METRICS DAMPENER (2 signals) \u2192 Tier 3 PATTERN MATCH: score -64 (Strong Flagged) \u2014 0 supportive, 0 contrarian, 32 cautionary matches from 32 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
+      "key_factors": "Squiggle base: HOME by 4.0pts (1% agreement) | Rule 49: form gap -22.2 \u2192 +9pts toward away | Rule 51 HOT FORM T2: away +5pts | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +3 home / +17 away = net -14 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 35.4): \u00d70.90 | Rule 58 home xChain 82.4 >= 81.4 \u2192 tier upgraded to Strong | Rule 63 AWAY METRICS DAMPENER (2 signals) \u2192 Tier 3 PATTERN MATCH: score -70 (Strong Flagged) \u2014 0 supportive, 0 contrarian, 35 cautionary matches from 35 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
       "summary": "Carlton predicted to win by 7 points. Squiggle consensus 4pts, power rank gap 2pts.",
       "tldr": "Away by 7pts. Squiggle base 4. Power gap 2pts.",
       "injury_impact": "",
@@ -84,7 +84,7 @@
       "recent_margins_away": [],
       "blowout_risk": false,
       "locked": false,
-      "bookie_total": 173.5
+      "bookie_total": 172.5
     }
   ],
   "season_record": {
