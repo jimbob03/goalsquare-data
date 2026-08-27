@@ -1,7 +1,7 @@
 {
   "round": 25,
   "season": 2026,
-  "last_checked": "2026-08-26T14:04:10.560012",
+  "last_checked": "2026-08-27T12:14:06.586108",
   "summary": {
     "correct": 0,
     "total_scored": 0,
@@ -45,7 +45,7 @@
       "predicted_winner": "Carlton",
       "predicted_margin": 7,
       "predicted_home_score": 86,
-      "predicted_away_score": 93,
+      "predicted_away_score": 94,
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.6,
