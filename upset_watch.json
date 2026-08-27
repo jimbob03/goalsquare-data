@@ -1,6 +1,6 @@
 {
   "round": 25,
-  "generated_at": "2026-08-27T10:16:37.466392",
+  "generated_at": "2026-08-27T19:40:48.754941",
   "alert_count": 1,
   "alerts": [
     {
@@ -9,19 +9,19 @@
       "tier": "MODERATE",
       "game": "MEL vs CAR",
       "venue": "M.C.G.",
-      "our_tip": "CAR by 7",
+      "our_tip": "CAR by 8",
       "upset_call": "MEL LIVE at home",
       "reason": "MEL ODELO +8.3 HIGH vs CAR ODELO -12.4 at M.C.G.",
       "history": "14W-10L",
       "confidence_note": "MEL +18.0 HIGH - main home ground",
       "game_id": 38719,
-      "predicted_margin": 7,
+      "predicted_margin": 8,
       "predicted_winner": "Carlton"
     }
   ],
   "content_pack": {
     "headline": "Round 25 Upset Watch: MEL vs CAR \u2014 MEL LIVE at home",
-    "tweet": "Round 25 Pattern Alert\n\nMEL vs CAR: MEL LIVE at home\n\nWhy: MEL ODELO +8.3 HIGH vs CAR ODELO -12.4 at M.C.G.\n\nConsensus: CAR by 7\nOur read: MODERATE confidence",
+    "tweet": "Round 25 Pattern Alert\n\nMEL vs CAR: MEL LIVE at home\n\nWhy: MEL ODELO +8.3 HIGH vs CAR ODELO -12.4 at M.C.G.\n\nConsensus: CAR by 8\nOur read: MODERATE confidence",
     "email_section": "### 1. MEL vs CAR \u2014 MEL LIVE at home\n**Pattern:** FORTRESS_UPSET (MODERATE)\n**Why:** MEL ODELO +8.3 HIGH vs CAR ODELO -12.4 at M.C.G.",
     "video_hook": "Round 25 has one game I can't stop thinking about. MEL vs CAR at M.C.G.. MEL LIVE at home.",
     "all_alerts_short": [
