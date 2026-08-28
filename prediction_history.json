@@ -3517,5 +3517,22 @@
     "correct": true,
     "margin_error": 15,
     "scored_at": "2026-08-23T14:02:43.755298"
+  },
+  {
+    "game_id": 38720,
+    "round": 25,
+    "season": 2026,
+    "home_team": "Western Bulldogs",
+    "away_team": "Collingwood",
+    "predicted_winner": "Western Bulldogs",
+    "predicted_margin": 4,
+    "predicted_tier": 3,
+    "actual_winner": "Western Bulldogs",
+    "actual_margin": 3,
+    "actual_home_score": 96,
+    "actual_away_score": 93,
+    "correct": true,
+    "margin_error": 1,
+    "scored_at": "2026-08-28T23:13:31.276635"
   }
 ]
