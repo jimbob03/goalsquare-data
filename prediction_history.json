@@ -3534,5 +3534,22 @@
     "correct": true,
     "margin_error": 1,
     "scored_at": "2026-08-28T23:13:31.276635"
+  },
+  {
+    "game_id": 38719,
+    "round": 25,
+    "season": 2026,
+    "home_team": "Melbourne",
+    "away_team": "Carlton",
+    "predicted_winner": "Carlton",
+    "predicted_margin": 7,
+    "predicted_tier": 3,
+    "actual_winner": "Carlton",
+    "actual_margin": 19,
+    "actual_home_score": 55,
+    "actual_away_score": 74,
+    "correct": true,
+    "margin_error": 12,
+    "scored_at": "2026-08-29T17:24:09.490900"
   }
 ]
