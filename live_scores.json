@@ -1,15 +1,15 @@
 {
   "round": 26,
   "season": 2026,
-  "last_checked": "2026-09-04T11:55:20.655006",
+  "last_checked": "2026-09-04T15:35:30.982839",
   "summary": {
-    "correct": 0,
-    "total_scored": 1,
+    "correct": 1,
+    "total_scored": 2,
     "total_games": 4,
-    "accuracy": 0.0,
-    "mae": 54.0,
-    "games_live": 1,
-    "games_completed": 1,
+    "accuracy": 50.0,
+    "mae": 33.5,
+    "games_live": 0,
+    "games_completed": 2,
     "games_upcoming": 2
   },
   "games": [
@@ -49,13 +49,13 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.84,
-      "status": "live",
-      "actual_home_score": 80,
-      "actual_away_score": 50,
+      "status": "completed",
+      "actual_home_score": 107,
+      "actual_away_score": 74,
       "actual_winner": "Geelong",
-      "actual_margin": 30,
+      "actual_margin": 33,
       "correct": true,
-      "margin_error": null
+      "margin_error": 13
     },
     {
       "game_id": 38724,
@@ -87,8 +87,8 @@
       "away_code": "WBD",
       "venue": "Adelaide Oval",
       "predicted_winner": "Adelaide",
-      "predicted_margin": 27,
-      "predicted_home_score": 103,
+      "predicted_margin": 28,
+      "predicted_home_score": 104,
       "predicted_away_score": 76,
       "tier": 1,
       "tier_name": "Lock",
