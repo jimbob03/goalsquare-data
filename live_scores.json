@@ -1,16 +1,16 @@
 {
   "round": 26,
   "season": 2026,
-  "last_checked": "2026-09-04T06:49:09.356567",
+  "last_checked": "2026-09-04T11:55:20.655006",
   "summary": {
     "correct": 0,
     "total_scored": 1,
     "total_games": 4,
     "accuracy": 0.0,
     "mae": 54.0,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 1,
-    "games_upcoming": 3
+    "games_upcoming": 2
   },
   "games": [
     {
@@ -49,12 +49,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.84,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 80,
+      "actual_away_score": 50,
+      "actual_winner": "Geelong",
+      "actual_margin": 30,
+      "correct": true,
       "margin_error": null
     },
     {
