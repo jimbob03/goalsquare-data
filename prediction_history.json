@@ -3568,5 +3568,22 @@
     "correct": false,
     "margin_error": 54,
     "scored_at": "2026-09-03T17:17:25.804810"
+  },
+  {
+    "game_id": 38721,
+    "round": 26,
+    "season": 2026,
+    "home_team": "Geelong",
+    "away_team": "Carlton",
+    "predicted_winner": "Geelong",
+    "predicted_margin": 20,
+    "predicted_tier": 2,
+    "actual_winner": "Geelong",
+    "actual_margin": 33,
+    "actual_home_score": 107,
+    "actual_away_score": 74,
+    "correct": true,
+    "margin_error": 13,
+    "scored_at": "2026-09-04T17:07:58.957849"
   }
 ]
