@@ -3585,5 +3585,39 @@
     "correct": true,
     "margin_error": 13,
     "scored_at": "2026-09-04T17:07:58.957849"
+  },
+  {
+    "game_id": 38724,
+    "round": 26,
+    "season": 2026,
+    "home_team": "Sydney",
+    "away_team": "Brisbane Lions",
+    "predicted_winner": "Sydney",
+    "predicted_margin": 12,
+    "predicted_tier": 2,
+    "actual_winner": "Sydney",
+    "actual_margin": 53,
+    "actual_home_score": 141,
+    "actual_away_score": 88,
+    "correct": true,
+    "margin_error": 41,
+    "scored_at": "2026-09-05T16:17:26.289380"
+  },
+  {
+    "game_id": 38722,
+    "round": 26,
+    "season": 2026,
+    "home_team": "Adelaide",
+    "away_team": "Western Bulldogs",
+    "predicted_winner": "Adelaide",
+    "predicted_margin": 28,
+    "predicted_tier": 1,
+    "actual_winner": "Adelaide",
+    "actual_margin": 22,
+    "actual_home_score": 90,
+    "actual_away_score": 68,
+    "correct": true,
+    "margin_error": 6,
+    "scored_at": "2026-09-05T16:17:26.289393"
   }
 ]
