@@ -1,16 +1,16 @@
 {
   "round": 26,
   "season": 2026,
-  "last_checked": "2026-09-04T15:35:30.982839",
+  "last_checked": "2026-09-05T06:34:34.598906",
   "summary": {
     "correct": 1,
     "total_scored": 2,
     "total_games": 4,
     "accuracy": 50.0,
     "mae": 33.5,
-    "games_live": 0,
+    "games_live": 1,
     "games_completed": 2,
-    "games_upcoming": 2
+    "games_upcoming": 1
   },
   "games": [
     {
@@ -71,12 +71,12 @@
       "tier": 2,
       "tier_name": "Strong",
       "win_probability": 0.67,
-      "status": "upcoming",
-      "actual_home_score": null,
-      "actual_away_score": null,
-      "actual_winner": null,
-      "actual_margin": null,
-      "correct": null,
+      "status": "live",
+      "actual_home_score": 68,
+      "actual_away_score": 38,
+      "actual_winner": "Sydney",
+      "actual_margin": 30,
+      "correct": true,
       "margin_error": null
     },
     {
