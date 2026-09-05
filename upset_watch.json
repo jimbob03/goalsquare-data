@@ -1,12 +1,31 @@
 {
-  "round": 26,
-  "generated_at": "2026-09-04T13:16:02.239190",
-  "alert_count": 0,
-  "alerts": [],
+  "round": 27,
+  "generated_at": "2026-09-05T12:28:46.572269",
+  "alert_count": 1,
+  "alerts": [
+    {
+      "type": "FORTRESS_UPSET",
+      "category": "UPSET",
+      "tier": "MODERATE",
+      "game": "FRE vs GEE",
+      "venue": "Perth Stadium",
+      "our_tip": "GEE by 10",
+      "upset_call": "FRE LIVE at home",
+      "reason": "FRE ODELO +7.7 HIGH vs GEE ODELO -2.4 at Perth Stadium",
+      "history": "22W-5L",
+      "confidence_note": "FRE +20.4 HIGH - among strongest fortress effects in the comp",
+      "game_id": 38725,
+      "predicted_margin": 10,
+      "predicted_winner": "Geelong"
+    }
+  ],
   "content_pack": {
-    "headline": "Round 26: consensus round",
-    "tweet": null,
-    "email_section": null,
-    "video_hook": null
+    "headline": "Round 27 Upset Watch: FRE vs GEE \u2014 FRE LIVE at home",
+    "tweet": "Round 27 Pattern Alert\n\nFRE vs GEE: FRE LIVE at home\n\nWhy: FRE ODELO +7.7 HIGH vs GEE ODELO -2.4 at Perth Stadium\n\nConsensus: GEE by 10\nOur read: MODERATE confidence",
+    "email_section": "### 1. FRE vs GEE \u2014 FRE LIVE at home\n**Pattern:** FORTRESS_UPSET (MODERATE)\n**Why:** FRE ODELO +7.7 HIGH vs GEE ODELO -2.4 at Perth Stadium",
+    "video_hook": "Round 27 has one game I can't stop thinking about. FRE vs GEE at Perth Stadium. FRE LIVE at home.",
+    "all_alerts_short": [
+      "FRE vs GEE: FRE LIVE at home (FORTRESS_UPSET, MODERATE)"
+    ]
   }
 }

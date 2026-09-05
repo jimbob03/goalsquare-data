@@ -1,80 +1,32 @@
 {
-  "generated_at": "2026-09-04T13:16:02.761139",
-  "total_posts": 11,
+  "generated_at": "2026-09-05T12:28:47.170507",
+  "total_posts": 5,
   "posts": [
     {
       "type": "round_summary",
-      "content": "🏈 ROUND 26 PREDICTIONS\n\n📊 Season: 157/210 (74.8%)\n\n💪 FRE vs HAW — FRE by 22\n💪 GEE vs CAR — GEE by 20\n💪 SYD vs BRI — SYD by 12\n🔒 ADE vs WBD — ADE by 28\n\n💰 Value plays:\n  +EV: H2H FRE -- 16.6% edge | +EV: TOTAL OVER 162.5 -- 9.5pt edge (~65% hit)\n  +EV: H2H GEE -- 21.9% edge | +EV: LINE GEE -10.5 -- 9.5pt edge (~65% cover)\n  +EV: H2H SYD -- 41.0% edge | +EV: LINE SYD +23.5 -- 35.5pt edge (~80% cover)\n  +EV: H2H ADE -- 24.6% edge | +EV: TOTAL OVER 169.5 -- 10.5pt edge (~65% hit)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
+      "content": "🏈 ROUND 27 PREDICTIONS\n\n📊 Season: 158/211 (74.9%)\n\n🤔 FRE vs GEE — GEE by 10\n🔒 BRI vs ADE — BRI by 23\n\n💰 Value plays:\n  +EV: H2H GEE -- 25.6% edge | +EV: LINE GEE +8.5 -- 18.5pt edge (~75% cover)\n  +EV: H2H BRI -- 14.1% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
       "schedule": "wednesday_evening"
     },
     {
       "type": "ev_summary",
-      "content": "💰 ROUND 26 VALUE PLAYS\n\nWhere our model sees edge:\n\n📌 FRE vs HAW: +EV: H2H FRE -- 16.6% edge\n📌 FRE vs HAW: +EV: TOTAL OVER 162.5 -- 9.5pt edge (~65% hit)\n📌 GEE vs CAR: +EV: H2H GEE -- 21.9% edge\n📌 GEE vs CAR: +EV: LINE GEE -10.5 -- 9.5pt edge (~65% cover)\n📌 SYD vs BRI: +EV: H2H SYD -- 41.0% edge\n📌 SYD vs BRI: +EV: LINE SYD +23.5 -- 35.5pt edge (~80% cover)\n📌 ADE vs WBD: +EV: H2H ADE -- 24.6% edge\n📌 ADE vs WBD: +EV: TOTAL OVER 169.5 -- 10.5pt edge (~65% hit)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare",
+      "content": "💰 ROUND 27 VALUE PLAYS\n\nWhere our model sees edge:\n\n📌 FRE vs GEE: +EV: H2H GEE -- 25.6% edge\n📌 FRE vs GEE: +EV: LINE GEE +8.5 -- 18.5pt edge (~75% cover)\n📌 BRI vs ADE: +EV: H2H BRI -- 14.1% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare",
       "schedule": "thursday_morning"
     },
     {
       "type": "game_preview",
-      "game": "FRE vs HAW",
-      "content": "🏈 FRE vs HAW\n\n💪 Fremantle by 22 | 83% win prob\n📍 Perth Stadium | Thu 3 Sep 8:10pm AEST\n🏆 Tier 2 — Strong\n\n💰 +EV: H2H FRE -- 16.6% edge | +EV: TOTAL OVER 162.5 -- 9.5pt edge (~65% hit)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Fremantle #Hawthorn",
-      "schedule": "before_Thu"
-    },
-    {
-      "type": "game_preview",
-      "game": "GEE vs CAR",
-      "content": "🏈 GEE vs CAR\n\n💪 Geelong by 20 | 84% win prob\n📍 M.C.G. | Fri 4 Sep 7:40pm AEST\n🏆 Tier 2 — Strong\n\n💰 +EV: H2H GEE -- 21.9% edge | +EV: LINE GEE -10.5 -- 9.5pt edge (~65% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Geelong #Carlton",
+      "game": "FRE vs GEE",
+      "content": "🏈 FRE vs GEE\n\n🤔 Geelong by 10 | 64% win prob\n📍 Perth Stadium | Fri 11 Sep 8:10pm AEST\n🏆 Tier 3 — Lean\n\n💰 +EV: H2H GEE -- 25.6% edge | +EV: LINE GEE +8.5 -- 18.5pt edge (~75% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Fremantle #Geelong",
       "schedule": "before_Fri"
     },
     {
       "type": "game_preview",
-      "game": "SYD vs BRI",
-      "content": "🏈 SYD vs BRI\n\n💪 Sydney by 12 | 67% win prob\n📍 S.C.G. | Sat 5 Sep 3:15pm AEST\n🏆 Tier 2 — Strong\n\n💰 +EV: H2H SYD -- 41.0% edge | +EV: LINE SYD +23.5 -- 35.5pt edge (~80% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Sydney #BrisbaneLions",
+      "game": "BRI vs ADE",
+      "content": "🏈 BRI vs ADE\n\n🔒 Brisbane Lions by 23 | 84% win prob\n📍 Gabba | Sat 12 Sep 7:35pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H BRI -- 14.1% edge\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #BrisbaneLions #Adelaide",
       "schedule": "before_Sat"
-    },
-    {
-      "type": "game_preview",
-      "game": "ADE vs WBD",
-      "content": "🏈 ADE vs WBD\n\n🔒 Adelaide by 28 | 94% win prob\n📍 Adelaide Oval | Sat 5 Sep 7:35pm AEST\n🏆 Tier 1 — Lock\n\n💰 +EV: H2H ADE -- 24.6% edge | +EV: TOTAL OVER 169.5 -- 10.5pt edge (~65% hit)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Adelaide #WesternBulldogs",
-      "schedule": "before_Sat"
-    },
-    {
-      "type": "blog_preview",
-      "game": "FRE vs HAW",
-      "game_day": "Thu",
-      "blog_slug": "fremantle-vs-hawthorn-round-26-2026",
-      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r26-fre-vs-haw.png",
-      "content": "💪 FRE vs HAW — STRONG TIP\n\nFRE by 22 at Perth Stadium\n\nFull analysis → https://goalsquare.com.au/post/fremantle-vs-hawthorn-round-26-2026\n\n#AFL #AFLTips #GoalSquare #Fremantle #Hawthorn",
-      "schedule": "day_before_thu"
-    },
-    {
-      "type": "blog_preview",
-      "game": "GEE vs CAR",
-      "game_day": "Fri",
-      "blog_slug": "geelong-vs-carlton-round-26-2026",
-      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r26-gee-vs-car.png",
-      "content": "💪 GEE vs CAR — STRONG TIP\n\nGEE by 20 at M.C.G.\n\nFull analysis → https://goalsquare.com.au/post/geelong-vs-carlton-round-26-2026\n\n#AFL #AFLTips #GoalSquare #Geelong #Carlton",
-      "schedule": "day_before_fri"
-    },
-    {
-      "type": "blog_preview",
-      "game": "SYD vs BRI",
-      "game_day": "Sat",
-      "blog_slug": "sydney-vs-brisbane-round-26-2026",
-      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r26-syd-vs-bri.png",
-      "content": "💪 SYD vs BRI — STRONG TIP\n\nSYD by 12 at S.C.G.\n\nFull analysis → https://goalsquare.com.au/post/sydney-vs-brisbane-round-26-2026\n\n#AFL #AFLTips #GoalSquare #Sydney #BrisbaneLions",
-      "schedule": "day_before_sat"
-    },
-    {
-      "type": "blog_preview",
-      "game": "ADE vs WBD",
-      "game_day": "Sat",
-      "blog_slug": "adelaide-vs-western-bulldogs-round-26-2026",
-      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r26-ade-vs-wbd.png",
-      "content": "🔒 ADE vs WBD — OUR LOCK\n\nADE by 28 at Adelaide Oval\n\nFull analysis → https://goalsquare.com.au/post/adelaide-vs-western-bulldogs-round-26-2026\n\n#AFL #AFLTips #GoalSquare #Adelaide #WesternBulldogs",
-      "schedule": "day_before_sat"
     },
     {
       "type": "scorecard",
-      "content": "📊 ROUND 25 RESULTS\n\nWe went 2 from 2\n\n✅ WBD vs COL — tipped WBD by 4, got WBD by 3\n✅ MEL vs CAR — tipped CAR by 7, got CAR by 19\n\nSeason: 157/210 (74.8%)\nRound 25 avg margin error: 6.5pts\n\nRound 26 tips coming Thursday.\n\ngoalsquare.com.au\n#AFL #GoalSquare",
+      "content": "📊 ROUND 26 RESULTS\n\nWe went 3 from 4\n\n❌ FRE vs HAW — tipped FRE, HAW won by 32\n✅ GEE vs CAR — tipped GEE by 20, got GEE by 33\n✅ SYD vs BRI — tipped SYD by 12, got SYD by 53\n✅ ADE vs WBD — tipped ADE by 28, got ADE by 22\n\nSeason: 158/211 (74.9%)\nRound 26 avg margin error: 17.5pts\n\nRound 27 tips coming Thursday.\n\ngoalsquare.com.au\n#AFL #GoalSquare",
       "schedule": "after_last_game"
     }
   ]
