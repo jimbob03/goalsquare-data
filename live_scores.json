@@ -1,7 +1,7 @@
 {
   "round": 27,
   "season": 2026,
-  "last_checked": "2026-09-09T12:10:28.410150",
+  "last_checked": "2026-09-09T16:35:57.436778",
   "summary": {
     "correct": 0,
     "total_scored": 0,
@@ -21,9 +21,9 @@
       "away_code": "GEE",
       "venue": "Perth Stadium",
       "predicted_winner": "Geelong",
-      "predicted_margin": 6,
-      "predicted_home_score": 87,
-      "predicted_away_score": 93,
+      "predicted_margin": 5,
+      "predicted_home_score": 88,
+      "predicted_away_score": 92,
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.56,
