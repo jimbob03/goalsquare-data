@@ -3619,5 +3619,22 @@
     "correct": true,
     "margin_error": 6,
     "scored_at": "2026-09-05T16:17:26.289393"
+  },
+  {
+    "game_id": 38725,
+    "round": 27,
+    "season": 2026,
+    "home_team": "Fremantle",
+    "away_team": "Geelong",
+    "predicted_winner": "Geelong",
+    "predicted_margin": 4,
+    "predicted_tier": 3,
+    "actual_winner": "Fremantle",
+    "actual_margin": 14,
+    "actual_home_score": 120,
+    "actual_away_score": 106,
+    "correct": false,
+    "margin_error": 18,
+    "scored_at": "2026-09-11T17:18:11.514428"
   }
 ]
