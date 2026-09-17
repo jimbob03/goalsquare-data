@@ -1,28 +1,37 @@
 {
-  "generated_at": "2026-09-16T14:06:18.997586",
-  "total_posts": 5,
+  "generated_at": "2026-09-17T14:10:43.006020",
+  "total_posts": 6,
   "posts": [
     {
       "type": "round_summary",
-      "content": "🏈 ROUND 28 PREDICTIONS\n\n📊 Season: 161/215 (74.9%)\n\n💪 SYD vs FRE — SYD by 19\n🤔 HAW vs BRI — BRI by 8\n\n💰 Value plays:\n  +EV: H2H SYD -- 46.4% edge | +EV: LINE SYD +11.5 -- 30.5pt edge (~80% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
+      "content": "🏈 ROUND 28 PREDICTIONS\n\n📊 Season: 161/215 (74.9%)\n\n💪 SYD vs FRE — SYD by 20\n🤔 HAW vs BRI — BRI by 7\n\n💰 Value plays:\n  +EV: H2H SYD -- 43.8% edge | +EV: LINE SYD +10.5 -- 30.5pt edge (~80% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
       "schedule": "wednesday_evening"
     },
     {
       "type": "ev_summary",
-      "content": "💰 ROUND 28 VALUE PLAYS\n\nWhere our model sees edge:\n\n📌 SYD vs FRE: +EV: H2H SYD -- 46.4% edge\n📌 SYD vs FRE: +EV: LINE SYD +11.5 -- 30.5pt edge (~80% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare",
+      "content": "💰 ROUND 28 VALUE PLAYS\n\nWhere our model sees edge:\n\n📌 SYD vs FRE: +EV: H2H SYD -- 43.8% edge\n📌 SYD vs FRE: +EV: LINE SYD +10.5 -- 30.5pt edge (~80% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare",
       "schedule": "thursday_morning"
     },
     {
       "type": "game_preview",
       "game": "SYD vs FRE",
-      "content": "🏈 SYD vs FRE\n\n💪 Sydney by 19 | 83% win prob\n📍 S.C.G. | Fri 18 Sep 7:40pm AEST\n🏆 Tier 2 — Strong\n\n💰 +EV: H2H SYD -- 46.4% edge | +EV: LINE SYD +11.5 -- 30.5pt edge (~80% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Sydney #Fremantle",
+      "content": "🏈 SYD vs FRE\n\n💪 Sydney by 20 | 81% win prob\n📍 S.C.G. | Fri 18 Sep 7:40pm AEST\n🏆 Tier 2 — Strong\n\n💰 +EV: H2H SYD -- 43.8% edge | +EV: LINE SYD +10.5 -- 30.5pt edge (~80% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Sydney #Fremantle",
       "schedule": "before_Fri"
     },
     {
       "type": "game_preview",
       "game": "HAW vs BRI",
-      "content": "🏈 HAW vs BRI\n\n🤔 Brisbane Lions by 8 | 60% win prob\n📍 M.C.G. | Sat 19 Sep 5:15pm AEST\n🏆 Tier 3 — Lean\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Hawthorn #BrisbaneLions",
+      "content": "🏈 HAW vs BRI\n\n🤔 Brisbane Lions by 7 | 60% win prob\n📍 M.C.G. | Sat 19 Sep 5:15pm AEST\n🏆 Tier 3 — Lean\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Hawthorn #BrisbaneLions",
       "schedule": "before_Sat"
+    },
+    {
+      "type": "blog_preview",
+      "game": "SYD vs FRE",
+      "game_day": "Fri",
+      "blog_slug": "sydney-vs-fremantle-round-28-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r28-syd-vs-fre.png",
+      "content": "💪 SYD vs FRE — STRONG TIP\n\nSYD by 20 at S.C.G.\n\nFull analysis → https://goalsquare.com.au/post/sydney-vs-fremantle-round-28-2026\n\n#AFL #AFLTips #GoalSquare #Sydney #Fremantle",
+      "schedule": "day_before_fri"
     },
     {
       "type": "scorecard",
