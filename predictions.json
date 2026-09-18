@@ -2,8 +2,8 @@
   "model_version": "5.2",
   "round": 28,
   "season": 2026,
-  "generated_at": "2026-09-17T14:10:42.348946",
-  "last_updated": "2026-09-17T14:10:42.348951",
+  "generated_at": "2026-09-18T13:29:25.593983",
+  "last_updated": "2026-09-18T13:29:25.593990",
   "data_sources": {
     "squiggle": true,
     "squiggle_weighted": true,
@@ -40,9 +40,9 @@
       "venue": "S.C.G.",
       "match_time": "Fri 18 Sep 7:40pm AEST",
       "ev_recommendation": "+EV: H2H SYD @ $2.68 -- 43.8% edge | +EV: LINE SYD +10.5 @ $1.90 -- 30.5pt edge (~80% cover)",
-      "key_factors": "Squiggle base: HOME by 8.7pts (1% agreement) | Rule 49: form gap +67.5 \u2192 +20pts toward home | Rule 51 HOT FORM T1: home +8pts | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +31 home / +3 away = net +28 (cap 12) \u2192 applied +12 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong | Rule 58 home xChain 89.9 >= 81.4 \u2192 tier upgraded to Lock PATTERN MATCH: score -94 (Strong Flagged) \u2014 1 supportive, 0 contrarian, 48 cautionary matches from 49 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
-      "summary": "Sydney predicted to win by 21 points. Squiggle consensus 9pts, power rank gap 2pts.",
-      "tldr": "Home by 21pts. Squiggle base 9. Power gap 2pts.",
+      "key_factors": "Squiggle base: HOME by 7.6pts (1% agreement) | Rule 49: form gap +43.2 \u2192 +15pts toward home | Rule 51 HOT FORM T2: home +5pts | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +23 home / +3 away = net +20 (cap 12) \u2192 applied +12 | Rule 50.5 CONSENSUS_LAG: tier downgraded to Strong | Rule 58 home xChain 89.9 >= 81.4 \u2192 tier upgraded to Lock",
+      "summary": "Sydney predicted to win by 20 points. Squiggle consensus 8pts, power rank gap 2pts.",
+      "tldr": "Home by 20pts. Squiggle base 8. Power gap 2pts.",
       "injury_impact": "",
       "scenarios": [],
       "pattern_observations": [],
@@ -52,8 +52,9 @@
       "recent_margins_home": [],
       "recent_margins_away": [],
       "blowout_risk": false,
-      "locked": false,
-      "bookie_total": 190.5
+      "locked": true,
+      "bookie_total": 190.5,
+      "locked_at": "2026-09-18T09:40:00+00:00"
     },
     {
       "game_id": 38727,
@@ -63,7 +64,7 @@
       "away_code": "BRI",
       "predicted_winner": "Brisbane Lions",
       "predicted_margin": 7,
-      "home_score": 91,
+      "home_score": 92,
       "away_score": 98,
       "win_probability": 0.6,
       "tier": 3,
@@ -71,7 +72,7 @@
       "venue": "M.C.G.",
       "match_time": "Sat 19 Sep 5:15pm AEST",
       "ev_recommendation": "",
-      "key_factors": "Squiggle base: HOME by 4.3pts (1% agreement) | Rule 49: form gap -19.5 \u2192 +8pts toward away | Rule 51 HOT FORM T2: away +5pts | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +3 home / +16 away = net -13 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 43.0): \u00d70.90 | Rule 58 home xChain 86.4 >= 81.4 \u2192 tier upgraded to Strong | Rule 63 AWAY METRICS DAMPENER (4 signals) \u2192 Tier 3 PATTERN MATCH: score -94 (Strong Flagged) \u2014 0 supportive, 1 contrarian, 46 cautionary matches from 47 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
+      "key_factors": "Squiggle base: HOME by 4.3pts (1% agreement) | Rule 49: form gap -19.5 \u2192 +8pts toward away | Rule 51 HOT FORM T2: away +5pts | Schedule home QUALITY_WINS \u2192 +3pts | Schedule away QUALITY_WINS \u2192 +3pts | Budget: +3 home / +16 away = net -13 (cap 12) \u2192 applied -12 | Rule 42 dampener applied (loser stdev 43.0): \u00d70.90 | Rule 58 home xChain 86.4 >= 81.4 \u2192 tier upgraded to Strong | Rule 63 AWAY METRICS DAMPENER (4 signals) \u2192 Tier 3 PATTERN MATCH: score -96 (Strong Flagged) \u2014 0 supportive, 1 contrarian, 47 cautionary matches from 48 CONFIRMED/ROBUST patterns. See PATTERN_MATCHES.md for detail.",
       "summary": "Brisbane Lions predicted to win by 7 points. Squiggle consensus 4pts, power rank gap 0pts.",
       "tldr": "Away by 7pts. Squiggle base 4. Power gap 0pts.",
       "injury_impact": "",
@@ -84,7 +85,7 @@
       "recent_margins_away": [],
       "blowout_risk": false,
       "locked": false,
-      "bookie_total": 189.5
+      "bookie_total": 191.5
     }
   ],
   "season_record": {
