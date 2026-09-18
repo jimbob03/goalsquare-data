@@ -3653,5 +3653,22 @@
     "correct": true,
     "margin_error": 29,
     "scored_at": "2026-09-12T16:31:34.800960"
+  },
+  {
+    "game_id": 38728,
+    "round": 28,
+    "season": 2026,
+    "home_team": "Sydney",
+    "away_team": "Fremantle",
+    "predicted_winner": "Sydney",
+    "predicted_margin": 20,
+    "predicted_tier": 2,
+    "actual_winner": "Fremantle",
+    "actual_margin": 12,
+    "actual_home_score": 71,
+    "actual_away_score": 83,
+    "correct": false,
+    "margin_error": 32,
+    "scored_at": "2026-09-18T17:15:53.424399"
   }
 ]
