@@ -3670,5 +3670,22 @@
     "correct": false,
     "margin_error": 32,
     "scored_at": "2026-09-18T17:15:53.424399"
+  },
+  {
+    "game_id": 38727,
+    "round": 28,
+    "season": 2026,
+    "home_team": "Hawthorn",
+    "away_team": "Brisbane Lions",
+    "predicted_winner": "Brisbane Lions",
+    "predicted_margin": 7,
+    "predicted_tier": 3,
+    "actual_winner": "Brisbane Lions",
+    "actual_margin": 9,
+    "actual_home_score": 122,
+    "actual_away_score": 131,
+    "correct": true,
+    "margin_error": 2,
+    "scored_at": "2026-09-19T16:49:34.841574"
   }
 ]
