@@ -1,32 +1,21 @@
 {
-  "generated_at": "2026-09-19T12:58:19.660464",
-  "total_posts": 5,
+  "generated_at": "2026-09-20T13:30:20.368870",
+  "total_posts": 3,
   "posts": [
     {
       "type": "round_summary",
-      "content": "🏈 ROUND 29 PREDICTIONS\n\n📊 Season: 161/216 (74.5%)\n\n🤔 FRE vs BRI — BRI by 19\n🔒 BRI vs FRE — BRI by 18\n\n💰 Value plays:\n  +EV: LINE BRI -8.5 -- 10.5pt edge (~70% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
+      "content": "🏈 ROUND 29 PREDICTIONS\n\n📊 Season: 162/217 (74.7%)\n\n🪙 FRE vs BRI — FRE by 2\n\ngoalsquare.com.au\n\n#AFL #AFLTips #AFLPredictions #GoalSquare",
       "schedule": "wednesday_evening"
-    },
-    {
-      "type": "ev_summary",
-      "content": "💰 ROUND 29 VALUE PLAYS\n\nWhere our model sees edge:\n\n📌 FRE vs BRI: +EV: LINE BRI -8.5 -- 10.5pt edge (~70% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare",
-      "schedule": "thursday_morning"
     },
     {
       "type": "game_preview",
       "game": "FRE vs BRI",
-      "content": "🏈 FRE vs BRI\n\n🤔 Brisbane Lions by 19 | 64% win prob\n📍 M.C.G. | Sat 26 Sep 2:30pm AEST\n🏆 Tier 3 — Lean\n\n💰 +EV: LINE BRI -8.5 -- 10.5pt edge (~70% cover)\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Fremantle #BrisbaneLions",
-      "schedule": "before_Sat"
-    },
-    {
-      "type": "game_preview",
-      "game": "BRI vs FRE",
-      "content": "🏈 BRI vs FRE\n\n🔒 Brisbane Lions by 18 | 77% win prob\n📍 M.C.G. | Sat 26 Sep 7:20pm AEST\n🏆 Tier 1 — Lock\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #BrisbaneLions #Fremantle",
+      "content": "🏈 FRE vs BRI\n\n🪙 Fremantle by 2 | 52% win prob\n📍 M.C.G. | Sat 26 Sep 2:30pm AEST\n🏆 Tier 4 — Coin Flip\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Fremantle #BrisbaneLions",
       "schedule": "before_Sat"
     },
     {
       "type": "scorecard",
-      "content": "📊 ROUND 28 RESULTS\n\nWe went 1 from 2\n\n❌ SYD vs FRE — tipped SYD, FRE won by 12\n✅ HAW vs BRI — tipped BRI by 7, got BRI by 9\n\nSeason: 161/216 (74.5%)\nRound 28 avg margin error: 5.0pts\n\nRound 29 tips coming Thursday.\n\ngoalsquare.com.au\n#AFL #GoalSquare",
+      "content": "📊 ROUND 28 RESULTS\n\nWe went 1 from 2\n\n❌ SYD vs FRE — tipped SYD, FRE won by 12\n✅ HAW vs BRI — tipped BRI by 7, got BRI by 9\n\nSeason: 162/217 (74.7%)\nRound 28 avg margin error: 5.0pts\n\nRound 29 tips coming Thursday.\n\ngoalsquare.com.au\n#AFL #GoalSquare",
       "schedule": "after_last_game"
     }
   ]
