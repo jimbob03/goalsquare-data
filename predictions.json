@@ -2,8 +2,8 @@
   "model_version": "5.2",
   "round": 29,
   "season": 2026,
-  "generated_at": "2026-09-21T15:44:56.599976",
-  "last_updated": "2026-09-21T15:44:56.599981",
+  "generated_at": "2026-09-23T14:08:03.468140",
+  "last_updated": "2026-09-23T14:08:03.468144",
   "data_sources": {
     "squiggle": true,
     "squiggle_weighted": true,
@@ -31,9 +31,9 @@
       "home_code": "FRE",
       "away_code": "BRI",
       "predicted_winner": "Brisbane Lions",
-      "predicted_margin": 6,
-      "home_score": 93,
-      "away_score": 99,
+      "predicted_margin": 9,
+      "home_score": 92,
+      "away_score": 100,
       "win_probability": 0.64,
       "tier": 3,
       "tier_name": "Lean",
@@ -53,7 +53,7 @@
       "recent_margins_away": [],
       "blowout_risk": false,
       "locked": false,
-      "bookie_total": 189.5
+      "bookie_total": 190.5
     }
   ],
   "season_record": {
