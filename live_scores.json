@@ -1,7 +1,7 @@
 {
   "round": 29,
   "season": 2026,
-  "last_checked": "2026-09-24T12:42:22.989269",
+  "last_checked": "2026-09-24T17:33:10.562250",
   "summary": {
     "correct": 0,
     "total_scored": 0,
@@ -21,9 +21,9 @@
       "away_code": "BRI",
       "venue": "M.C.G.",
       "predicted_winner": "Brisbane Lions",
-      "predicted_margin": 9,
-      "predicted_home_score": 92,
-      "predicted_away_score": 100,
+      "predicted_margin": 14,
+      "predicted_home_score": 87,
+      "predicted_away_score": 101,
       "tier": 3,
       "tier_name": "Lean",
       "win_probability": 0.64,
