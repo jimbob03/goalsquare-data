@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T14:05:58.953983",
-  "total_posts": 3,
+  "generated_at": "2026-09-25T14:29:01.647712",
+  "total_posts": 4,
   "posts": [
     {
       "type": "round_summary",
@@ -12,6 +12,15 @@
       "game": "FRE vs BRI",
       "content": "🏈 FRE vs BRI\n\n🤔 Brisbane Lions by 14 | 64% win prob\n📍 M.C.G. | Sat 26 Sep 2:30pm AEST\n🏆 Tier 3 — Lean\n\ngoalsquare.com.au\n\n#AFL #AFLTips #GoalSquare #Fremantle #BrisbaneLions",
       "schedule": "before_Sat"
+    },
+    {
+      "type": "blog_preview",
+      "game": "FRE vs BRI",
+      "game_day": "Sat",
+      "blog_slug": "fremantle-vs-brisbane-round-29-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r29-fre-vs-bri.png",
+      "content": "🤔 FRE vs BRI — WHAT WE'RE LOOKING AT\n\nBRI by 14 at M.C.G.\n\nFull analysis → https://goalsquare.com.au/post/fremantle-vs-brisbane-round-29-2026\n\n#AFL #AFLTips #GoalSquare #Fremantle #BrisbaneLions",
+      "schedule": "day_before_sat"
     },
     {
       "type": "scorecard",
