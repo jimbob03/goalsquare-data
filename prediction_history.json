@@ -3687,5 +3687,22 @@
     "correct": true,
     "margin_error": 2,
     "scored_at": "2026-09-19T16:49:34.841574"
+  },
+  {
+    "game_id": 38729,
+    "round": 29,
+    "season": 2026,
+    "home_team": "Fremantle",
+    "away_team": "Brisbane Lions",
+    "predicted_winner": "Brisbane Lions",
+    "predicted_margin": 14,
+    "predicted_tier": 3,
+    "actual_winner": "Brisbane Lions",
+    "actual_margin": 7,
+    "actual_home_score": 89,
+    "actual_away_score": 96,
+    "correct": true,
+    "margin_error": 7,
+    "scored_at": "2026-09-26T17:23:56.164774"
   }
 ]
