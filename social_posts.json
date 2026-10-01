@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T15:43:55.240235",
-  "total_posts": 12,
+  "generated_at": "2026-10-01T16:07:31.000609",
+  "total_posts": 13,
   "posts": [
     {
       "type": "round_summary",
@@ -69,6 +69,15 @@
       "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r1-car-vs-ric.png",
       "content": "🔒 CAR vs RIC — OUR LOCK\n\nCAR by 31 at M.C.G.\n\nFull analysis → https://goalsquare.com.au/post/carlton-vs-richmond-round-1-2026\n\n#AFL #AFLTips #GoalSquare #Carlton #Richmond",
       "schedule": "day_before_thu"
+    },
+    {
+      "type": "blog_preview",
+      "game": "ESS vs HAW",
+      "game_day": "Fri",
+      "blog_slug": "essendon-vs-hawthorn-round-1-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r1-ess-vs-haw.png",
+      "content": "💪 ESS vs HAW — STRONG TIP\n\nHAW by 46 at M.C.G.\n\nFull analysis → https://goalsquare.com.au/post/essendon-vs-hawthorn-round-1-2026\n\n#AFL #AFLTips #GoalSquare #Essendon #Hawthorn",
+      "schedule": "day_before_fri"
     },
     {
       "type": "scorecard",
