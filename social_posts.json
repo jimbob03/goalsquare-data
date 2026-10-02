@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T16:07:31.000609",
-  "total_posts": 13,
+  "generated_at": "2026-10-02T15:30:56.767745",
+  "total_posts": 17,
   "posts": [
     {
       "type": "round_summary",
@@ -78,6 +78,42 @@
       "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r1-ess-vs-haw.png",
       "content": "💪 ESS vs HAW — STRONG TIP\n\nHAW by 46 at M.C.G.\n\nFull analysis → https://goalsquare.com.au/post/essendon-vs-hawthorn-round-1-2026\n\n#AFL #AFLTips #GoalSquare #Essendon #Hawthorn",
       "schedule": "day_before_fri"
+    },
+    {
+      "type": "blog_preview",
+      "game": "WBD vs GWS",
+      "game_day": "Sat",
+      "blog_slug": "western-bulldogs-vs-gws-giants-round-1-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r1-wbd-vs-gws.png",
+      "content": "💪 WBD vs GWS — STRONG TIP\n\nWBD by 28 at Docklands\n\nFull analysis → https://goalsquare.com.au/post/western-bulldogs-vs-gws-giants-round-1-2026\n\n#AFL #AFLTips #GoalSquare #WesternBulldogs #GWS",
+      "schedule": "day_before_sat"
+    },
+    {
+      "type": "blog_preview",
+      "game": "GEE vs FRE",
+      "game_day": "Sat",
+      "blog_slug": "geelong-vs-fremantle-round-1-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r1-gee-vs-fre.png",
+      "content": "🔒 GEE vs FRE — OUR LOCK\n\nGEE by 33 at Kardinia Park\n\nFull analysis → https://goalsquare.com.au/post/geelong-vs-fremantle-round-1-2026\n\n#AFL #AFLTips #GoalSquare #Geelong #Fremantle",
+      "schedule": "day_before_sat"
+    },
+    {
+      "type": "blog_preview",
+      "game": "SYD vs BRI",
+      "game_day": "Sat",
+      "blog_slug": "sydney-vs-brisbane-round-1-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r1-syd-vs-bri.png",
+      "content": "🔒 SYD vs BRI — OUR LOCK\n\nSYD by 10 at S.C.G.\n\nFull analysis → https://goalsquare.com.au/post/sydney-vs-brisbane-round-1-2026\n\n#AFL #AFLTips #GoalSquare #Sydney #BrisbaneLions",
+      "schedule": "day_before_sat"
+    },
+    {
+      "type": "blog_preview",
+      "game": "COL vs ADE",
+      "game_day": "Sat",
+      "blog_slug": "collingwood-vs-adelaide-round-1-2026",
+      "image_url": "https://raw.githubusercontent.com/jimbob03/goalsquare-data/main/blog_covers/r1-col-vs-ade.png",
+      "content": "💪 COL vs ADE — STRONG TIP\n\nCOL by 12 at M.C.G.\n\nFull analysis → https://goalsquare.com.au/post/collingwood-vs-adelaide-round-1-2026\n\n#AFL #AFLTips #GoalSquare #Collingwood #Adelaide",
+      "schedule": "day_before_sat"
     },
     {
       "type": "scorecard",
